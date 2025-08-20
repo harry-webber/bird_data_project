@@ -1,0 +1,4863 @@
+year,species_code,English_name,total_obs
+1994,AC,Parasitic Jaeger,30.0
+1994,AE,Arctic Tern,30.0
+1994,B.,Common Blackbird,23865.0
+1994,BA,Bar-tailed Godwit,1.0
+1994,BC,Eurasian Blackcap,2614.0
+1994,BF,Eurasian Bullfinch,908.0
+1994,BG,Brant Goose,12.0
+1994,BH,Black-headed Gull,10668.0
+1994,BT,Eurasian Blue Tit,14868.0
+1994,BY,Barnacle Goose,25.0
+1994,BZ,Common Buzzard,701.0
+1994,C.,Carrion Crow,17519.0
+1994,CA,Great Cormorant,247.0
+1994,CB,Corn Bunting,685.0
+1994,CC,Common Chiffchaff,2961.0
+1994,CD,Eurasian Collared Dove,4790.0
+1994,CG,Canada Goose,1367.0
+1994,CH,Eurasian Chaffinch,22302.0
+1994,CI,Crested Tit,23.0
+1994,CK,Common Cuckoo,1368.0
+1994,CM,Common Gull,1049.0
+1994,CN,Common Tern,113.0
+1994,CO,Eurasian Coot,736.0
+1994,CR,Red Crossbill,339.0
+1994,CS,Common Sandpiper,155.0
+1994,CT,Coal Tit,1775.0
+1994,CU,Eurasian Curlew,2469.0
+1994,D.,Dunnock,5977.0
+1994,DI,White-throated Dipper,48.0
+1994,DV,Rock Dove,35.0
+1994,DW,Dartford Warbler,25.0
+1994,EG,Egyptian Goose,2.0
+1994,ET,Little Egret,4.0
+1994,F.,Northern Fulmar,133.0
+1994,FP,Feral Pigeon,7343.0
+1994,G.,European Green Woodpecker,720.0
+1994,GA,Gadwall,46.0
+1994,GB,Great Black-backed Gull,453.0
+1994,GC,Goldcrest,1500.0
+1994,GD,Common Merganser,38.0
+1994,GF,Golden Pheasant,1.0
+1994,GG,Great Crested Grebe,183.0
+1994,GH,Common Grasshopper Warbler,68.0
+1994,GJ,Greylag Goose,469.0
+1994,GL,Grey Wagtail,188.0
+1994,GO,European Goldfinch,3726.0
+1994,GP,European Golden Plover,814.0
+1994,GR,European Greenfinch,7409.0
+1994,GS,Great Spotted Woodpecker,731.0
+1994,GT,Great Tit,6920.0
+1994,GW,Garden Warbler,580.0
+1994,GX,Northern Gannet,24.0
+1994,H.,Grey Heron,656.0
+1994,HC,Hooded Crow,343.0
+1994,HG,European Herring Gull,4216.0
+1994,HM,Western House Martin,4233.0
+1994,HS,House Sparrow,25987.0
+1994,J.,Eurasian Jay,976.0
+1994,JD,Western Jackdaw,12161.0
+1994,K.,Common Kestrel,671.0
+1994,KF,Common Kingfisher,36.0
+1994,KI,Black-legged Kittiwake,7.0
+1994,L.,Northern Lapwing,3888.0
+1994,LB,Lesser Black-backed Gull,2357.0
+1994,LG,Little Grebe,89.0
+1994,LI,Common Linnet,6482.0
+1994,LO,Little Owl,83.0
+1994,LR,Lesser Redpoll,399.0
+1994,LS,Lesser Spotted Woodpecker,33.0
+1994,LT,Long-tailed Tit,1753.0
+1994,LU,Little Gull,1.0
+1994,LW,Lesser Whitethroat,363.0
+1994,M.,Mistle Thrush,2177.0
+1994,MA,Mallard,4787.0
+1994,MG,Eurasian Magpie,7419.0
+1994,MH,Common Moorhen,1002.0
+1994,MN,Mandarin Duck,9.0
+1994,MP,Meadow Pipit,10008.0
+1994,MS,Mute Swan,791.0
+1994,MT,Marsh Tit,190.0
+1994,N.,Common Nightingale,55.0
+1994,ND,Common Loon,1.0
+1994,NH,Eurasian Nuthatch,468.0
+1994,NS,European Serin,1.0
+1994,NX,Great Skua,21.0
+1994,OC,Eurasian Oystercatcher,1937.0
+1994,P.,Grey Partridge,544.0
+1994,PF,European Pied Flycatcher,108.0
+1994,PG,Pink-footed Goose,77.0
+1994,PH,Common Pheasant,5795.0
+1994,PM,Rock Ptarmigan,3.0
+1994,PW,White Wagtail,1686.0
+1994,PX,Indian Peafowl,5.0
+1994,R.,European Robin,12862.0
+1994,RB,Common Reed Bunting,905.0
+1994,RC,European Rock Pipit,56.0
+1994,RG,Willow Ptarmigan,533.0
+1994,RI,Rose-ringed Parakeet,31.0
+1994,RK,Common Redshank,354.0
+1994,RL,Red-legged Partridge,1033.0
+1994,RM,Red-breasted Merganser,14.0
+1994,RN,Northern Raven,309.0
+1994,RO,Rook,24425.0
+1994,RP,Common Ringed Plover,113.0
+1994,RT,Common Redstart,318.0
+1994,RW,Common Reed Warbler,318.0
+1994,RY,Ruddy Duck,14.0
+1994,RZ,Ring Ouzel,53.0
+1994,S.,Eurasian Skylark,13067.0
+1994,SA,European Shag,110.0
+1994,SC,European Stonechat,115.0
+1994,SD,Stock Dove,1802.0
+1994,SF,Spotted Flycatcher,276.0
+1994,SG,Common Starling,45501.0
+1994,SH,Eurasian Sparrowhawk,271.0
+1994,SI,Common Swift,7779.0
+1994,SJ,Snow Goose,1.0
+1994,SK,Eurasian Siskin,477.0
+1994,SL,Barn Swallow,9010.0
+1994,SM,Sand Martin,607.0
+1994,SN,Common Snipe,245.0
+1994,ST,Song Thrush,5002.0
+1994,SU,Common Shelduck,931.0
+1994,SW,Sedge Warbler,679.0
+1994,T.,Eurasian Teal,39.0
+1994,TC,Eurasian Treecreeper,395.0
+1994,TD,European Turtle Dove,397.0
+1994,TE,Sandwich Tern,7.0
+1994,TO,Tawny Owl,65.0
+1994,TP,Tree Pipit,344.0
+1994,TS,Eurasian Tree Sparrow,462.0
+1994,TT,Ruddy Turnstone,27.0
+1994,TU,Tufted Duck,612.0
+1994,W.,Northern Wheatear,621.0
+1994,WA,Water Rail,3.0
+1994,WC,Whinchat,214.0
+1994,WH,Common Whitethroat,2790.0
+1994,WK,Eurasian Woodcock,7.0
+1994,WL,Woodlark,19.0
+1994,WO,Wood Warbler,160.0
+1994,WP,Common Wood Pigeon,42343.0
+1994,WR,Eurasian Wren,18949.0
+1994,WT,Willow Tit,134.0
+1994,WW,Willow Warbler,6375.0
+1994,Y.,Yellowhammer,5586.0
+1994,YW,Western Yellow Wagtail,491.0
+1995,AC,Parasitic Jaeger,38.0
+1995,AE,Arctic Tern,126.0
+1995,B.,Common Blackbird,26053.0
+1995,BA,Bar-tailed Godwit,23.0
+1995,BC,Eurasian Blackcap,2997.0
+1995,BF,Eurasian Bullfinch,768.0
+1995,BG,Brant Goose,15.0
+1995,BH,Black-headed Gull,4846.0
+1995,BJ,Black Tern,2.0
+1995,BT,Eurasian Blue Tit,17108.0
+1995,BY,Barnacle Goose,12.0
+1995,BZ,Common Buzzard,783.0
+1995,C.,Carrion Crow,20215.0
+1995,CA,Great Cormorant,317.0
+1995,CB,Corn Bunting,716.0
+1995,CC,Common Chiffchaff,3513.0
+1995,CD,Eurasian Collared Dove,5657.0
+1995,CG,Canada Goose,1933.0
+1995,CH,Eurasian Chaffinch,24752.0
+1995,CK,Common Cuckoo,1467.0
+1995,CM,Common Gull,1229.0
+1995,CN,Common Tern,165.0
+1995,CO,Eurasian Coot,1093.0
+1995,CR,Red Crossbill,69.0
+1995,CS,Common Sandpiper,156.0
+1995,CT,Coal Tit,1961.0
+1995,CU,Eurasian Curlew,2672.0
+1995,CY,Scottish Crossbill,8.0
+1995,D.,Dunnock,6854.0
+1995,DI,White-throated Dipper,58.0
+1995,DR,Spotted Redshank,2.0
+1995,DV,Rock Dove,29.0
+1995,DW,Dartford Warbler,7.0
+1995,EG,Egyptian Goose,12.0
+1995,ET,Little Egret,3.0
+1995,F.,Northern Fulmar,234.0
+1995,FP,Feral Pigeon,9297.0
+1995,G.,European Green Woodpecker,786.0
+1995,GA,Gadwall,86.0
+1995,GB,Great Black-backed Gull,206.0
+1995,GC,Goldcrest,2232.0
+1995,GD,Common Merganser,93.0
+1995,GF,Golden Pheasant,6.0
+1995,GG,Great Crested Grebe,237.0
+1995,GH,Common Grasshopper Warbler,76.0
+1995,GJ,Greylag Goose,827.0
+1995,GL,Grey Wagtail,258.0
+1995,GO,European Goldfinch,4074.0
+1995,GP,European Golden Plover,509.0
+1995,GR,European Greenfinch,8670.0
+1995,GS,Great Spotted Woodpecker,840.0
+1995,GT,Great Tit,7848.0
+1995,GV,Grey Plover,6.0
+1995,GW,Garden Warbler,642.0
+1995,GX,Northern Gannet,56.0
+1995,H.,Grey Heron,877.0
+1995,HC,Hooded Crow,307.0
+1995,HD,Bar-headed Goose,1.0
+1995,HG,European Herring Gull,4689.0
+1995,HM,Western House Martin,5457.0
+1995,HS,House Sparrow,30033.0
+1995,J.,Eurasian Jay,858.0
+1995,JD,Western Jackdaw,14559.0
+1995,K.,Common Kestrel,638.0
+1995,KF,Common Kingfisher,51.0
+1995,KI,Black-legged Kittiwake,2.0
+1995,L.,Northern Lapwing,4997.0
+1995,LB,Lesser Black-backed Gull,2631.0
+1995,LG,Little Grebe,101.0
+1995,LI,Common Linnet,7768.0
+1995,LO,Little Owl,89.0
+1995,LR,Lesser Redpoll,396.0
+1995,LS,Lesser Spotted Woodpecker,26.0
+1995,LT,Long-tailed Tit,2171.0
+1995,LU,Little Gull,1.0
+1995,LW,Lesser Whitethroat,324.0
+1995,M.,Mistle Thrush,2335.0
+1995,MA,Mallard,5851.0
+1995,MG,Eurasian Magpie,8587.0
+1995,MH,Common Moorhen,1300.0
+1995,MN,Mandarin Duck,20.0
+1995,MP,Meadow Pipit,11363.0
+1995,MS,Mute Swan,1771.0
+1995,MT,Marsh Tit,240.0
+1995,N.,Common Nightingale,47.0
+1995,NH,Eurasian Nuthatch,534.0
+1995,NX,Great Skua,18.0
+1995,OC,Eurasian Oystercatcher,1766.0
+1995,P.,Grey Partridge,610.0
+1995,PF,European Pied Flycatcher,107.0
+1995,PG,Pink-footed Goose,294.0
+1995,PH,Common Pheasant,6748.0
+1995,PM,Rock Ptarmigan,3.0
+1995,PW,White Wagtail,2341.0
+1995,PX,Indian Peafowl,1.0
+1995,R.,European Robin,15162.0
+1995,RB,Common Reed Bunting,1007.0
+1995,RC,European Rock Pipit,48.0
+1995,RG,Willow Ptarmigan,529.0
+1995,RI,Rose-ringed Parakeet,26.0
+1995,RK,Common Redshank,388.0
+1995,RL,Red-legged Partridge,1343.0
+1995,RM,Red-breasted Merganser,18.0
+1995,RN,Northern Raven,393.0
+1995,RO,Rook,27784.0
+1995,RP,Common Ringed Plover,110.0
+1995,RQ,Red-crested Pochard,1.0
+1995,RT,Common Redstart,395.0
+1995,RW,Common Reed Warbler,374.0
+1995,RY,Ruddy Duck,41.0
+1995,RZ,Ring Ouzel,76.0
+1995,S.,Eurasian Skylark,14969.0
+1995,SA,European Shag,205.0
+1995,SC,European Stonechat,180.0
+1995,SD,Stock Dove,2047.0
+1995,SF,Spotted Flycatcher,262.0
+1995,SG,Common Starling,52412.0
+1995,SH,Eurasian Sparrowhawk,256.0
+1995,SI,Common Swift,8413.0
+1995,SK,Eurasian Siskin,454.0
+1995,SL,Barn Swallow,8553.0
+1995,SM,Sand Martin,698.0
+1995,SN,Common Snipe,334.0
+1995,SR,Great Grey Shrike,1.0
+1995,SS,Sanderling,4.0
+1995,ST,Song Thrush,5506.0
+1995,SU,Common Shelduck,961.0
+1995,SW,Sedge Warbler,899.0
+1995,T.,Eurasian Teal,62.0
+1995,TC,Eurasian Treecreeper,401.0
+1995,TD,European Turtle Dove,500.0
+1995,TE,Sandwich Tern,23.0
+1995,TO,Tawny Owl,69.0
+1995,TP,Tree Pipit,365.0
+1995,TS,Eurasian Tree Sparrow,531.0
+1995,TT,Ruddy Turnstone,37.0
+1995,TU,Tufted Duck,793.0
+1995,W.,Northern Wheatear,819.0
+1995,WA,Water Rail,3.0
+1995,WC,Whinchat,261.0
+1995,WH,Common Whitethroat,3640.0
+1995,WK,Eurasian Woodcock,15.0
+1995,WL,Woodlark,13.0
+1995,WO,Wood Warbler,139.0
+1995,WP,Common Wood Pigeon,44098.0
+1995,WR,Eurasian Wren,23561.0
+1995,WT,Willow Tit,103.0
+1995,WW,Willow Warbler,7801.0
+1995,Y.,Yellowhammer,5728.0
+1995,YW,Western Yellow Wagtail,665.0
+1996,AC,Parasitic Jaeger,52.0
+1996,AE,Arctic Tern,18.0
+1996,AS,Black Swan,4.0
+1996,AX,Alexandrine Parakeet,1.0
+1996,B.,Common Blackbird,29855.0
+1996,BA,Bar-tailed Godwit,2.0
+1996,BC,Eurasian Blackcap,3121.0
+1996,BF,Eurasian Bullfinch,1188.0
+1996,BG,Brant Goose,158.0
+1996,BH,Black-headed Gull,4982.0
+1996,BJ,Black Tern,2.0
+1996,BT,Eurasian Blue Tit,20860.0
+1996,BY,Barnacle Goose,17.0
+1996,BZ,Common Buzzard,913.0
+1996,C.,Carrion Crow,22550.0
+1996,CA,Great Cormorant,326.0
+1996,CB,Corn Bunting,681.0
+1996,CC,Common Chiffchaff,3791.0
+1996,CD,Eurasian Collared Dove,6687.0
+1996,CG,Canada Goose,2167.0
+1996,CH,Eurasian Chaffinch,29984.0
+1996,CI,Crested Tit,5.0
+1996,CK,Common Cuckoo,1678.0
+1996,CM,Common Gull,2721.0
+1996,CN,Common Tern,158.0
+1996,CO,Eurasian Coot,1171.0
+1996,CR,Red Crossbill,300.0
+1996,CS,Common Sandpiper,200.0
+1996,CT,Coal Tit,2468.0
+1996,CU,Eurasian Curlew,2919.0
+1996,CY,Scottish Crossbill,2.0
+1996,D.,Dunnock,7385.0
+1996,DC,Wood Duck,2.0
+1996,DI,White-throated Dipper,75.0
+1996,DV,Rock Dove,92.0
+1996,DW,Dartford Warbler,13.0
+1996,ET,Little Egret,13.0
+1996,F.,Northern Fulmar,115.0
+1996,FP,Feral Pigeon,10576.0
+1996,FW,Helmeted Guineafowl,3.0
+1996,G.,European Green Woodpecker,909.0
+1996,GA,Gadwall,82.0
+1996,GB,Great Black-backed Gull,415.0
+1996,GC,Goldcrest,1893.0
+1996,GD,Common Merganser,70.0
+1996,GF,Golden Pheasant,7.0
+1996,GG,Great Crested Grebe,205.0
+1996,GH,Common Grasshopper Warbler,118.0
+1996,GJ,Greylag Goose,805.0
+1996,GL,Grey Wagtail,226.0
+1996,GO,European Goldfinch,4962.0
+1996,GP,European Golden Plover,376.0
+1996,GR,European Greenfinch,9576.0
+1996,GS,Great Spotted Woodpecker,1051.0
+1996,GT,Great Tit,9040.0
+1996,GU,Common Murre,31.0
+1996,GV,Grey Plover,8.0
+1996,GW,Garden Warbler,733.0
+1996,GX,Northern Gannet,55.0
+1996,H.,Grey Heron,819.0
+1996,HA,Harris's Hawk,2.0
+1996,HC,Hooded Crow,427.0
+1996,HG,European Herring Gull,7457.0
+1996,HM,Western House Martin,5692.0
+1996,HS,House Sparrow,34397.0
+1996,J.,Eurasian Jay,1056.0
+1996,JD,Western Jackdaw,16014.0
+1996,K.,Common Kestrel,639.0
+1996,KB,Black Kite,1.0
+1996,KF,Common Kingfisher,47.0
+1996,KI,Black-legged Kittiwake,3.0
+1996,L.,Northern Lapwing,4554.0
+1996,LB,Lesser Black-backed Gull,4084.0
+1996,LG,Little Grebe,108.0
+1996,LI,Common Linnet,7611.0
+1996,LN,Long-tailed Duck,1.0
+1996,LO,Little Owl,114.0
+1996,LR,Lesser Redpoll,643.0
+1996,LS,Lesser Spotted Woodpecker,39.0
+1996,LT,Long-tailed Tit,1898.0
+1996,LW,Lesser Whitethroat,398.0
+1996,M.,Mistle Thrush,2615.0
+1996,MA,Mallard,6458.0
+1996,MG,Eurasian Magpie,9605.0
+1996,MH,Common Moorhen,1237.0
+1996,MN,Mandarin Duck,4.0
+1996,MP,Meadow Pipit,12945.0
+1996,MS,Mute Swan,1898.0
+1996,MT,Marsh Tit,228.0
+1996,MX,Manx Shearwater,104.0
+1996,MY,Muscovy Duck,1.0
+1996,N.,Common Nightingale,50.0
+1996,ND,Common Loon,1.0
+1996,NH,Eurasian Nuthatch,651.0
+1996,NX,Great Skua,27.0
+1996,OC,Eurasian Oystercatcher,1904.0
+1996,P.,Grey Partridge,924.0
+1996,PF,European Pied Flycatcher,145.0
+1996,PG,Pink-footed Goose,64.0
+1996,PH,Common Pheasant,7600.0
+1996,PM,Rock Ptarmigan,4.0
+1996,PW,White Wagtail,2362.0
+1996,PX,Indian Peafowl,3.0
+1996,R.,European Robin,16449.0
+1996,RA,Razorbill,7.0
+1996,RB,Common Reed Bunting,1076.0
+1996,RC,European Rock Pipit,36.0
+1996,RG,Willow Ptarmigan,585.0
+1996,RI,Rose-ringed Parakeet,28.0
+1996,RK,Common Redshank,394.0
+1996,RL,Red-legged Partridge,1698.0
+1996,RM,Red-breasted Merganser,32.0
+1996,RN,Northern Raven,682.0
+1996,RO,Rook,31952.0
+1996,RP,Common Ringed Plover,90.0
+1996,RT,Common Redstart,442.0
+1996,RW,Common Reed Warbler,461.0
+1996,RY,Ruddy Duck,44.0
+1996,RZ,Ring Ouzel,42.0
+1996,S.,Eurasian Skylark,16402.0
+1996,SA,European Shag,246.0
+1996,SC,European Stonechat,95.0
+1996,SD,Stock Dove,2520.0
+1996,SF,Spotted Flycatcher,320.0
+1996,SG,Common Starling,55130.0
+1996,SH,Eurasian Sparrowhawk,275.0
+1996,SI,Common Swift,7514.0
+1996,SJ,Snow Goose,1.0
+1996,SK,Eurasian Siskin,957.0
+1996,SL,Barn Swallow,11909.0
+1996,SM,Sand Martin,1444.0
+1996,SN,Common Snipe,300.0
+1996,SP,Greater Scaup,1.0
+1996,SS,Sanderling,50.0
+1996,ST,Song Thrush,5923.0
+1996,SU,Common Shelduck,1073.0
+1996,SW,Sedge Warbler,1158.0
+1996,T.,Eurasian Teal,89.0
+1996,TC,Eurasian Treecreeper,491.0
+1996,TD,European Turtle Dove,534.0
+1996,TE,Sandwich Tern,28.0
+1996,TH,Short-toed Treecreeper,6.0
+1996,TO,Tawny Owl,86.0
+1996,TP,Tree Pipit,402.0
+1996,TS,Eurasian Tree Sparrow,570.0
+1996,TT,Ruddy Turnstone,40.0
+1996,TU,Tufted Duck,892.0
+1996,UA,Australian Shelduck,2.0
+1996,UD,Ruddy Shelduck,2.0
+1996,W.,Northern Wheatear,978.0
+1996,WA,Water Rail,11.0
+1996,WC,Whinchat,353.0
+1996,WG,Greater White-fronted Goose,1.0
+1996,WH,Common Whitethroat,4741.0
+1996,WK,Eurasian Woodcock,7.0
+1996,WL,Woodlark,19.0
+1996,WO,Wood Warbler,117.0
+1996,WP,Common Wood Pigeon,52077.0
+1996,WR,Eurasian Wren,17703.0
+1996,WT,Willow Tit,104.0
+1996,WW,Willow Warbler,9107.0
+1996,WX,Bohemian Waxwing,1.0
+1996,Y.,Yellowhammer,6139.0
+1996,YW,Western Yellow Wagtail,820.0
+1997,AC,Parasitic Jaeger,29.0
+1997,AE,Arctic Tern,38.0
+1997,AS,Black Swan,5.0
+1997,B.,Common Blackbird,32872.0
+1997,BC,Eurasian Blackcap,4139.0
+1997,BF,Eurasian Bullfinch,1289.0
+1997,BG,Brant Goose,1.0
+1997,BH,Black-headed Gull,5722.0
+1997,BT,Eurasian Blue Tit,24686.0
+1997,BY,Barnacle Goose,24.0
+1997,BZ,Common Buzzard,1115.0
+1997,C.,Carrion Crow,26716.0
+1997,CA,Great Cormorant,449.0
+1997,CB,Corn Bunting,831.0
+1997,CC,Common Chiffchaff,4933.0
+1997,CD,Eurasian Collared Dove,7914.0
+1997,CG,Canada Goose,2244.0
+1997,CH,Eurasian Chaffinch,32737.0
+1997,CI,Crested Tit,14.0
+1997,CK,Common Cuckoo,1560.0
+1997,CM,Common Gull,4107.0
+1997,CN,Common Tern,229.0
+1997,CO,Eurasian Coot,1131.0
+1997,CR,Red Crossbill,444.0
+1997,CS,Common Sandpiper,191.0
+1997,CT,Coal Tit,2974.0
+1997,CU,Eurasian Curlew,3056.0
+1997,CY,Scottish Crossbill,17.0
+1997,D.,Dunnock,7908.0
+1997,DC,Wood Duck,1.0
+1997,DI,White-throated Dipper,70.0
+1997,DV,Rock Dove,94.0
+1997,DW,Dartford Warbler,16.0
+1997,EG,Egyptian Goose,5.0
+1997,ET,Little Egret,2.0
+1997,F.,Northern Fulmar,151.0
+1997,FP,Feral Pigeon,13942.0
+1997,G.,European Green Woodpecker,1078.0
+1997,GA,Gadwall,65.0
+1997,GB,Great Black-backed Gull,411.0
+1997,GC,Goldcrest,2647.0
+1997,GD,Common Merganser,64.0
+1997,GG,Great Crested Grebe,202.0
+1997,GH,Common Grasshopper Warbler,190.0
+1997,GJ,Greylag Goose,727.0
+1997,GL,Grey Wagtail,193.0
+1997,GO,European Goldfinch,5393.0
+1997,GP,European Golden Plover,533.0
+1997,GR,European Greenfinch,12027.0
+1997,GS,Great Spotted Woodpecker,1179.0
+1997,GT,Great Tit,10280.0
+1997,GV,Grey Plover,3.0
+1997,GW,Garden Warbler,949.0
+1997,GX,Northern Gannet,31.0
+1997,H.,Grey Heron,950.0
+1997,HA,Harris's Hawk,2.0
+1997,HC,Hooded Crow,574.0
+1997,HG,European Herring Gull,7522.0
+1997,HM,Western House Martin,6206.0
+1997,HS,House Sparrow,36401.0
+1997,J.,Eurasian Jay,1183.0
+1997,JD,Western Jackdaw,19792.0
+1997,K.,Common Kestrel,809.0
+1997,KF,Common Kingfisher,64.0
+1997,KI,Black-legged Kittiwake,2.0
+1997,L.,Northern Lapwing,4642.0
+1997,LB,Lesser Black-backed Gull,5909.0
+1997,LG,Little Grebe,112.0
+1997,LI,Common Linnet,8481.0
+1997,LO,Little Owl,143.0
+1997,LR,Lesser Redpoll,737.0
+1997,LS,Lesser Spotted Woodpecker,25.0
+1997,LT,Long-tailed Tit,2300.0
+1997,LW,Lesser Whitethroat,235.0
+1997,M.,Mistle Thrush,2826.0
+1997,MA,Mallard,7153.0
+1997,MG,Eurasian Magpie,11097.0
+1997,MH,Common Moorhen,1258.0
+1997,MN,Mandarin Duck,22.0
+1997,MP,Meadow Pipit,12548.0
+1997,MS,Mute Swan,2027.0
+1997,MT,Marsh Tit,309.0
+1997,MY,Muscovy Duck,1.0
+1997,N.,Common Nightingale,66.0
+1997,ND,Common Loon,1.0
+1997,NH,Eurasian Nuthatch,760.0
+1997,NX,Great Skua,120.0
+1997,OC,Eurasian Oystercatcher,1789.0
+1997,OO,Woodchat Shrike,1.0
+1997,P.,Grey Partridge,881.0
+1997,PF,European Pied Flycatcher,122.0
+1997,PG,Pink-footed Goose,595.0
+1997,PH,Common Pheasant,8231.0
+1997,PM,Rock Ptarmigan,5.0
+1997,PW,White Wagtail,2584.0
+1997,PX,Indian Peafowl,23.0
+1997,R.,European Robin,16538.0
+1997,RB,Common Reed Bunting,1078.0
+1997,RC,European Rock Pipit,40.0
+1997,RG,Willow Ptarmigan,838.0
+1997,RI,Rose-ringed Parakeet,90.0
+1997,RK,Common Redshank,402.0
+1997,RL,Red-legged Partridge,1917.0
+1997,RM,Red-breasted Merganser,35.0
+1997,RN,Northern Raven,432.0
+1997,RO,Rook,35759.0
+1997,RP,Common Ringed Plover,136.0
+1997,RQ,Red-crested Pochard,2.0
+1997,RT,Common Redstart,527.0
+1997,RV,Reeves's Pheasant,1.0
+1997,RW,Common Reed Warbler,492.0
+1997,RY,Ruddy Duck,29.0
+1997,RZ,Ring Ouzel,33.0
+1997,S.,Eurasian Skylark,17415.0
+1997,SA,European Shag,49.0
+1997,SC,European Stonechat,135.0
+1997,SD,Stock Dove,2743.0
+1997,SF,Spotted Flycatcher,365.0
+1997,SG,Common Starling,62038.0
+1997,SH,Eurasian Sparrowhawk,340.0
+1997,SI,Common Swift,8788.0
+1997,SJ,Snow Goose,1.0
+1997,SK,Eurasian Siskin,1142.0
+1997,SL,Barn Swallow,14208.0
+1997,SM,Sand Martin,1237.0
+1997,SN,Common Snipe,362.0
+1997,SP,Greater Scaup,5.0
+1997,SS,Sanderling,3.0
+1997,ST,Song Thrush,5936.0
+1997,SU,Common Shelduck,1048.0
+1997,SW,Sedge Warbler,1027.0
+1997,T.,Eurasian Teal,55.0
+1997,TC,Eurasian Treecreeper,559.0
+1997,TD,European Turtle Dove,515.0
+1997,TE,Sandwich Tern,39.0
+1997,TH,Short-toed Treecreeper,8.0
+1997,TO,Tawny Owl,87.0
+1997,TP,Tree Pipit,395.0
+1997,TS,Eurasian Tree Sparrow,630.0
+1997,TT,Ruddy Turnstone,4.0
+1997,TU,Tufted Duck,1002.0
+1997,W.,Northern Wheatear,986.0
+1997,WA,Water Rail,4.0
+1997,WC,Whinchat,260.0
+1997,WG,Greater White-fronted Goose,2.0
+1997,WH,Common Whitethroat,4911.0
+1997,WK,Eurasian Woodcock,5.0
+1997,WL,Woodlark,25.0
+1997,WO,Wood Warbler,161.0
+1997,WP,Common Wood Pigeon,60985.0
+1997,WR,Eurasian Wren,20695.0
+1997,WT,Willow Tit,126.0
+1997,WW,Willow Warbler,10046.0
+1997,Y.,Yellowhammer,7032.0
+1997,YW,Western Yellow Wagtail,761.0
+1997,ZF,Domestic Mallard,3.0
+1997,ZL,Domestic Greylag Goose,1.0
+1998,AC,Parasitic Jaeger,30.0
+1998,AE,Arctic Tern,6.0
+1998,AS,Black Swan,12.0
+1998,B.,Common Blackbird,37860.0
+1998,BA,Bar-tailed Godwit,6.0
+1998,BC,Eurasian Blackcap,5496.0
+1998,BF,Eurasian Bullfinch,998.0
+1998,BG,Brant Goose,15.0
+1998,BH,Black-headed Gull,5790.0
+1998,BJ,Black Tern,17.0
+1998,BT,Eurasian Blue Tit,25487.0
+1998,BY,Barnacle Goose,9.0
+1998,BZ,Common Buzzard,1357.0
+1998,C.,Carrion Crow,30903.0
+1998,CA,Great Cormorant,526.0
+1998,CB,Corn Bunting,610.0
+1998,CC,Common Chiffchaff,6515.0
+1998,CD,Eurasian Collared Dove,8700.0
+1998,CG,Canada Goose,2799.0
+1998,CH,Eurasian Chaffinch,35593.0
+1998,CI,Crested Tit,9.0
+1998,CK,Common Cuckoo,1515.0
+1998,CM,Common Gull,3369.0
+1998,CN,Common Tern,197.0
+1998,CO,Eurasian Coot,1438.0
+1998,CR,Red Crossbill,354.0
+1998,CS,Common Sandpiper,206.0
+1998,CT,Coal Tit,2716.0
+1998,CU,Eurasian Curlew,3007.0
+1998,CY,Scottish Crossbill,6.0
+1998,D.,Dunnock,8763.0
+1998,DC,Wood Duck,2.0
+1998,DI,White-throated Dipper,85.0
+1998,DV,Rock Dove,77.0
+1998,DW,Dartford Warbler,40.0
+1998,EG,Egyptian Goose,14.0
+1998,ET,Little Egret,2.0
+1998,F.,Northern Fulmar,166.0
+1998,FP,Feral Pigeon,15807.0
+1998,FT,Falcated Duck,1.0
+1998,FW,Helmeted Guineafowl,3.0
+1998,G.,European Green Woodpecker,1460.0
+1998,GA,Gadwall,125.0
+1998,GB,Great Black-backed Gull,500.0
+1998,GC,Goldcrest,2647.0
+1998,GD,Common Merganser,100.0
+1998,GF,Golden Pheasant,1.0
+1998,GG,Great Crested Grebe,286.0
+1998,GH,Common Grasshopper Warbler,180.0
+1998,GJ,Greylag Goose,804.0
+1998,GL,Grey Wagtail,266.0
+1998,GO,European Goldfinch,5092.0
+1998,GP,European Golden Plover,834.0
+1998,GR,European Greenfinch,12602.0
+1998,GS,Great Spotted Woodpecker,1405.0
+1998,GT,Great Tit,11799.0
+1998,GU,Common Murre,8.0
+1998,GW,Garden Warbler,929.0
+1998,GX,Northern Gannet,66.0
+1998,H.,Grey Heron,1030.0
+1998,HA,Harris's Hawk,1.0
+1998,HC,Hooded Crow,694.0
+1998,HG,European Herring Gull,9404.0
+1998,HM,Western House Martin,6127.0
+1998,HS,House Sparrow,35638.0
+1998,IG,Iceland Gull,1.0
+1998,J.,Eurasian Jay,1222.0
+1998,JD,Western Jackdaw,22227.0
+1998,JS,Jack Snipe,1.0
+1998,K.,Common Kestrel,830.0
+1998,KF,Common Kingfisher,60.0
+1998,KI,Black-legged Kittiwake,2.0
+1998,L.,Northern Lapwing,4378.0
+1998,LB,Lesser Black-backed Gull,5338.0
+1998,LG,Little Grebe,148.0
+1998,LI,Common Linnet,7818.0
+1998,LO,Little Owl,99.0
+1998,LR,Lesser Redpoll,643.0
+1998,LS,Lesser Spotted Woodpecker,38.0
+1998,LT,Long-tailed Tit,2554.0
+1998,LW,Lesser Whitethroat,321.0
+1998,M.,Mistle Thrush,3309.0
+1998,MA,Mallard,8148.0
+1998,MG,Eurasian Magpie,12313.0
+1998,MH,Common Moorhen,1502.0
+1998,MN,Mandarin Duck,26.0
+1998,MP,Meadow Pipit,14169.0
+1998,MS,Mute Swan,2466.0
+1998,MT,Marsh Tit,228.0
+1998,MX,Manx Shearwater,81.0
+1998,N.,Common Nightingale,86.0
+1998,ND,Common Loon,4.0
+1998,NE,Nene,3.0
+1998,NG,Ring-necked Duck,1.0
+1998,NH,Eurasian Nuthatch,841.0
+1998,NX,Great Skua,85.0
+1998,OC,Eurasian Oystercatcher,1623.0
+1998,P.,Grey Partridge,668.0
+1998,PF,European Pied Flycatcher,128.0
+1998,PG,Pink-footed Goose,115.0
+1998,PH,Common Pheasant,8739.0
+1998,PM,Rock Ptarmigan,2.0
+1998,PW,White Wagtail,2870.0
+1998,PX,Indian Peafowl,18.0
+1998,R.,European Robin,19568.0
+1998,RA,Razorbill,4.0
+1998,RB,Common Reed Bunting,1058.0
+1998,RC,European Rock Pipit,62.0
+1998,RG,Willow Ptarmigan,892.0
+1998,RI,Rose-ringed Parakeet,93.0
+1998,RK,Common Redshank,477.0
+1998,RL,Red-legged Partridge,1761.0
+1998,RM,Red-breasted Merganser,41.0
+1998,RN,Northern Raven,526.0
+1998,RO,Rook,36724.0
+1998,RP,Common Ringed Plover,111.0
+1998,RQ,Red-crested Pochard,1.0
+1998,RT,Common Redstart,546.0
+1998,RV,Reeves's Pheasant,1.0
+1998,RW,Common Reed Warbler,595.0
+1998,RY,Ruddy Duck,37.0
+1998,RZ,Ring Ouzel,61.0
+1998,S.,Eurasian Skylark,18023.0
+1998,SA,European Shag,312.0
+1998,SC,European Stonechat,259.0
+1998,SD,Stock Dove,2735.0
+1998,SF,Spotted Flycatcher,361.0
+1998,SG,Common Starling,57335.0
+1998,SH,Eurasian Sparrowhawk,382.0
+1998,SI,Common Swift,10799.0
+1998,SJ,Snow Goose,6.0
+1998,SK,Eurasian Siskin,837.0
+1998,SL,Barn Swallow,14428.0
+1998,SM,Sand Martin,1055.0
+1998,SN,Common Snipe,322.0
+1998,SP,Greater Scaup,1.0
+1998,ST,Song Thrush,7406.0
+1998,SU,Common Shelduck,1041.0
+1998,SW,Sedge Warbler,1084.0
+1998,T.,Eurasian Teal,62.0
+1998,TC,Eurasian Treecreeper,553.0
+1998,TD,European Turtle Dove,575.0
+1998,TE,Sandwich Tern,57.0
+1998,TH,Short-toed Treecreeper,2.0
+1998,TO,Tawny Owl,114.0
+1998,TP,Tree Pipit,559.0
+1998,TS,Eurasian Tree Sparrow,563.0
+1998,TT,Ruddy Turnstone,19.0
+1998,TU,Tufted Duck,1010.0
+1998,UD,Ruddy Shelduck,9.0
+1998,UR,Purple Heron,1.0
+1998,W.,Northern Wheatear,1101.0
+1998,WA,Water Rail,2.0
+1998,WC,Whinchat,334.0
+1998,WH,Common Whitethroat,4775.0
+1998,WK,Eurasian Woodcock,3.0
+1998,WL,Woodlark,36.0
+1998,WO,Wood Warbler,160.0
+1998,WP,Common Wood Pigeon,67073.0
+1998,WR,Eurasian Wren,27544.0
+1998,WT,Willow Tit,129.0
+1998,WW,Willow Warbler,10778.0
+1998,Y.,Yellowhammer,6803.0
+1998,YW,Western Yellow Wagtail,641.0
+1998,ZL,Domestic Greylag Goose,4.0
+1999,AC,Parasitic Jaeger,38.0
+1999,AE,Arctic Tern,59.0
+1999,AS,Black Swan,21.0
+1999,AX,Alexandrine Parakeet,1.0
+1999,B.,Common Blackbird,43477.0
+1999,BA,Bar-tailed Godwit,2.0
+1999,BC,Eurasian Blackcap,6129.0
+1999,BF,Eurasian Bullfinch,996.0
+1999,BG,Brant Goose,1.0
+1999,BH,Black-headed Gull,4924.0
+1999,BT,Eurasian Blue Tit,26399.0
+1999,BY,Barnacle Goose,6.0
+1999,BZ,Common Buzzard,1451.0
+1999,C.,Carrion Crow,34004.0
+1999,CA,Great Cormorant,612.0
+1999,CB,Corn Bunting,784.0
+1999,CC,Common Chiffchaff,4477.0
+1999,CD,Eurasian Collared Dove,9857.0
+1999,CG,Canada Goose,2963.0
+1999,CH,Eurasian Chaffinch,37618.0
+1999,CI,Crested Tit,6.0
+1999,CK,Common Cuckoo,1506.0
+1999,CM,Common Gull,2987.0
+1999,CN,Common Tern,285.0
+1999,CO,Eurasian Coot,1778.0
+1999,CR,Red Crossbill,141.0
+1999,CS,Common Sandpiper,137.0
+1999,CT,Coal Tit,2620.0
+1999,CU,Eurasian Curlew,3156.0
+1999,CY,Scottish Crossbill,10.0
+1999,D.,Dunnock,10331.0
+1999,DI,White-throated Dipper,99.0
+1999,DR,Spotted Redshank,4.0
+1999,DV,Rock Dove,129.0
+1999,DW,Dartford Warbler,33.0
+1999,EG,Egyptian Goose,16.0
+1999,ET,Little Egret,4.0
+1999,F.,Northern Fulmar,99.0
+1999,FP,Feral Pigeon,16025.0
+1999,G.,European Green Woodpecker,1639.0
+1999,GA,Gadwall,79.0
+1999,GB,Great Black-backed Gull,462.0
+1999,GC,Goldcrest,3116.0
+1999,GD,Common Merganser,95.0
+1999,GG,Great Crested Grebe,307.0
+1999,GH,Common Grasshopper Warbler,92.0
+1999,GJ,Greylag Goose,1028.0
+1999,GL,Grey Wagtail,358.0
+1999,GO,European Goldfinch,5795.0
+1999,GP,European Golden Plover,426.0
+1999,GR,European Greenfinch,14058.0
+1999,GS,Great Spotted Woodpecker,1538.0
+1999,GT,Great Tit,12700.0
+1999,GU,Common Murre,4.0
+1999,GV,Grey Plover,5.0
+1999,GW,Garden Warbler,991.0
+1999,GX,Northern Gannet,59.0
+1999,H.,Grey Heron,1320.0
+1999,HB,Carrion x Hooded Crow,1.0
+1999,HC,Hooded Crow,614.0
+1999,HD,Bar-headed Goose,1.0
+1999,HG,European Herring Gull,8777.0
+1999,HM,Western House Martin,7771.0
+1999,HS,House Sparrow,36696.0
+1999,J.,Eurasian Jay,1270.0
+1999,JD,Western Jackdaw,24855.0
+1999,K.,Common Kestrel,842.0
+1999,KF,Common Kingfisher,55.0
+1999,KI,Black-legged Kittiwake,6.0
+1999,KN,Red Knot,2.0
+1999,L.,Northern Lapwing,5223.0
+1999,LB,Lesser Black-backed Gull,6438.0
+1999,LG,Little Grebe,159.0
+1999,LI,Common Linnet,8444.0
+1999,LN,Long-tailed Duck,1.0
+1999,LO,Little Owl,132.0
+1999,LR,Lesser Redpoll,449.0
+1999,LS,Lesser Spotted Woodpecker,38.0
+1999,LT,Long-tailed Tit,2903.0
+1999,LU,Little Gull,6.0
+1999,LW,Lesser Whitethroat,376.0
+1999,M.,Mistle Thrush,3554.0
+1999,MA,Mallard,9222.0
+1999,MG,Eurasian Magpie,13450.0
+1999,MH,Common Moorhen,1922.0
+1999,MN,Mandarin Duck,56.0
+1999,MP,Meadow Pipit,14040.0
+1999,MS,Mute Swan,2390.0
+1999,MT,Marsh Tit,279.0
+1999,MX,Manx Shearwater,3.0
+1999,MY,Muscovy Duck,3.0
+1999,N.,Common Nightingale,89.0
+1999,ND,Common Loon,4.0
+1999,NE,Nene,4.0
+1999,NG,Ring-necked Duck,1.0
+1999,NH,Eurasian Nuthatch,832.0
+1999,NX,Great Skua,38.0
+1999,OC,Eurasian Oystercatcher,1677.0
+1999,P.,Grey Partridge,473.0
+1999,PF,European Pied Flycatcher,126.0
+1999,PG,Pink-footed Goose,439.0
+1999,PH,Common Pheasant,9519.0
+1999,PM,Rock Ptarmigan,14.0
+1999,PW,White Wagtail,3327.0
+1999,PX,Indian Peafowl,14.0
+1999,R.,European Robin,22706.0
+1999,RA,Razorbill,4.0
+1999,RB,Common Reed Bunting,1299.0
+1999,RC,European Rock Pipit,44.0
+1999,RG,Willow Ptarmigan,815.0
+1999,RI,Rose-ringed Parakeet,156.0
+1999,RK,Common Redshank,433.0
+1999,RL,Red-legged Partridge,1804.0
+1999,RM,Red-breasted Merganser,33.0
+1999,RN,Northern Raven,501.0
+1999,RO,Rook,39583.0
+1999,RP,Common Ringed Plover,116.0
+1999,RT,Common Redstart,518.0
+1999,RW,Common Reed Warbler,613.0
+1999,RY,Ruddy Duck,41.0
+1999,RZ,Ring Ouzel,57.0
+1999,S.,Eurasian Skylark,17814.0
+1999,SA,European Shag,84.0
+1999,SC,European Stonechat,359.0
+1999,SD,Stock Dove,3058.0
+1999,SF,Spotted Flycatcher,413.0
+1999,SG,Common Starling,65214.0
+1999,SH,Eurasian Sparrowhawk,388.0
+1999,SI,Common Swift,11306.0
+1999,SJ,Snow Goose,1.0
+1999,SK,Eurasian Siskin,536.0
+1999,SL,Barn Swallow,16266.0
+1999,SM,Sand Martin,1467.0
+1999,SN,Common Snipe,366.0
+1999,SS,Sanderling,7.0
+1999,ST,Song Thrush,8398.0
+1999,SU,Common Shelduck,1093.0
+1999,SW,Sedge Warbler,1243.0
+1999,T.,Eurasian Teal,50.0
+1999,TC,Eurasian Treecreeper,674.0
+1999,TD,European Turtle Dove,513.0
+1999,TE,Sandwich Tern,34.0
+1999,TH,Short-toed Treecreeper,5.0
+1999,TO,Tawny Owl,127.0
+1999,TP,Tree Pipit,516.0
+1999,TS,Eurasian Tree Sparrow,576.0
+1999,TT,Ruddy Turnstone,25.0
+1999,TU,Tufted Duck,1099.0
+1999,W.,Northern Wheatear,1048.0
+1999,WA,Water Rail,2.0
+1999,WC,Whinchat,294.0
+1999,WG,Greater White-fronted Goose,3.0
+1999,WH,Common Whitethroat,4778.0
+1999,WI,Water Pipit,1.0
+1999,WK,Eurasian Woodcock,13.0
+1999,WL,Woodlark,41.0
+1999,WO,Wood Warbler,125.0
+1999,WP,Common Wood Pigeon,72381.0
+1999,WR,Eurasian Wren,34779.0
+1999,WT,Willow Tit,130.0
+1999,WW,Willow Warbler,10883.0
+1999,Y.,Yellowhammer,7424.0
+1999,YW,Western Yellow Wagtail,556.0
+1999,ZF,Domestic Mallard,4.0
+1999,ZL,Domestic Greylag Goose,10.0
+2000,AC,Parasitic Jaeger,26.0
+2000,AE,Arctic Tern,123.0
+2000,AS,Black Swan,24.0
+2000,B.,Common Blackbird,42485.0
+2000,BA,Bar-tailed Godwit,6.0
+2000,BC,Eurasian Blackcap,5977.0
+2000,BF,Eurasian Bullfinch,1016.0
+2000,BG,Brant Goose,2.0
+2000,BH,Black-headed Gull,5640.0
+2000,BT,Eurasian Blue Tit,24586.0
+2000,BY,Barnacle Goose,2.0
+2000,BZ,Common Buzzard,1524.0
+2000,C.,Carrion Crow,32677.0
+2000,CA,Great Cormorant,593.0
+2000,CB,Corn Bunting,600.0
+2000,CC,Common Chiffchaff,4925.0
+2000,CD,Eurasian Collared Dove,9525.0
+2000,CG,Canada Goose,3498.0
+2000,CH,Eurasian Chaffinch,37955.0
+2000,CI,Crested Tit,1.0
+2000,CK,Common Cuckoo,1453.0
+2000,CM,Common Gull,3117.0
+2000,CN,Common Tern,264.0
+2000,CO,Eurasian Coot,1671.0
+2000,CR,Red Crossbill,126.0
+2000,CS,Common Sandpiper,174.0
+2000,CT,Coal Tit,2558.0
+2000,CU,Eurasian Curlew,3138.0
+2000,CY,Scottish Crossbill,24.0
+2000,D.,Dunnock,10062.0
+2000,DI,White-throated Dipper,95.0
+2000,DV,Rock Dove,97.0
+2000,DW,Dartford Warbler,25.0
+2000,EB,Red-breasted Goose,1.0
+2000,EG,Egyptian Goose,19.0
+2000,ET,Little Egret,2.0
+2000,F.,Northern Fulmar,171.0
+2000,FP,Feral Pigeon,14172.0
+2000,G.,European Green Woodpecker,1731.0
+2000,GA,Gadwall,140.0
+2000,GB,Great Black-backed Gull,297.0
+2000,GC,Goldcrest,3371.0
+2000,GD,Common Merganser,85.0
+2000,GF,Golden Pheasant,9.0
+2000,GG,Great Crested Grebe,316.0
+2000,GH,Common Grasshopper Warbler,107.0
+2000,GJ,Greylag Goose,997.0
+2000,GL,Grey Wagtail,381.0
+2000,GO,European Goldfinch,6330.0
+2000,GP,European Golden Plover,938.0
+2000,GR,European Greenfinch,14500.0
+2000,GS,Great Spotted Woodpecker,1608.0
+2000,GT,Great Tit,13081.0
+2000,GU,Common Murre,4.0
+2000,GV,Grey Plover,89.0
+2000,GW,Garden Warbler,876.0
+2000,GX,Northern Gannet,7.0
+2000,H.,Grey Heron,1223.0
+2000,HA,Harris's Hawk,5.0
+2000,HB,Carrion x Hooded Crow,3.0
+2000,HC,Hooded Crow,690.0
+2000,HD,Bar-headed Goose,4.0
+2000,HG,European Herring Gull,8331.0
+2000,HM,Western House Martin,8133.0
+2000,HS,House Sparrow,33137.0
+2000,J.,Eurasian Jay,1272.0
+2000,JD,Western Jackdaw,23884.0
+2000,K.,Common Kestrel,780.0
+2000,KF,Common Kingfisher,53.0
+2000,KI,Black-legged Kittiwake,26.0
+2000,KN,Red Knot,2999.0
+2000,L.,Northern Lapwing,5640.0
+2000,LB,Lesser Black-backed Gull,5167.0
+2000,LG,Little Grebe,163.0
+2000,LI,Common Linnet,8577.0
+2000,LO,Little Owl,147.0
+2000,LR,Lesser Redpoll,946.0
+2000,LS,Lesser Spotted Woodpecker,24.0
+2000,LT,Long-tailed Tit,3271.0
+2000,LW,Lesser Whitethroat,388.0
+2000,M.,Mistle Thrush,3282.0
+2000,MA,Mallard,9436.0
+2000,MG,Eurasian Magpie,13287.0
+2000,MH,Common Moorhen,1726.0
+2000,MN,Mandarin Duck,49.0
+2000,MP,Meadow Pipit,13768.0
+2000,MS,Mute Swan,2337.0
+2000,MT,Marsh Tit,315.0
+2000,MY,Muscovy Duck,3.0
+2000,N.,Common Nightingale,79.0
+2000,ND,Common Loon,2.0
+2000,NH,Eurasian Nuthatch,820.0
+2000,NX,Great Skua,235.0
+2000,OC,Eurasian Oystercatcher,1883.0
+2000,P.,Grey Partridge,586.0
+2000,PF,European Pied Flycatcher,109.0
+2000,PG,Pink-footed Goose,853.0
+2000,PH,Common Pheasant,9753.0
+2000,PM,Rock Ptarmigan,5.0
+2000,PW,White Wagtail,3170.0
+2000,PX,Indian Peafowl,18.0
+2000,R.,European Robin,23709.0
+2000,RB,Common Reed Bunting,1139.0
+2000,RC,European Rock Pipit,54.0
+2000,RG,Willow Ptarmigan,656.0
+2000,RI,Rose-ringed Parakeet,148.0
+2000,RK,Common Redshank,560.0
+2000,RL,Red-legged Partridge,1775.0
+2000,RM,Red-breasted Merganser,33.0
+2000,RN,Northern Raven,573.0
+2000,RO,Rook,36105.0
+2000,RP,Common Ringed Plover,113.0
+2000,RQ,Red-crested Pochard,3.0
+2000,RT,Common Redstart,576.0
+2000,RW,Common Reed Warbler,573.0
+2000,RY,Ruddy Duck,35.0
+2000,RZ,Ring Ouzel,39.0
+2000,S.,Eurasian Skylark,17708.0
+2000,SA,European Shag,347.0
+2000,SC,European Stonechat,398.0
+2000,SD,Stock Dove,2736.0
+2000,SF,Spotted Flycatcher,378.0
+2000,SG,Common Starling,59059.0
+2000,SH,Eurasian Sparrowhawk,363.0
+2000,SI,Common Swift,9017.0
+2000,SJ,Snow Goose,4.0
+2000,SK,Eurasian Siskin,509.0
+2000,SL,Barn Swallow,16517.0
+2000,SM,Sand Martin,2076.0
+2000,SN,Common Snipe,454.0
+2000,SP,Greater Scaup,3.0
+2000,SS,Sanderling,79.0
+2000,ST,Song Thrush,8666.0
+2000,SU,Common Shelduck,1008.0
+2000,SW,Sedge Warbler,1568.0
+2000,T.,Eurasian Teal,58.0
+2000,TC,Eurasian Treecreeper,521.0
+2000,TD,European Turtle Dove,465.0
+2000,TE,Sandwich Tern,49.0
+2000,TH,Short-toed Treecreeper,5.0
+2000,TO,Tawny Owl,111.0
+2000,TP,Tree Pipit,509.0
+2000,TS,Eurasian Tree Sparrow,674.0
+2000,TT,Ruddy Turnstone,78.0
+2000,TU,Tufted Duck,1308.0
+2000,UD,Ruddy Shelduck,1.0
+2000,W.,Northern Wheatear,917.0
+2000,WA,Water Rail,2.0
+2000,WC,Whinchat,240.0
+2000,WG,Greater White-fronted Goose,3.0
+2000,WH,Common Whitethroat,5503.0
+2000,WK,Eurasian Woodcock,8.0
+2000,WL,Woodlark,52.0
+2000,WO,Wood Warbler,119.0
+2000,WP,Common Wood Pigeon,72226.0
+2000,WR,Eurasian Wren,34451.0
+2000,WT,Willow Tit,95.0
+2000,WW,Willow Warbler,10020.0
+2000,Y.,Yellowhammer,7272.0
+2000,YW,Western Yellow Wagtail,648.0
+2000,ZF,Domestic Mallard,39.0
+2000,ZL,Domestic Greylag Goose,40.0
+2001,AC,Parasitic Jaeger,11.0
+2001,AE,Arctic Tern,3.0
+2001,AS,Black Swan,2.0
+2001,B.,Common Blackbird,12611.0
+2001,BA,Bar-tailed Godwit,53.0
+2001,BC,Eurasian Blackcap,1477.0
+2001,BF,Eurasian Bullfinch,233.0
+2001,BH,Black-headed Gull,1718.0
+2001,BT,Eurasian Blue Tit,6552.0
+2001,BZ,Common Buzzard,159.0
+2001,C.,Carrion Crow,7676.0
+2001,CA,Great Cormorant,186.0
+2001,CB,Corn Bunting,163.0
+2001,CC,Common Chiffchaff,1071.0
+2001,CD,Eurasian Collared Dove,3576.0
+2001,CG,Canada Goose,1175.0
+2001,CH,Eurasian Chaffinch,7287.0
+2001,CK,Common Cuckoo,256.0
+2001,CM,Common Gull,821.0
+2001,CN,Common Tern,92.0
+2001,CO,Eurasian Coot,637.0
+2001,CR,Red Crossbill,11.0
+2001,CS,Common Sandpiper,35.0
+2001,CT,Coal Tit,593.0
+2001,CU,Eurasian Curlew,135.0
+2001,D.,Dunnock,2412.0
+2001,DI,White-throated Dipper,8.0
+2001,DV,Rock Dove,4.0
+2001,DW,Dartford Warbler,12.0
+2001,EG,Egyptian Goose,5.0
+2001,ET,Little Egret,5.0
+2001,F.,Northern Fulmar,12.0
+2001,FP,Feral Pigeon,8508.0
+2001,G.,European Green Woodpecker,454.0
+2001,GA,Gadwall,70.0
+2001,GB,Great Black-backed Gull,92.0
+2001,GC,Goldcrest,587.0
+2001,GD,Common Merganser,14.0
+2001,GG,Great Crested Grebe,83.0
+2001,GH,Common Grasshopper Warbler,9.0
+2001,GJ,Greylag Goose,299.0
+2001,GL,Grey Wagtail,81.0
+2001,GO,European Goldfinch,1449.0
+2001,GP,European Golden Plover,61.0
+2001,GR,European Greenfinch,3939.0
+2001,GS,Great Spotted Woodpecker,458.0
+2001,GT,Great Tit,3064.0
+2001,GV,Grey Plover,4.0
+2001,GW,Garden Warbler,204.0
+2001,GX,Northern Gannet,22.0
+2001,H.,Grey Heron,331.0
+2001,HC,Hooded Crow,60.0
+2001,HG,European Herring Gull,3170.0
+2001,HM,Western House Martin,1997.0
+2001,HS,House Sparrow,11587.0
+2001,J.,Eurasian Jay,436.0
+2001,JD,Western Jackdaw,4270.0
+2001,K.,Common Kestrel,218.0
+2001,KF,Common Kingfisher,10.0
+2001,KN,Red Knot,583.0
+2001,L.,Northern Lapwing,904.0
+2001,LB,Lesser Black-backed Gull,1220.0
+2001,LG,Little Grebe,69.0
+2001,LI,Common Linnet,1803.0
+2001,LO,Little Owl,36.0
+2001,LR,Lesser Redpoll,81.0
+2001,LS,Lesser Spotted Woodpecker,6.0
+2001,LT,Long-tailed Tit,673.0
+2001,LW,Lesser Whitethroat,79.0
+2001,M.,Mistle Thrush,765.0
+2001,MA,Mallard,2625.0
+2001,MG,Eurasian Magpie,4344.0
+2001,MH,Common Moorhen,535.0
+2001,MN,Mandarin Duck,15.0
+2001,MP,Meadow Pipit,1691.0
+2001,MS,Mute Swan,402.0
+2001,MT,Marsh Tit,92.0
+2001,N.,Common Nightingale,16.0
+2001,NH,Eurasian Nuthatch,225.0
+2001,NX,Great Skua,2.0
+2001,OC,Eurasian Oystercatcher,497.0
+2001,P.,Grey Partridge,86.0
+2001,PF,European Pied Flycatcher,3.0
+2001,PH,Common Pheasant,1789.0
+2001,PW,White Wagtail,637.0
+2001,PX,Indian Peafowl,7.0
+2001,R.,European Robin,5566.0
+2001,RB,Common Reed Bunting,260.0
+2001,RC,European Rock Pipit,6.0
+2001,RG,Willow Ptarmigan,84.0
+2001,RI,Rose-ringed Parakeet,166.0
+2001,RK,Common Redshank,56.0
+2001,RL,Red-legged Partridge,407.0
+2001,RM,Red-breasted Merganser,8.0
+2001,RN,Northern Raven,26.0
+2001,RO,Rook,5161.0
+2001,RP,Common Ringed Plover,38.0
+2001,RT,Common Redstart,39.0
+2001,RW,Common Reed Warbler,227.0
+2001,RY,Ruddy Duck,21.0
+2001,RZ,Ring Ouzel,10.0
+2001,S.,Eurasian Skylark,3380.0
+2001,SA,European Shag,41.0
+2001,SC,European Stonechat,69.0
+2001,SD,Stock Dove,694.0
+2001,SF,Spotted Flycatcher,65.0
+2001,SG,Common Starling,20466.0
+2001,SH,Eurasian Sparrowhawk,99.0
+2001,SI,Common Swift,4105.0
+2001,SK,Eurasian Siskin,146.0
+2001,SL,Barn Swallow,2279.0
+2001,SM,Sand Martin,431.0
+2001,SN,Common Snipe,46.0
+2001,SS,Sanderling,325.0
+2001,ST,Song Thrush,1993.0
+2001,SU,Common Shelduck,206.0
+2001,SW,Sedge Warbler,358.0
+2001,T.,Eurasian Teal,8.0
+2001,TC,Eurasian Treecreeper,103.0
+2001,TD,European Turtle Dove,171.0
+2001,TE,Sandwich Tern,26.0
+2001,TH,Short-toed Treecreeper,5.0
+2001,TO,Tawny Owl,31.0
+2001,TP,Tree Pipit,166.0
+2001,TS,Eurasian Tree Sparrow,171.0
+2001,TU,Tufted Duck,523.0
+2001,W.,Northern Wheatear,166.0
+2001,WC,Whinchat,55.0
+2001,WH,Common Whitethroat,1614.0
+2001,WK,Eurasian Woodcock,3.0
+2001,WL,Woodlark,28.0
+2001,WO,Wood Warbler,27.0
+2001,WP,Common Wood Pigeon,21328.0
+2001,WR,Eurasian Wren,7489.0
+2001,WT,Willow Tit,41.0
+2001,WW,Willow Warbler,1725.0
+2001,Y.,Yellowhammer,1377.0
+2001,YW,Western Yellow Wagtail,156.0
+2001,ZF,Domestic Mallard,8.0
+2001,ZL,Domestic Greylag Goose,2.0
+2002,AC,Parasitic Jaeger,33.0
+2002,AE,Arctic Tern,46.0
+2002,AS,Black Swan,19.0
+2002,B.,Common Blackbird,41747.0
+2002,BA,Bar-tailed Godwit,1.0
+2002,BC,Eurasian Blackcap,5744.0
+2002,BF,Eurasian Bullfinch,967.0
+2002,BG,Brant Goose,8.0
+2002,BH,Black-headed Gull,5057.0
+2002,BT,Eurasian Blue Tit,24324.0
+2002,BY,Barnacle Goose,4.0
+2002,BZ,Common Buzzard,1661.0
+2002,C.,Carrion Crow,31129.0
+2002,CA,Great Cormorant,700.0
+2002,CB,Corn Bunting,534.0
+2002,CC,Common Chiffchaff,5731.0
+2002,CD,Eurasian Collared Dove,9043.0
+2002,CG,Canada Goose,4198.0
+2002,CH,Eurasian Chaffinch,35838.0
+2002,CI,Crested Tit,9.0
+2002,CK,Common Cuckoo,1056.0
+2002,CM,Common Gull,1899.0
+2002,CN,Common Tern,276.0
+2002,CO,Eurasian Coot,1636.0
+2002,CR,Red Crossbill,301.0
+2002,CS,Common Sandpiper,124.0
+2002,CT,Coal Tit,3109.0
+2002,CU,Eurasian Curlew,2690.0
+2002,CY,Scottish Crossbill,2.0
+2002,D.,Dunnock,9701.0
+2002,DC,Wood Duck,1.0
+2002,DI,White-throated Dipper,53.0
+2002,DV,Rock Dove,191.0
+2002,DW,Dartford Warbler,25.0
+2002,EG,Egyptian Goose,13.0
+2002,ET,Little Egret,45.0
+2002,F.,Northern Fulmar,301.0
+2002,FP,Feral Pigeon,12834.0
+2002,G.,European Green Woodpecker,1513.0
+2002,GA,Gadwall,72.0
+2002,GB,Great Black-backed Gull,356.0
+2002,GC,Goldcrest,2870.0
+2002,GD,Common Merganser,69.0
+2002,GG,Great Crested Grebe,308.0
+2002,GH,Common Grasshopper Warbler,99.0
+2002,GJ,Greylag Goose,1086.0
+2002,GL,Grey Wagtail,401.0
+2002,GO,European Goldfinch,6429.0
+2002,GP,European Golden Plover,890.0
+2002,GR,European Greenfinch,13844.0
+2002,GS,Great Spotted Woodpecker,1796.0
+2002,GT,Great Tit,12411.0
+2002,GU,Common Murre,7.0
+2002,GV,Grey Plover,2.0
+2002,GW,Garden Warbler,716.0
+2002,GX,Northern Gannet,435.0
+2002,H.,Grey Heron,1264.0
+2002,HC,Hooded Crow,704.0
+2002,HD,Bar-headed Goose,2.0
+2002,HG,European Herring Gull,9229.0
+2002,HM,Western House Martin,6432.0
+2002,HP,Eurasian Hoopoe,1.0
+2002,HS,House Sparrow,29677.0
+2002,J.,Eurasian Jay,1360.0
+2002,JD,Western Jackdaw,22549.0
+2002,K.,Common Kestrel,688.0
+2002,KF,Common Kingfisher,72.0
+2002,KI,Black-legged Kittiwake,6.0
+2002,L.,Northern Lapwing,5948.0
+2002,LB,Lesser Black-backed Gull,4134.0
+2002,LG,Little Grebe,182.0
+2002,LI,Common Linnet,8425.0
+2002,LM,Lady Amherst's Pheasant,1.0
+2002,LO,Little Owl,124.0
+2002,LR,Lesser Redpoll,601.0
+2002,LS,Lesser Spotted Woodpecker,19.0
+2002,LT,Long-tailed Tit,2566.0
+2002,LW,Lesser Whitethroat,378.0
+2002,M.,Mistle Thrush,3113.0
+2002,MA,Mallard,9519.0
+2002,MG,Eurasian Magpie,11542.0
+2002,MH,Common Moorhen,1718.0
+2002,MN,Mandarin Duck,60.0
+2002,MP,Meadow Pipit,12465.0
+2002,MS,Mute Swan,2200.0
+2002,MT,Marsh Tit,305.0
+2002,MX,Manx Shearwater,4.0
+2002,MY,Muscovy Duck,6.0
+2002,N.,Common Nightingale,54.0
+2002,ND,Common Loon,2.0
+2002,NH,Eurasian Nuthatch,1047.0
+2002,NX,Great Skua,132.0
+2002,OC,Eurasian Oystercatcher,1558.0
+2002,P.,Grey Partridge,545.0
+2002,PF,European Pied Flycatcher,127.0
+2002,PG,Pink-footed Goose,952.0
+2002,PH,Common Pheasant,9563.0
+2002,PM,Rock Ptarmigan,16.0
+2002,PW,White Wagtail,2893.0
+2002,PX,Indian Peafowl,8.0
+2002,QL,Cockatiel,1.0
+2002,R.,European Robin,22792.0
+2002,RB,Common Reed Bunting,1137.0
+2002,RC,European Rock Pipit,42.0
+2002,RG,Willow Ptarmigan,580.0
+2002,RI,Rose-ringed Parakeet,207.0
+2002,RK,Common Redshank,434.0
+2002,RL,Red-legged Partridge,1709.0
+2002,RM,Red-breasted Merganser,35.0
+2002,RN,Northern Raven,642.0
+2002,RO,Rook,34811.0
+2002,RP,Common Ringed Plover,131.0
+2002,RQ,Red-crested Pochard,4.0
+2002,RT,Common Redstart,533.0
+2002,RV,Reeves's Pheasant,2.0
+2002,RW,Common Reed Warbler,551.0
+2002,RY,Ruddy Duck,29.0
+2002,RZ,Ring Ouzel,48.0
+2002,S.,Eurasian Skylark,15934.0
+2002,SA,European Shag,19.0
+2002,SC,European Stonechat,408.0
+2002,SD,Stock Dove,2874.0
+2002,SF,Spotted Flycatcher,254.0
+2002,SG,Common Starling,49921.0
+2002,SH,Eurasian Sparrowhawk,343.0
+2002,SI,Common Swift,7399.0
+2002,SJ,Snow Goose,1.0
+2002,SK,Eurasian Siskin,568.0
+2002,SL,Barn Swallow,14186.0
+2002,SM,Sand Martin,1361.0
+2002,SN,Common Snipe,404.0
+2002,SS,Sanderling,2.0
+2002,ST,Song Thrush,8856.0
+2002,SU,Common Shelduck,1039.0
+2002,SW,Sedge Warbler,1188.0
+2002,T.,Eurasian Teal,80.0
+2002,TC,Eurasian Treecreeper,507.0
+2002,TD,European Turtle Dove,386.0
+2002,TE,Sandwich Tern,60.0
+2002,TH,Short-toed Treecreeper,6.0
+2002,TO,Tawny Owl,87.0
+2002,TP,Tree Pipit,422.0
+2002,TS,Eurasian Tree Sparrow,700.0
+2002,TT,Ruddy Turnstone,14.0
+2002,TU,Tufted Duck,1058.0
+2002,W.,Northern Wheatear,919.0
+2002,WA,Water Rail,9.0
+2002,WC,Whinchat,205.0
+2002,WG,Greater White-fronted Goose,11.0
+2002,WH,Common Whitethroat,5422.0
+2002,WK,Eurasian Woodcock,8.0
+2002,WL,Woodlark,35.0
+2002,WO,Wood Warbler,90.0
+2002,WP,Common Wood Pigeon,69420.0
+2002,WR,Eurasian Wren,31965.0
+2002,WT,Willow Tit,51.0
+2002,WW,Willow Warbler,7273.0
+2002,Y.,Yellowhammer,6417.0
+2002,YW,Western Yellow Wagtail,523.0
+2002,ZF,Domestic Mallard,24.0
+2002,ZL,Domestic Greylag Goose,37.0
+2003,AC,Parasitic Jaeger,19.0
+2003,AE,Arctic Tern,20.0
+2003,AS,Black Swan,8.0
+2003,B.,Common Blackbird,44115.0
+2003,BA,Bar-tailed Godwit,11.0
+2003,BC,Eurasian Blackcap,5358.0
+2003,BF,Eurasian Bullfinch,1241.0
+2003,BG,Brant Goose,22.0
+2003,BH,Black-headed Gull,5170.0
+2003,BT,Eurasian Blue Tit,26779.0
+2003,BY,Barnacle Goose,7.0
+2003,BZ,Common Buzzard,1813.0
+2003,C.,Carrion Crow,32374.0
+2003,CA,Great Cormorant,613.0
+2003,CB,Corn Bunting,559.0
+2003,CC,Common Chiffchaff,7500.0
+2003,CD,Eurasian Collared Dove,9630.0
+2003,CG,Canada Goose,4363.0
+2003,CH,Eurasian Chaffinch,39321.0
+2003,CI,Crested Tit,12.0
+2003,CK,Common Cuckoo,1011.0
+2003,CM,Common Gull,2464.0
+2003,CN,Common Tern,245.0
+2003,CO,Eurasian Coot,1892.0
+2003,CR,Red Crossbill,823.0
+2003,CS,Common Sandpiper,133.0
+2003,CT,Coal Tit,3073.0
+2003,CU,Eurasian Curlew,2457.0
+2003,CY,Scottish Crossbill,6.0
+2003,D.,Dunnock,11006.0
+2003,DC,Wood Duck,1.0
+2003,DI,White-throated Dipper,81.0
+2003,DV,Rock Dove,164.0
+2003,DW,Dartford Warbler,27.0
+2003,EG,Egyptian Goose,26.0
+2003,ET,Little Egret,40.0
+2003,F.,Northern Fulmar,348.0
+2003,FP,Feral Pigeon,13648.0
+2003,FW,Helmeted Guineafowl,9.0
+2003,G.,European Green Woodpecker,1652.0
+2003,GA,Gadwall,104.0
+2003,GB,Great Black-backed Gull,395.0
+2003,GC,Goldcrest,3354.0
+2003,GD,Common Merganser,125.0
+2003,GF,Golden Pheasant,7.0
+2003,GG,Great Crested Grebe,251.0
+2003,GH,Common Grasshopper Warbler,111.0
+2003,GJ,Greylag Goose,1427.0
+2003,GL,Grey Wagtail,458.0
+2003,GO,European Goldfinch,7190.0
+2003,GP,European Golden Plover,1030.0
+2003,GR,European Greenfinch,15003.0
+2003,GS,Great Spotted Woodpecker,2049.0
+2003,GT,Great Tit,13491.0
+2003,GU,Common Murre,1.0
+2003,GV,Grey Plover,1.0
+2003,GW,Garden Warbler,722.0
+2003,GX,Northern Gannet,16.0
+2003,H.,Grey Heron,1449.0
+2003,HB,Carrion x Hooded Crow,11.0
+2003,HC,Hooded Crow,931.0
+2003,HG,European Herring Gull,8447.0
+2003,HM,Western House Martin,7629.0
+2003,HS,House Sparrow,32190.0
+2003,IG,Iceland Gull,1.0
+2003,J.,Eurasian Jay,1406.0
+2003,JD,Western Jackdaw,25161.0
+2003,K.,Common Kestrel,946.0
+2003,KF,Common Kingfisher,81.0
+2003,KI,Black-legged Kittiwake,1.0
+2003,KN,Red Knot,12.0
+2003,L.,Northern Lapwing,6305.0
+2003,LB,Lesser Black-backed Gull,5540.0
+2003,LG,Little Grebe,188.0
+2003,LI,Common Linnet,9122.0
+2003,LO,Little Owl,139.0
+2003,LR,Lesser Redpoll,572.0
+2003,LS,Lesser Spotted Woodpecker,30.0
+2003,LT,Long-tailed Tit,2985.0
+2003,LW,Lesser Whitethroat,341.0
+2003,M.,Mistle Thrush,3164.0
+2003,MA,Mallard,9544.0
+2003,MG,Eurasian Magpie,11970.0
+2003,MH,Common Moorhen,1791.0
+2003,MN,Mandarin Duck,71.0
+2003,MP,Meadow Pipit,14312.0
+2003,MS,Mute Swan,2462.0
+2003,MT,Marsh Tit,288.0
+2003,MX,Manx Shearwater,1.0
+2003,N.,Common Nightingale,33.0
+2003,ND,Common Loon,1.0
+2003,NH,Eurasian Nuthatch,1087.0
+2003,NX,Great Skua,72.0
+2003,OC,Eurasian Oystercatcher,1765.0
+2003,P.,Grey Partridge,482.0
+2003,PF,European Pied Flycatcher,87.0
+2003,PG,Pink-footed Goose,272.0
+2003,PH,Common Pheasant,11220.0
+2003,PM,Rock Ptarmigan,2.0
+2003,PW,White Wagtail,3377.0
+2003,PX,Indian Peafowl,19.0
+2003,R.,European Robin,24168.0
+2003,RA,Razorbill,1.0
+2003,RB,Common Reed Bunting,1379.0
+2003,RC,European Rock Pipit,33.0
+2003,RG,Willow Ptarmigan,745.0
+2003,RI,Rose-ringed Parakeet,572.0
+2003,RK,Common Redshank,299.0
+2003,RL,Red-legged Partridge,1814.0
+2003,RM,Red-breasted Merganser,41.0
+2003,RN,Northern Raven,888.0
+2003,RO,Rook,34426.0
+2003,RP,Common Ringed Plover,147.0
+2003,RQ,Red-crested Pochard,4.0
+2003,RT,Common Redstart,398.0
+2003,RW,Common Reed Warbler,522.0
+2003,RY,Ruddy Duck,46.0
+2003,RZ,Ring Ouzel,44.0
+2003,S.,Eurasian Skylark,16709.0
+2003,SA,European Shag,35.0
+2003,SC,European Stonechat,475.0
+2003,SD,Stock Dove,2938.0
+2003,SF,Spotted Flycatcher,283.0
+2003,SG,Common Starling,45887.0
+2003,SH,Eurasian Sparrowhawk,403.0
+2003,SI,Common Swift,8309.0
+2003,SK,Eurasian Siskin,442.0
+2003,SL,Barn Swallow,14873.0
+2003,SM,Sand Martin,693.0
+2003,SN,Common Snipe,479.0
+2003,SP,Greater Scaup,5.0
+2003,ST,Song Thrush,9541.0
+2003,SU,Common Shelduck,914.0
+2003,SW,Sedge Warbler,960.0
+2003,T.,Eurasian Teal,150.0
+2003,TC,Eurasian Treecreeper,537.0
+2003,TD,European Turtle Dove,343.0
+2003,TE,Sandwich Tern,28.0
+2003,TH,Short-toed Treecreeper,2.0
+2003,TO,Tawny Owl,85.0
+2003,TP,Tree Pipit,367.0
+2003,TS,Eurasian Tree Sparrow,837.0
+2003,TU,Tufted Duck,1126.0
+2003,UD,Ruddy Shelduck,2.0
+2003,W.,Northern Wheatear,840.0
+2003,WA,Water Rail,10.0
+2003,WC,Whinchat,233.0
+2003,WH,Common Whitethroat,4739.0
+2003,WK,Eurasian Woodcock,19.0
+2003,WL,Woodlark,41.0
+2003,WO,Wood Warbler,75.0
+2003,WP,Common Wood Pigeon,76286.0
+2003,WR,Eurasian Wren,33380.0
+2003,WT,Willow Tit,79.0
+2003,WW,Willow Warbler,7354.0
+2003,Y.,Yellowhammer,6599.0
+2003,YW,Western Yellow Wagtail,466.0
+2003,ZF,Domestic Mallard,43.0
+2003,ZL,Domestic Greylag Goose,1.0
+2004,AC,Parasitic Jaeger,40.0
+2004,AE,Arctic Tern,108.0
+2004,AS,Black Swan,17.0
+2004,B.,Common Blackbird,47386.0
+2004,BA,Bar-tailed Godwit,17.0
+2004,BC,Eurasian Blackcap,6886.0
+2004,BF,Eurasian Bullfinch,1363.0
+2004,BG,Brant Goose,106.0
+2004,BH,Black-headed Gull,4543.0
+2004,BT,Eurasian Blue Tit,29311.0
+2004,BY,Barnacle Goose,951.0
+2004,BZ,Common Buzzard,1988.0
+2004,C.,Carrion Crow,36517.0
+2004,CA,Great Cormorant,726.0
+2004,CB,Corn Bunting,599.0
+2004,CC,Common Chiffchaff,9435.0
+2004,CD,Eurasian Collared Dove,11413.0
+2004,CG,Canada Goose,4734.0
+2004,CH,Eurasian Chaffinch,43225.0
+2004,CI,Crested Tit,7.0
+2004,CK,Common Cuckoo,1347.0
+2004,CM,Common Gull,2093.0
+2004,CN,Common Tern,303.0
+2004,CO,Eurasian Coot,2114.0
+2004,CR,Red Crossbill,147.0
+2004,CS,Common Sandpiper,153.0
+2004,CT,Coal Tit,3175.0
+2004,CU,Eurasian Curlew,2694.0
+2004,D.,Dunnock,11249.0
+2004,DC,Wood Duck,3.0
+2004,DI,White-throated Dipper,83.0
+2004,DR,Spotted Redshank,1.0
+2004,DV,Rock Dove,116.0
+2004,DW,Dartford Warbler,33.0
+2004,EB,Red-breasted Goose,1.0
+2004,EG,Egyptian Goose,46.0
+2004,ET,Little Egret,107.0
+2004,F.,Northern Fulmar,362.0
+2004,FP,Feral Pigeon,16298.0
+2004,FW,Helmeted Guineafowl,36.0
+2004,G.,European Green Woodpecker,1880.0
+2004,GA,Gadwall,138.0
+2004,GB,Great Black-backed Gull,434.0
+2004,GC,Goldcrest,3372.0
+2004,GD,Common Merganser,73.0
+2004,GF,Golden Pheasant,6.0
+2004,GG,Great Crested Grebe,348.0
+2004,GH,Common Grasshopper Warbler,138.0
+2004,GJ,Greylag Goose,1289.0
+2004,GL,Grey Wagtail,376.0
+2004,GO,European Goldfinch,8143.0
+2004,GP,European Golden Plover,938.0
+2004,GR,European Greenfinch,17253.0
+2004,GS,Great Spotted Woodpecker,2394.0
+2004,GT,Great Tit,15826.0
+2004,GU,Common Murre,4.0
+2004,GV,Grey Plover,12.0
+2004,GW,Garden Warbler,835.0
+2004,GX,Northern Gannet,91.0
+2004,H.,Grey Heron,1338.0
+2004,HC,Hooded Crow,828.0
+2004,HD,Bar-headed Goose,4.0
+2004,HG,European Herring Gull,11926.0
+2004,HM,Western House Martin,8803.0
+2004,HP,Eurasian Hoopoe,1.0
+2004,HS,House Sparrow,38065.0
+2004,J.,Eurasian Jay,1603.0
+2004,JD,Western Jackdaw,26770.0
+2004,JS,Jack Snipe,1.0
+2004,K.,Common Kestrel,809.0
+2004,KF,Common Kingfisher,67.0
+2004,KI,Black-legged Kittiwake,13.0
+2004,L.,Northern Lapwing,6498.0
+2004,LB,Lesser Black-backed Gull,6238.0
+2004,LG,Little Grebe,155.0
+2004,LI,Common Linnet,9205.0
+2004,LO,Little Owl,122.0
+2004,LR,Lesser Redpoll,546.0
+2004,LS,Lesser Spotted Woodpecker,21.0
+2004,LT,Long-tailed Tit,3107.0
+2004,LW,Lesser Whitethroat,401.0
+2004,M.,Mistle Thrush,3280.0
+2004,MA,Mallard,10783.0
+2004,MG,Eurasian Magpie,12721.0
+2004,MH,Common Moorhen,1931.0
+2004,MN,Mandarin Duck,74.0
+2004,MP,Meadow Pipit,13772.0
+2004,MS,Mute Swan,2201.0
+2004,MT,Marsh Tit,288.0
+2004,MY,Muscovy Duck,7.0
+2004,N.,Common Nightingale,35.0
+2004,ND,Common Loon,1.0
+2004,NH,Eurasian Nuthatch,1237.0
+2004,NX,Great Skua,108.0
+2004,OC,Eurasian Oystercatcher,1848.0
+2004,P.,Grey Partridge,632.0
+2004,PF,European Pied Flycatcher,107.0
+2004,PG,Pink-footed Goose,643.0
+2004,PH,Common Pheasant,12608.0
+2004,PW,White Wagtail,3336.0
+2004,PX,Indian Peafowl,31.0
+2004,R.,European Robin,24976.0
+2004,RA,Razorbill,7.0
+2004,RB,Common Reed Bunting,1564.0
+2004,RC,European Rock Pipit,47.0
+2004,RG,Willow Ptarmigan,638.0
+2004,RI,Rose-ringed Parakeet,565.0
+2004,RK,Common Redshank,473.0
+2004,RL,Red-legged Partridge,2405.0
+2004,RM,Red-breasted Merganser,66.0
+2004,RN,Northern Raven,898.0
+2004,RO,Rook,36693.0
+2004,RP,Common Ringed Plover,145.0
+2004,RQ,Red-crested Pochard,1.0
+2004,RT,Common Redstart,528.0
+2004,RV,Reeves's Pheasant,1.0
+2004,RW,Common Reed Warbler,782.0
+2004,RY,Ruddy Duck,43.0
+2004,RZ,Ring Ouzel,58.0
+2004,S.,Eurasian Skylark,18625.0
+2004,SA,European Shag,60.0
+2004,SC,European Stonechat,564.0
+2004,SD,Stock Dove,3363.0
+2004,SF,Spotted Flycatcher,318.0
+2004,SG,Common Starling,46659.0
+2004,SH,Eurasian Sparrowhawk,379.0
+2004,SI,Common Swift,9913.0
+2004,SK,Eurasian Siskin,445.0
+2004,SL,Barn Swallow,18714.0
+2004,SM,Sand Martin,1665.0
+2004,SN,Common Snipe,544.0
+2004,SS,Sanderling,17.0
+2004,ST,Song Thrush,10101.0
+2004,SU,Common Shelduck,915.0
+2004,SW,Sedge Warbler,1409.0
+2004,T.,Eurasian Teal,93.0
+2004,TC,Eurasian Treecreeper,524.0
+2004,TD,European Turtle Dove,351.0
+2004,TE,Sandwich Tern,76.0
+2004,TH,Short-toed Treecreeper,6.0
+2004,TO,Tawny Owl,84.0
+2004,TP,Tree Pipit,516.0
+2004,TS,Eurasian Tree Sparrow,895.0
+2004,TT,Ruddy Turnstone,19.0
+2004,TU,Tufted Duck,1196.0
+2004,UD,Ruddy Shelduck,2.0
+2004,W.,Northern Wheatear,980.0
+2004,WA,Water Rail,12.0
+2004,WC,Whinchat,242.0
+2004,WG,Greater White-fronted Goose,92.0
+2004,WH,Common Whitethroat,6652.0
+2004,WK,Eurasian Woodcock,19.0
+2004,WL,Woodlark,30.0
+2004,WO,Wood Warbler,103.0
+2004,WP,Common Wood Pigeon,83409.0
+2004,WR,Eurasian Wren,34268.0
+2004,WT,Willow Tit,88.0
+2004,WW,Willow Warbler,8688.0
+2004,WY,Eurasian Wryneck,1.0
+2004,Y.,Yellowhammer,6811.0
+2004,YW,Western Yellow Wagtail,638.0
+2004,ZF,Domestic Mallard,91.0
+2004,ZL,Domestic Greylag Goose,69.0
+2005,AC,Parasitic Jaeger,34.0
+2005,AE,Arctic Tern,70.0
+2005,AS,Black Swan,11.0
+2005,B.,Common Blackbird,55387.0
+2005,BA,Bar-tailed Godwit,36.0
+2005,BC,Eurasian Blackcap,7925.0
+2005,BF,Eurasian Bullfinch,1672.0
+2005,BG,Brant Goose,69.0
+2005,BH,Black-headed Gull,7697.0
+2005,BT,Eurasian Blue Tit,35481.0
+2005,BY,Barnacle Goose,7.0
+2005,BZ,Common Buzzard,2460.0
+2005,C.,Carrion Crow,41540.0
+2005,CA,Great Cormorant,921.0
+2005,CB,Corn Bunting,686.0
+2005,CC,Common Chiffchaff,7405.0
+2005,CD,Eurasian Collared Dove,12498.0
+2005,CG,Canada Goose,5801.0
+2005,CH,Eurasian Chaffinch,50161.0
+2005,CI,Crested Tit,10.0
+2005,CK,Common Cuckoo,1305.0
+2005,CM,Common Gull,2509.0
+2005,CN,Common Tern,258.0
+2005,CO,Eurasian Coot,2576.0
+2005,CR,Red Crossbill,221.0
+2005,CS,Common Sandpiper,160.0
+2005,CT,Coal Tit,3713.0
+2005,CU,Eurasian Curlew,3060.0
+2005,CY,Scottish Crossbill,7.0
+2005,D.,Dunnock,13892.0
+2005,DI,White-throated Dipper,93.0
+2005,DR,Spotted Redshank,1.0
+2005,DV,Rock Dove,86.0
+2005,DW,Dartford Warbler,34.0
+2005,EG,Egyptian Goose,67.0
+2005,ET,Little Egret,153.0
+2005,F.,Northern Fulmar,383.0
+2005,FP,Feral Pigeon,18248.0
+2005,FW,Helmeted Guineafowl,58.0
+2005,G.,European Green Woodpecker,2137.0
+2005,GA,Gadwall,138.0
+2005,GB,Great Black-backed Gull,486.0
+2005,GC,Goldcrest,3963.0
+2005,GD,Common Merganser,80.0
+2005,GF,Golden Pheasant,9.0
+2005,GG,Great Crested Grebe,369.0
+2005,GH,Common Grasshopper Warbler,151.0
+2005,GJ,Greylag Goose,1561.0
+2005,GL,Grey Wagtail,554.0
+2005,GO,European Goldfinch,10192.0
+2005,GP,European Golden Plover,708.0
+2005,GR,European Greenfinch,20827.0
+2005,GS,Great Spotted Woodpecker,2978.0
+2005,GT,Great Tit,19512.0
+2005,GU,Common Murre,5.0
+2005,GV,Grey Plover,3.0
+2005,GW,Garden Warbler,928.0
+2005,GX,Northern Gannet,97.0
+2005,H.,Grey Heron,1685.0
+2005,HB,Carrion x Hooded Crow,1.0
+2005,HC,Hooded Crow,834.0
+2005,HG,European Herring Gull,14109.0
+2005,HM,Western House Martin,9324.0
+2005,HS,House Sparrow,43759.0
+2005,J.,Eurasian Jay,1853.0
+2005,JD,Western Jackdaw,32837.0
+2005,K.,Common Kestrel,1172.0
+2005,KF,Common Kingfisher,83.0
+2005,KI,Black-legged Kittiwake,3.0
+2005,L.,Northern Lapwing,7264.0
+2005,LA,Lapland Longspur,1.0
+2005,LB,Lesser Black-backed Gull,6527.0
+2005,LG,Little Grebe,224.0
+2005,LI,Common Linnet,9811.0
+2005,LO,Little Owl,125.0
+2005,LR,Lesser Redpoll,948.0
+2005,LS,Lesser Spotted Woodpecker,29.0
+2005,LT,Long-tailed Tit,3564.0
+2005,LU,Little Gull,2.0
+2005,LW,Lesser Whitethroat,436.0
+2005,LX,Little Stint,3.0
+2005,M.,Mistle Thrush,3662.0
+2005,MA,Mallard,11972.0
+2005,MG,Eurasian Magpie,15008.0
+2005,MH,Common Moorhen,2156.0
+2005,MN,Mandarin Duck,47.0
+2005,MP,Meadow Pipit,15500.0
+2005,MS,Mute Swan,2729.0
+2005,MT,Marsh Tit,337.0
+2005,N.,Common Nightingale,67.0
+2005,ND,Common Loon,4.0
+2005,NH,Eurasian Nuthatch,1492.0
+2005,NX,Great Skua,38.0
+2005,OC,Eurasian Oystercatcher,2528.0
+2005,P.,Grey Partridge,708.0
+2005,PF,European Pied Flycatcher,92.0
+2005,PG,Pink-footed Goose,22.0
+2005,PH,Common Pheasant,14468.0
+2005,PW,White Wagtail,3934.0
+2005,PX,Indian Peafowl,62.0
+2005,QL,Cockatiel,1.0
+2005,R.,European Robin,28401.0
+2005,RA,Razorbill,68.0
+2005,RB,Common Reed Bunting,1937.0
+2005,RC,European Rock Pipit,60.0
+2005,RG,Willow Ptarmigan,627.0
+2005,RI,Rose-ringed Parakeet,553.0
+2005,RK,Common Redshank,518.0
+2005,RL,Red-legged Partridge,2825.0
+2005,RM,Red-breasted Merganser,36.0
+2005,RN,Northern Raven,1201.0
+2005,RO,Rook,43037.0
+2005,RP,Common Ringed Plover,156.0
+2005,RT,Common Redstart,513.0
+2005,RW,Common Reed Warbler,869.0
+2005,RY,Ruddy Duck,83.0
+2005,RZ,Ring Ouzel,61.0
+2005,S.,Eurasian Skylark,21505.0
+2005,SA,European Shag,65.0
+2005,SC,European Stonechat,748.0
+2005,SD,Stock Dove,3225.0
+2005,SF,Spotted Flycatcher,310.0
+2005,SG,Common Starling,57747.0
+2005,SH,Eurasian Sparrowhawk,517.0
+2005,SI,Common Swift,11814.0
+2005,SK,Eurasian Siskin,740.0
+2005,SL,Barn Swallow,23265.0
+2005,SM,Sand Martin,1526.0
+2005,SN,Common Snipe,494.0
+2005,SS,Sanderling,38.0
+2005,ST,Song Thrush,11521.0
+2005,SU,Common Shelduck,2651.0
+2005,SW,Sedge Warbler,1331.0
+2005,T.,Eurasian Teal,121.0
+2005,TC,Eurasian Treecreeper,687.0
+2005,TD,European Turtle Dove,363.0
+2005,TE,Sandwich Tern,92.0
+2005,TH,Short-toed Treecreeper,5.0
+2005,TO,Tawny Owl,139.0
+2005,TP,Tree Pipit,410.0
+2005,TS,Eurasian Tree Sparrow,995.0
+2005,TT,Ruddy Turnstone,24.0
+2005,TU,Tufted Duck,1332.0
+2005,W.,Northern Wheatear,1175.0
+2005,WA,Water Rail,21.0
+2005,WC,Whinchat,214.0
+2005,WG,Greater White-fronted Goose,87.0
+2005,WH,Common Whitethroat,6576.0
+2005,WK,Eurasian Woodcock,11.0
+2005,WL,Woodlark,47.0
+2005,WO,Wood Warbler,91.0
+2005,WP,Common Wood Pigeon,100464.0
+2005,WR,Eurasian Wren,41920.0
+2005,WT,Willow Tit,74.0
+2005,WW,Willow Warbler,9617.0
+2005,WX,Bohemian Waxwing,1.0
+2005,Y.,Yellowhammer,8291.0
+2005,YW,Western Yellow Wagtail,517.0
+2005,ZF,Domestic Mallard,98.0
+2005,ZL,Domestic Greylag Goose,46.0
+2006,AC,Parasitic Jaeger,27.0
+2006,AE,Arctic Tern,667.0
+2006,AS,Black Swan,12.0
+2006,B.,Common Blackbird,61804.0
+2006,BA,Bar-tailed Godwit,9.0
+2006,BC,Eurasian Blackcap,9014.0
+2006,BF,Eurasian Bullfinch,1383.0
+2006,BG,Brant Goose,62.0
+2006,BH,Black-headed Gull,9770.0
+2006,BT,Eurasian Blue Tit,41081.0
+2006,BY,Barnacle Goose,923.0
+2006,BZ,Common Buzzard,2738.0
+2006,C.,Carrion Crow,51254.0
+2006,CA,Great Cormorant,1016.0
+2006,CB,Corn Bunting,732.0
+2006,CC,Common Chiffchaff,7192.0
+2006,CD,Eurasian Collared Dove,14309.0
+2006,CG,Canada Goose,6230.0
+2006,CH,Eurasian Chaffinch,58465.0
+2006,CI,Crested Tit,7.0
+2006,CK,Common Cuckoo,1455.0
+2006,CM,Common Gull,2765.0
+2006,CN,Common Tern,447.0
+2006,CO,Eurasian Coot,2755.0
+2006,CR,Red Crossbill,350.0
+2006,CS,Common Sandpiper,191.0
+2006,CT,Coal Tit,3854.0
+2006,CU,Eurasian Curlew,4812.0
+2006,CY,Scottish Crossbill,23.0
+2006,D.,Dunnock,15921.0
+2006,DI,White-throated Dipper,109.0
+2006,DV,Rock Dove,211.0
+2006,DW,Dartford Warbler,64.0
+2006,EG,Egyptian Goose,88.0
+2006,ET,Little Egret,179.0
+2006,F.,Northern Fulmar,493.0
+2006,FP,Feral Pigeon,18223.0
+2006,FW,Helmeted Guineafowl,84.0
+2006,FZ,Zitting Cisticola,5.0
+2006,G.,European Green Woodpecker,2627.0
+2006,GA,Gadwall,143.0
+2006,GB,Great Black-backed Gull,561.0
+2006,GC,Goldcrest,3661.0
+2006,GD,Common Merganser,157.0
+2006,GF,Golden Pheasant,6.0
+2006,GG,Great Crested Grebe,456.0
+2006,GH,Common Grasshopper Warbler,154.0
+2006,GJ,Greylag Goose,2896.0
+2006,GL,Grey Wagtail,487.0
+2006,GO,European Goldfinch,10724.0
+2006,GP,European Golden Plover,1923.0
+2006,GR,European Greenfinch,24161.0
+2006,GS,Great Spotted Woodpecker,3779.0
+2006,GT,Great Tit,24614.0
+2006,GU,Common Murre,25.0
+2006,GV,Grey Plover,11.0
+2006,GW,Garden Warbler,985.0
+2006,GX,Northern Gannet,87.0
+2006,H.,Grey Heron,1781.0
+2006,HC,Hooded Crow,673.0
+2006,HD,Bar-headed Goose,2.0
+2006,HG,European Herring Gull,16052.0
+2006,HM,Western House Martin,9751.0
+2006,HS,House Sparrow,45556.0
+2006,J.,Eurasian Jay,2157.0
+2006,JD,Western Jackdaw,37155.0
+2006,JS,Jack Snipe,1.0
+2006,K.,Common Kestrel,1282.0
+2006,KF,Common Kingfisher,122.0
+2006,KI,Black-legged Kittiwake,390.0
+2006,KN,Red Knot,18.0
+2006,L.,Northern Lapwing,8354.0
+2006,LB,Lesser Black-backed Gull,6758.0
+2006,LG,Little Grebe,236.0
+2006,LI,Common Linnet,9263.0
+2006,LO,Little Owl,159.0
+2006,LR,Lesser Redpoll,771.0
+2006,LS,Lesser Spotted Woodpecker,34.0
+2006,LT,Long-tailed Tit,4124.0
+2006,LW,Lesser Whitethroat,619.0
+2006,M.,Mistle Thrush,3683.0
+2006,MA,Mallard,14284.0
+2006,MG,Eurasian Magpie,16655.0
+2006,MH,Common Moorhen,2525.0
+2006,MN,Mandarin Duck,121.0
+2006,MP,Meadow Pipit,18643.0
+2006,MS,Mute Swan,2629.0
+2006,MT,Marsh Tit,317.0
+2006,N.,Common Nightingale,78.0
+2006,ND,Common Loon,17.0
+2006,NH,Eurasian Nuthatch,1617.0
+2006,NX,Great Skua,103.0
+2006,OC,Eurasian Oystercatcher,2884.0
+2006,P.,Grey Partridge,838.0
+2006,PF,European Pied Flycatcher,106.0
+2006,PG,Pink-footed Goose,315.0
+2006,PH,Common Pheasant,17250.0
+2006,PM,Rock Ptarmigan,5.0
+2006,PU,Atlantic Puffin,7.0
+2006,PW,White Wagtail,4109.0
+2006,PX,Indian Peafowl,138.0
+2006,R.,European Robin,34066.0
+2006,RA,Razorbill,62.0
+2006,RB,Common Reed Bunting,2274.0
+2006,RC,European Rock Pipit,88.0
+2006,RG,Willow Ptarmigan,1024.0
+2006,RI,Rose-ringed Parakeet,849.0
+2006,RK,Common Redshank,676.0
+2006,RL,Red-legged Partridge,2999.0
+2006,RM,Red-breasted Merganser,39.0
+2006,RN,Northern Raven,1057.0
+2006,RO,Rook,53654.0
+2006,RP,Common Ringed Plover,192.0
+2006,RQ,Red-crested Pochard,2.0
+2006,RT,Common Redstart,719.0
+2006,RW,Common Reed Warbler,987.0
+2006,RY,Ruddy Duck,45.0
+2006,RZ,Ring Ouzel,111.0
+2006,S.,Eurasian Skylark,25508.0
+2006,SA,European Shag,74.0
+2006,SC,European Stonechat,714.0
+2006,SD,Stock Dove,3667.0
+2006,SF,Spotted Flycatcher,385.0
+2006,SG,Common Starling,61419.0
+2006,SH,Eurasian Sparrowhawk,570.0
+2006,SI,Common Swift,11635.0
+2006,SK,Eurasian Siskin,769.0
+2006,SL,Barn Swallow,28088.0
+2006,SM,Sand Martin,3033.0
+2006,SN,Common Snipe,581.0
+2006,SP,Greater Scaup,187.0
+2006,SS,Sanderling,41.0
+2006,ST,Song Thrush,13091.0
+2006,SU,Common Shelduck,2187.0
+2006,SW,Sedge Warbler,1451.0
+2006,T.,Eurasian Teal,139.0
+2006,TC,Eurasian Treecreeper,803.0
+2006,TD,European Turtle Dove,288.0
+2006,TE,Sandwich Tern,79.0
+2006,TH,Short-toed Treecreeper,8.0
+2006,TO,Tawny Owl,97.0
+2006,TP,Tree Pipit,563.0
+2006,TS,Eurasian Tree Sparrow,1449.0
+2006,TT,Ruddy Turnstone,202.0
+2006,TU,Tufted Duck,1667.0
+2006,UD,Ruddy Shelduck,3.0
+2006,W.,Northern Wheatear,1351.0
+2006,WA,Water Rail,9.0
+2006,WC,Whinchat,282.0
+2006,WG,Greater White-fronted Goose,133.0
+2006,WH,Common Whitethroat,8763.0
+2006,WK,Eurasian Woodcock,26.0
+2006,WL,Woodlark,70.0
+2006,WO,Wood Warbler,116.0
+2006,WP,Common Wood Pigeon,120425.0
+2006,WR,Eurasian Wren,42105.0
+2006,WT,Willow Tit,100.0
+2006,WW,Willow Warbler,10634.0
+2006,WX,Bohemian Waxwing,40.0
+2006,Y.,Yellowhammer,9664.0
+2006,YW,Western Yellow Wagtail,633.0
+2006,ZF,Domestic Mallard,170.0
+2006,ZL,Domestic Greylag Goose,78.0
+2007,AC,Parasitic Jaeger,13.0
+2007,AE,Arctic Tern,187.0
+2007,AS,Black Swan,12.0
+2007,B.,Common Blackbird,70508.0
+2007,BA,Bar-tailed Godwit,63.0
+2007,BC,Eurasian Blackcap,9416.0
+2007,BF,Eurasian Bullfinch,1749.0
+2007,BG,Brant Goose,104.0
+2007,BH,Black-headed Gull,10477.0
+2007,BJ,Black Tern,2.0
+2007,BT,Eurasian Blue Tit,41589.0
+2007,BY,Barnacle Goose,105.0
+2007,BZ,Common Buzzard,3284.0
+2007,C.,Carrion Crow,56109.0
+2007,CA,Great Cormorant,1069.0
+2007,CB,Corn Bunting,824.0
+2007,CC,Common Chiffchaff,10912.0
+2007,CD,Eurasian Collared Dove,14085.0
+2007,CG,Canada Goose,7747.0
+2007,CH,Eurasian Chaffinch,66242.0
+2007,CI,Crested Tit,26.0
+2007,CK,Common Cuckoo,1500.0
+2007,CM,Common Gull,2955.0
+2007,CN,Common Tern,348.0
+2007,CO,Eurasian Coot,2687.0
+2007,CR,Red Crossbill,559.0
+2007,CS,Common Sandpiper,253.0
+2007,CT,Coal Tit,5759.0
+2007,CU,Eurasian Curlew,5859.0
+2007,CY,Scottish Crossbill,15.0
+2007,D.,Dunnock,17580.0
+2007,DC,Wood Duck,1.0
+2007,DI,White-throated Dipper,151.0
+2007,DR,Spotted Redshank,3.0
+2007,DV,Rock Dove,233.0
+2007,DW,Dartford Warbler,82.0
+2007,EG,Egyptian Goose,116.0
+2007,EO,Eurasian Eagle-Owl,1.0
+2007,ET,Little Egret,189.0
+2007,F.,Northern Fulmar,248.0
+2007,FP,Feral Pigeon,20227.0
+2007,FW,Helmeted Guineafowl,57.0
+2007,G.,European Green Woodpecker,2671.0
+2007,GA,Gadwall,211.0
+2007,GB,Great Black-backed Gull,639.0
+2007,GC,Goldcrest,5663.0
+2007,GD,Common Merganser,127.0
+2007,GG,Great Crested Grebe,443.0
+2007,GH,Common Grasshopper Warbler,304.0
+2007,GJ,Greylag Goose,2854.0
+2007,GL,Grey Wagtail,716.0
+2007,GO,European Goldfinch,13151.0
+2007,GP,European Golden Plover,3130.0
+2007,GR,European Greenfinch,22378.0
+2007,GS,Great Spotted Woodpecker,4304.0
+2007,GT,Great Tit,25577.0
+2007,GU,Common Murre,20.0
+2007,GV,Grey Plover,3.0
+2007,GW,Garden Warbler,1159.0
+2007,GX,Northern Gannet,175.0
+2007,H.,Grey Heron,2094.0
+2007,HC,Hooded Crow,1086.0
+2007,HD,Bar-headed Goose,3.0
+2007,HG,European Herring Gull,17464.0
+2007,HM,Western House Martin,10149.0
+2007,HS,House Sparrow,45912.0
+2007,IG,Iceland Gull,1.0
+2007,J.,Eurasian Jay,2320.0
+2007,JD,Western Jackdaw,44917.0
+2007,K.,Common Kestrel,1361.0
+2007,KF,Common Kingfisher,121.0
+2007,KI,Black-legged Kittiwake,214.0
+2007,KN,Red Knot,70.0
+2007,L.,Northern Lapwing,9419.0
+2007,LB,Lesser Black-backed Gull,10135.0
+2007,LG,Little Grebe,215.0
+2007,LI,Common Linnet,9279.0
+2007,LO,Little Owl,165.0
+2007,LR,Lesser Redpoll,926.0
+2007,LS,Lesser Spotted Woodpecker,40.0
+2007,LT,Long-tailed Tit,4822.0
+2007,LU,Little Gull,1.0
+2007,LW,Lesser Whitethroat,758.0
+2007,LX,Little Stint,3.0
+2007,M.,Mistle Thrush,4418.0
+2007,MA,Mallard,15955.0
+2007,MG,Eurasian Magpie,18925.0
+2007,MH,Common Moorhen,2837.0
+2007,MN,Mandarin Duck,101.0
+2007,MP,Meadow Pipit,24972.0
+2007,MS,Mute Swan,2807.0
+2007,MT,Marsh Tit,411.0
+2007,N.,Common Nightingale,64.0
+2007,ND,Common Loon,14.0
+2007,NH,Eurasian Nuthatch,1830.0
+2007,NS,European Serin,1.0
+2007,NX,Great Skua,88.0
+2007,OC,Eurasian Oystercatcher,3444.0
+2007,P.,Grey Partridge,886.0
+2007,PF,European Pied Flycatcher,82.0
+2007,PG,Pink-footed Goose,821.0
+2007,PH,Common Pheasant,20184.0
+2007,PM,Rock Ptarmigan,13.0
+2007,PW,White Wagtail,4912.0
+2007,PX,Indian Peafowl,145.0
+2007,R.,European Robin,39852.0
+2007,RA,Razorbill,8.0
+2007,RB,Common Reed Bunting,2607.0
+2007,RC,European Rock Pipit,102.0
+2007,RG,Willow Ptarmigan,1803.0
+2007,RI,Rose-ringed Parakeet,1213.0
+2007,RK,Common Redshank,740.0
+2007,RL,Red-legged Partridge,3399.0
+2007,RM,Red-breasted Merganser,60.0
+2007,RN,Northern Raven,1360.0
+2007,RO,Rook,59667.0
+2007,RP,Common Ringed Plover,170.0
+2007,RT,Common Redstart,688.0
+2007,RW,Common Reed Warbler,864.0
+2007,RY,Ruddy Duck,48.0
+2007,RZ,Ring Ouzel,130.0
+2007,S.,Eurasian Skylark,28613.0
+2007,SA,European Shag,72.0
+2007,SC,European Stonechat,1355.0
+2007,SD,Stock Dove,3837.0
+2007,SF,Spotted Flycatcher,335.0
+2007,SG,Common Starling,69757.0
+2007,SH,Eurasian Sparrowhawk,560.0
+2007,SI,Common Swift,11029.0
+2007,SJ,Snow Goose,1.0
+2007,SK,Eurasian Siskin,2581.0
+2007,SL,Barn Swallow,28579.0
+2007,SM,Sand Martin,1999.0
+2007,SN,Common Snipe,849.0
+2007,SS,Sanderling,15.0
+2007,ST,Song Thrush,14582.0
+2007,SU,Common Shelduck,1689.0
+2007,SW,Sedge Warbler,1758.0
+2007,T.,Eurasian Teal,105.0
+2007,TC,Eurasian Treecreeper,859.0
+2007,TD,European Turtle Dove,281.0
+2007,TE,Sandwich Tern,64.0
+2007,TO,Tawny Owl,170.0
+2007,TP,Tree Pipit,873.0
+2007,TS,Eurasian Tree Sparrow,1156.0
+2007,TT,Ruddy Turnstone,136.0
+2007,TU,Tufted Duck,1793.0
+2007,UD,Ruddy Shelduck,2.0
+2007,W.,Northern Wheatear,1904.0
+2007,WA,Water Rail,12.0
+2007,WC,Whinchat,341.0
+2007,WG,Greater White-fronted Goose,11.0
+2007,WH,Common Whitethroat,8631.0
+2007,WK,Eurasian Woodcock,26.0
+2007,WL,Woodlark,84.0
+2007,WO,Wood Warbler,169.0
+2007,WP,Common Wood Pigeon,134198.0
+2007,WR,Eurasian Wren,53995.0
+2007,WT,Willow Tit,90.0
+2007,WW,Willow Warbler,13980.0
+2007,Y.,Yellowhammer,10128.0
+2007,YW,Western Yellow Wagtail,484.0
+2007,ZF,Domestic Mallard,178.0
+2007,ZL,Domestic Greylag Goose,106.0
+2008,AC,Parasitic Jaeger,5.0
+2008,AE,Arctic Tern,92.0
+2008,AS,Black Swan,10.0
+2008,B.,Common Blackbird,67106.0
+2008,BA,Bar-tailed Godwit,12.0
+2008,BC,Eurasian Blackcap,8330.0
+2008,BF,Eurasian Bullfinch,1618.0
+2008,BG,Brant Goose,191.0
+2008,BH,Black-headed Gull,10068.0
+2008,BJ,Black Tern,4.0
+2008,BT,Eurasian Blue Tit,36698.0
+2008,BY,Barnacle Goose,51.0
+2008,BZ,Common Buzzard,3473.0
+2008,C.,Carrion Crow,50320.0
+2008,CA,Great Cormorant,1063.0
+2008,CB,Corn Bunting,864.0
+2008,CC,Common Chiffchaff,11525.0
+2008,CD,Eurasian Collared Dove,13430.0
+2008,CG,Canada Goose,7053.0
+2008,CH,Eurasian Chaffinch,58374.0
+2008,CI,Crested Tit,15.0
+2008,CK,Common Cuckoo,1181.0
+2008,CM,Common Gull,2995.0
+2008,CN,Common Tern,342.0
+2008,CO,Eurasian Coot,2746.0
+2008,CR,Red Crossbill,1176.0
+2008,CS,Common Sandpiper,197.0
+2008,CT,Coal Tit,5909.0
+2008,CU,Eurasian Curlew,6109.0
+2008,CY,Scottish Crossbill,29.0
+2008,D.,Dunnock,15589.0
+2008,DC,Wood Duck,2.0
+2008,DI,White-throated Dipper,131.0
+2008,DV,Rock Dove,64.0
+2008,DW,Dartford Warbler,68.0
+2008,EG,Egyptian Goose,72.0
+2008,ET,Little Egret,280.0
+2008,F.,Northern Fulmar,181.0
+2008,FP,Feral Pigeon,17523.0
+2008,FW,Helmeted Guineafowl,58.0
+2008,G.,European Green Woodpecker,2790.0
+2008,GA,Gadwall,175.0
+2008,GB,Great Black-backed Gull,560.0
+2008,GC,Goldcrest,5992.0
+2008,GD,Common Merganser,105.0
+2008,GF,Golden Pheasant,6.0
+2008,GG,Great Crested Grebe,477.0
+2008,GH,Common Grasshopper Warbler,174.0
+2008,GJ,Greylag Goose,2619.0
+2008,GL,Grey Wagtail,707.0
+2008,GO,European Goldfinch,13985.0
+2008,GP,European Golden Plover,1874.0
+2008,GR,European Greenfinch,18105.0
+2008,GS,Great Spotted Woodpecker,3960.0
+2008,GT,Great Tit,23746.0
+2008,GU,Common Murre,8.0
+2008,GV,Grey Plover,13.0
+2008,GW,Garden Warbler,1054.0
+2008,GX,Northern Gannet,1508.0
+2008,H.,Grey Heron,1746.0
+2008,HB,Carrion x Hooded Crow,5.0
+2008,HC,Hooded Crow,923.0
+2008,HG,European Herring Gull,17265.0
+2008,HM,Western House Martin,9269.0
+2008,HP,Eurasian Hoopoe,1.0
+2008,HS,House Sparrow,41424.0
+2008,J.,Eurasian Jay,2255.0
+2008,JD,Western Jackdaw,43304.0
+2008,K.,Common Kestrel,1657.0
+2008,KF,Common Kingfisher,85.0
+2008,KI,Black-legged Kittiwake,117.0
+2008,KN,Red Knot,12.0
+2008,L.,Northern Lapwing,9802.0
+2008,LB,Lesser Black-backed Gull,9527.0
+2008,LG,Little Grebe,202.0
+2008,LI,Common Linnet,9505.0
+2008,LO,Little Owl,145.0
+2008,LR,Lesser Redpoll,989.0
+2008,LS,Lesser Spotted Woodpecker,39.0
+2008,LT,Long-tailed Tit,5189.0
+2008,LU,Little Gull,1.0
+2008,LW,Lesser Whitethroat,587.0
+2008,M.,Mistle Thrush,3753.0
+2008,MA,Mallard,14447.0
+2008,MG,Eurasian Magpie,17658.0
+2008,MH,Common Moorhen,2598.0
+2008,MN,Mandarin Duck,134.0
+2008,MP,Meadow Pipit,25390.0
+2008,MS,Mute Swan,3153.0
+2008,MT,Marsh Tit,309.0
+2008,N.,Common Nightingale,64.0
+2008,ND,Common Loon,14.0
+2008,NH,Eurasian Nuthatch,1694.0
+2008,NX,Great Skua,79.0
+2008,OC,Eurasian Oystercatcher,2701.0
+2008,P.,Grey Partridge,696.0
+2008,PF,European Pied Flycatcher,100.0
+2008,PG,Pink-footed Goose,1318.0
+2008,PH,Common Pheasant,16772.0
+2008,PM,Rock Ptarmigan,2.0
+2008,PU,Atlantic Puffin,3.0
+2008,PW,White Wagtail,4327.0
+2008,PX,Indian Peafowl,117.0
+2008,R.,European Robin,39662.0
+2008,RA,Razorbill,13.0
+2008,RB,Common Reed Bunting,2378.0
+2008,RC,European Rock Pipit,71.0
+2008,RG,Willow Ptarmigan,2781.0
+2008,RI,Rose-ringed Parakeet,1012.0
+2008,RK,Common Redshank,515.0
+2008,RL,Red-legged Partridge,3187.0
+2008,RM,Red-breasted Merganser,50.0
+2008,RN,Northern Raven,1171.0
+2008,RO,Rook,52688.0
+2008,RP,Common Ringed Plover,127.0
+2008,RQ,Red-crested Pochard,1.0
+2008,RT,Common Redstart,655.0
+2008,RW,Common Reed Warbler,999.0
+2008,RY,Ruddy Duck,40.0
+2008,RZ,Ring Ouzel,146.0
+2008,S.,Eurasian Skylark,25968.0
+2008,SA,European Shag,36.0
+2008,SC,European Stonechat,1036.0
+2008,SD,Stock Dove,3469.0
+2008,SF,Spotted Flycatcher,320.0
+2008,SG,Common Starling,54398.0
+2008,SH,Eurasian Sparrowhawk,539.0
+2008,SI,Common Swift,10680.0
+2008,SJ,Snow Goose,1.0
+2008,SK,Eurasian Siskin,2566.0
+2008,SL,Barn Swallow,25801.0
+2008,SM,Sand Martin,1945.0
+2008,SN,Common Snipe,749.0
+2008,SS,Sanderling,113.0
+2008,ST,Song Thrush,14536.0
+2008,SU,Common Shelduck,3657.0
+2008,SW,Sedge Warbler,1716.0
+2008,T.,Eurasian Teal,166.0
+2008,TC,Eurasian Treecreeper,820.0
+2008,TD,European Turtle Dove,209.0
+2008,TE,Sandwich Tern,128.0
+2008,TH,Short-toed Treecreeper,2.0
+2008,TO,Tawny Owl,113.0
+2008,TP,Tree Pipit,627.0
+2008,TS,Eurasian Tree Sparrow,1325.0
+2008,TT,Ruddy Turnstone,25.0
+2008,TU,Tufted Duck,1820.0
+2008,W.,Northern Wheatear,1606.0
+2008,WA,Water Rail,13.0
+2008,WC,Whinchat,278.0
+2008,WG,Greater White-fronted Goose,1.0
+2008,WH,Common Whitethroat,7945.0
+2008,WK,Eurasian Woodcock,15.0
+2008,WL,Woodlark,55.0
+2008,WO,Wood Warbler,103.0
+2008,WP,Common Wood Pigeon,133624.0
+2008,WR,Eurasian Wren,51017.0
+2008,WT,Willow Tit,81.0
+2008,WW,Willow Warbler,12709.0
+2008,Y.,Yellowhammer,8890.0
+2008,YW,Western Yellow Wagtail,436.0
+2008,ZF,Domestic Mallard,178.0
+2008,ZL,Domestic Greylag Goose,98.0
+2009,AC,Parasitic Jaeger,7.0
+2009,AE,Arctic Tern,339.0
+2009,AS,Black Swan,12.0
+2009,B.,Common Blackbird,64768.0
+2009,BA,Bar-tailed Godwit,9.0
+2009,BC,Eurasian Blackcap,9659.0
+2009,BF,Eurasian Bullfinch,1650.0
+2009,BG,Brant Goose,197.0
+2009,BH,Black-headed Gull,11530.0
+2009,BJ,Black Tern,2.0
+2009,BT,Eurasian Blue Tit,34848.0
+2009,BU,Bluethroat,1.0
+2009,BY,Barnacle Goose,4.0
+2009,BZ,Common Buzzard,3670.0
+2009,C.,Carrion Crow,49014.0
+2009,CA,Great Cormorant,1045.0
+2009,CB,Corn Bunting,818.0
+2009,CC,Common Chiffchaff,10597.0
+2009,CD,Eurasian Collared Dove,13152.0
+2009,CG,Canada Goose,6976.0
+2009,CH,Eurasian Chaffinch,57404.0
+2009,CI,Crested Tit,9.0
+2009,CK,Common Cuckoo,1107.0
+2009,CM,Common Gull,2678.0
+2009,CN,Common Tern,285.0
+2009,CO,Eurasian Coot,2735.0
+2009,CR,Red Crossbill,179.0
+2009,CS,Common Sandpiper,210.0
+2009,CT,Coal Tit,5229.0
+2009,CU,Eurasian Curlew,6477.0
+2009,CY,Scottish Crossbill,14.0
+2009,D.,Dunnock,15747.0
+2009,DI,White-throated Dipper,132.0
+2009,DV,Rock Dove,81.0
+2009,DW,Dartford Warbler,58.0
+2009,EG,Egyptian Goose,77.0
+2009,ET,Little Egret,220.0
+2009,F.,Northern Fulmar,261.0
+2009,FP,Feral Pigeon,17471.0
+2009,FW,Helmeted Guineafowl,120.0
+2009,G.,European Green Woodpecker,2547.0
+2009,GA,Gadwall,215.0
+2009,GB,Great Black-backed Gull,543.0
+2009,GC,Goldcrest,2558.0
+2009,GD,Common Merganser,116.0
+2009,GF,Golden Pheasant,12.0
+2009,GG,Great Crested Grebe,456.0
+2009,GH,Common Grasshopper Warbler,208.0
+2009,GJ,Greylag Goose,3810.0
+2009,GL,Grey Wagtail,625.0
+2009,GO,European Goldfinch,15991.0
+2009,GP,European Golden Plover,2572.0
+2009,GR,European Greenfinch,16388.0
+2009,GS,Great Spotted Woodpecker,4016.0
+2009,GT,Great Tit,22273.0
+2009,GU,Common Murre,1.0
+2009,GV,Grey Plover,16.0
+2009,GW,Garden Warbler,1060.0
+2009,GX,Northern Gannet,1459.0
+2009,H.,Grey Heron,1688.0
+2009,HB,Carrion x Hooded Crow,8.0
+2009,HC,Hooded Crow,906.0
+2009,HD,Bar-headed Goose,3.0
+2009,HG,European Herring Gull,15886.0
+2009,HM,Western House Martin,7792.0
+2009,HS,House Sparrow,41559.0
+2009,IG,Iceland Gull,1.0
+2009,J.,Eurasian Jay,2051.0
+2009,JD,Western Jackdaw,46190.0
+2009,JS,Jack Snipe,1.0
+2009,JZ,Red-tailed Hawk,1.0
+2009,K.,Common Kestrel,1117.0
+2009,KF,Common Kingfisher,97.0
+2009,KI,Black-legged Kittiwake,27.0
+2009,KN,Red Knot,1.0
+2009,L.,Northern Lapwing,8794.0
+2009,LB,Lesser Black-backed Gull,9634.0
+2009,LG,Little Grebe,224.0
+2009,LI,Common Linnet,9954.0
+2009,LO,Little Owl,124.0
+2009,LR,Lesser Redpoll,1071.0
+2009,LS,Lesser Spotted Woodpecker,33.0
+2009,LT,Long-tailed Tit,4790.0
+2009,LW,Lesser Whitethroat,597.0
+2009,M.,Mistle Thrush,3458.0
+2009,MA,Mallard,14318.0
+2009,MG,Eurasian Magpie,17240.0
+2009,MH,Common Moorhen,2563.0
+2009,MN,Mandarin Duck,98.0
+2009,MP,Meadow Pipit,25205.0
+2009,MS,Mute Swan,3392.0
+2009,MT,Marsh Tit,357.0
+2009,MX,Manx Shearwater,1.0
+2009,MY,Muscovy Duck,2.0
+2009,N.,Common Nightingale,56.0
+2009,ND,Common Loon,10.0
+2009,NH,Eurasian Nuthatch,1785.0
+2009,NX,Great Skua,99.0
+2009,OC,Eurasian Oystercatcher,2898.0
+2009,P.,Grey Partridge,509.0
+2009,PF,European Pied Flycatcher,97.0
+2009,PG,Pink-footed Goose,410.0
+2009,PH,Common Pheasant,17454.0
+2009,PM,Rock Ptarmigan,2.0
+2009,PW,White Wagtail,3974.0
+2009,PX,Indian Peafowl,90.0
+2009,QL,Cockatiel,1.0
+2009,R.,European Robin,37874.0
+2009,RA,Razorbill,22.0
+2009,RB,Common Reed Bunting,2577.0
+2009,RC,European Rock Pipit,58.0
+2009,RG,Willow Ptarmigan,3027.0
+2009,RI,Rose-ringed Parakeet,1050.0
+2009,RK,Common Redshank,463.0
+2009,RL,Red-legged Partridge,2929.0
+2009,RM,Red-breasted Merganser,22.0
+2009,RN,Northern Raven,1104.0
+2009,RO,Rook,51715.0
+2009,RP,Common Ringed Plover,236.0
+2009,RT,Common Redstart,703.0
+2009,RW,Common Reed Warbler,910.0
+2009,RY,Ruddy Duck,6.0
+2009,RZ,Ring Ouzel,112.0
+2009,S.,Eurasian Skylark,25247.0
+2009,SA,European Shag,45.0
+2009,SC,European Stonechat,676.0
+2009,SD,Stock Dove,3818.0
+2009,SF,Spotted Flycatcher,273.0
+2009,SG,Common Starling,45318.0
+2009,SH,Eurasian Sparrowhawk,457.0
+2009,SI,Common Swift,10953.0
+2009,SJ,Snow Goose,2.0
+2009,SK,Eurasian Siskin,1962.0
+2009,SL,Barn Swallow,27884.0
+2009,SM,Sand Martin,2104.0
+2009,SN,Common Snipe,831.0
+2009,SP,Greater Scaup,1.0
+2009,SS,Sanderling,324.0
+2009,ST,Song Thrush,14072.0
+2009,SU,Common Shelduck,1790.0
+2009,SW,Sedge Warbler,1818.0
+2009,T.,Eurasian Teal,141.0
+2009,TC,Eurasian Treecreeper,698.0
+2009,TD,European Turtle Dove,216.0
+2009,TE,Sandwich Tern,61.0
+2009,TH,Short-toed Treecreeper,1.0
+2009,TO,Tawny Owl,123.0
+2009,TP,Tree Pipit,532.0
+2009,TS,Eurasian Tree Sparrow,1326.0
+2009,TT,Ruddy Turnstone,82.0
+2009,TU,Tufted Duck,1801.0
+2009,W.,Northern Wheatear,1829.0
+2009,WA,Water Rail,5.0
+2009,WC,Whinchat,242.0
+2009,WH,Common Whitethroat,8854.0
+2009,WK,Eurasian Woodcock,20.0
+2009,WL,Woodlark,42.0
+2009,WO,Wood Warbler,110.0
+2009,WP,Common Wood Pigeon,129758.0
+2009,WR,Eurasian Wren,43884.0
+2009,WT,Willow Tit,84.0
+2009,WW,Willow Warbler,14756.0
+2009,WX,Bohemian Waxwing,6.0
+2009,Y.,Yellowhammer,9107.0
+2009,YW,Western Yellow Wagtail,473.0
+2009,ZF,Domestic Mallard,127.0
+2009,ZL,Domestic Greylag Goose,72.0
+2010,AC,Parasitic Jaeger,26.0
+2010,AE,Arctic Tern,289.0
+2010,AS,Black Swan,17.0
+2010,AX,Alexandrine Parakeet,1.0
+2010,B.,Common Blackbird,64374.0
+2010,BA,Bar-tailed Godwit,20.0
+2010,BC,Eurasian Blackcap,11326.0
+2010,BF,Eurasian Bullfinch,1785.0
+2010,BG,Brant Goose,171.0
+2010,BH,Black-headed Gull,15001.0
+2010,BT,Eurasian Blue Tit,41980.0
+2010,BU,Bluethroat,1.0
+2010,BY,Barnacle Goose,1178.0
+2010,BZ,Common Buzzard,3478.0
+2010,C.,Carrion Crow,50897.0
+2010,CA,Great Cormorant,1039.0
+2010,CB,Corn Bunting,724.0
+2010,CC,Common Chiffchaff,11784.0
+2010,CD,Eurasian Collared Dove,12478.0
+2010,CG,Canada Goose,6821.0
+2010,CH,Eurasian Chaffinch,57400.0
+2010,CI,Crested Tit,15.0
+2010,CK,Common Cuckoo,1053.0
+2010,CM,Common Gull,2196.0
+2010,CN,Common Tern,338.0
+2010,CO,Eurasian Coot,2665.0
+2010,CR,Red Crossbill,790.0
+2010,CS,Common Sandpiper,207.0
+2010,CT,Coal Tit,5035.0
+2010,CU,Eurasian Curlew,5970.0
+2010,CY,Scottish Crossbill,51.0
+2010,D.,Dunnock,16621.0
+2010,DI,White-throated Dipper,130.0
+2010,DV,Rock Dove,97.0
+2010,DW,Dartford Warbler,25.0
+2010,EG,Egyptian Goose,240.0
+2010,ET,Little Egret,160.0
+2010,F.,Northern Fulmar,240.0
+2010,FP,Feral Pigeon,16328.0
+2010,FW,Helmeted Guineafowl,96.0
+2010,G.,European Green Woodpecker,2601.0
+2010,GA,Gadwall,317.0
+2010,GB,Great Black-backed Gull,486.0
+2010,GC,Goldcrest,3015.0
+2010,GD,Common Merganser,144.0
+2010,GG,Great Crested Grebe,424.0
+2010,GH,Common Grasshopper Warbler,228.0
+2010,GJ,Greylag Goose,3461.0
+2010,GL,Grey Wagtail,406.0
+2010,GO,European Goldfinch,17948.0
+2010,GP,European Golden Plover,4002.0
+2010,GR,European Greenfinch,15115.0
+2010,GS,Great Spotted Woodpecker,4289.0
+2010,GT,Great Tit,25305.0
+2010,GU,Common Murre,6.0
+2010,GV,Grey Plover,33.0
+2010,GW,Garden Warbler,1240.0
+2010,GX,Northern Gannet,98.0
+2010,H.,Grey Heron,1542.0
+2010,HC,Hooded Crow,841.0
+2010,HG,European Herring Gull,15788.0
+2010,HM,Western House Martin,7354.0
+2010,HN,Swan Goose,3.0
+2010,HS,House Sparrow,44608.0
+2010,J.,Eurasian Jay,2295.0
+2010,JD,Western Jackdaw,47078.0
+2010,JS,Jack Snipe,1.0
+2010,JZ,Red-tailed Hawk,2.0
+2010,K.,Common Kestrel,1097.0
+2010,KF,Common Kingfisher,74.0
+2010,KI,Black-legged Kittiwake,3.0
+2010,L.,Northern Lapwing,7788.0
+2010,LB,Lesser Black-backed Gull,7647.0
+2010,LG,Little Grebe,184.0
+2010,LI,Common Linnet,10440.0
+2010,LO,Little Owl,123.0
+2010,LR,Lesser Redpoll,909.0
+2010,LS,Lesser Spotted Woodpecker,44.0
+2010,LT,Long-tailed Tit,6082.0
+2010,LW,Lesser Whitethroat,641.0
+2010,M.,Mistle Thrush,3196.0
+2010,MA,Mallard,14506.0
+2010,MG,Eurasian Magpie,17491.0
+2010,MH,Common Moorhen,2390.0
+2010,MN,Mandarin Duck,135.0
+2010,MP,Meadow Pipit,23393.0
+2010,MS,Mute Swan,3238.0
+2010,MT,Marsh Tit,338.0
+2010,N.,Common Nightingale,44.0
+2010,ND,Common Loon,16.0
+2010,NH,Eurasian Nuthatch,2290.0
+2010,NX,Great Skua,132.0
+2010,OC,Eurasian Oystercatcher,2945.0
+2010,P.,Grey Partridge,490.0
+2010,PF,European Pied Flycatcher,91.0
+2010,PG,Pink-footed Goose,266.0
+2010,PH,Common Pheasant,17318.0
+2010,PM,Rock Ptarmigan,1.0
+2010,PW,White Wagtail,3448.0
+2010,PX,Indian Peafowl,152.0
+2010,R.,European Robin,33256.0
+2010,RA,Razorbill,40.0
+2010,RB,Common Reed Bunting,2358.0
+2010,RC,European Rock Pipit,43.0
+2010,RG,Willow Ptarmigan,3497.0
+2010,RI,Rose-ringed Parakeet,1096.0
+2010,RK,Common Redshank,475.0
+2010,RL,Red-legged Partridge,2839.0
+2010,RM,Red-breasted Merganser,28.0
+2010,RN,Northern Raven,1222.0
+2010,RO,Rook,51597.0
+2010,RP,Common Ringed Plover,261.0
+2010,RT,Common Redstart,797.0
+2010,RW,Common Reed Warbler,981.0
+2010,RY,Ruddy Duck,7.0
+2010,RZ,Ring Ouzel,130.0
+2010,S.,Eurasian Skylark,23736.0
+2010,SA,European Shag,83.0
+2010,SC,European Stonechat,365.0
+2010,SD,Stock Dove,4137.0
+2010,SF,Spotted Flycatcher,278.0
+2010,SG,Common Starling,44393.0
+2010,SH,Eurasian Sparrowhawk,478.0
+2010,SI,Common Swift,9577.0
+2010,SK,Eurasian Siskin,1726.0
+2010,SL,Barn Swallow,26298.0
+2010,SM,Sand Martin,2129.0
+2010,SN,Common Snipe,803.0
+2010,SS,Sanderling,151.0
+2010,ST,Song Thrush,12792.0
+2010,SU,Common Shelduck,1530.0
+2010,SW,Sedge Warbler,1636.0
+2010,T.,Eurasian Teal,233.0
+2010,TC,Eurasian Treecreeper,799.0
+2010,TD,European Turtle Dove,162.0
+2010,TE,Sandwich Tern,78.0
+2010,TO,Tawny Owl,120.0
+2010,TP,Tree Pipit,530.0
+2010,TS,Eurasian Tree Sparrow,1501.0
+2010,TT,Ruddy Turnstone,45.0
+2010,TU,Tufted Duck,1983.0
+2010,UD,Ruddy Shelduck,1.0
+2010,W.,Northern Wheatear,2087.0
+2010,WA,Water Rail,8.0
+2010,WC,Whinchat,241.0
+2010,WG,Greater White-fronted Goose,23.0
+2010,WH,Common Whitethroat,9213.0
+2010,WK,Eurasian Woodcock,16.0
+2010,WL,Woodlark,40.0
+2010,WO,Wood Warbler,84.0
+2010,WP,Common Wood Pigeon,133626.0
+2010,WR,Eurasian Wren,38953.0
+2010,WT,Willow Tit,90.0
+2010,WW,Willow Warbler,13213.0
+2010,Y.,Yellowhammer,9011.0
+2010,YW,Western Yellow Wagtail,435.0
+2010,ZF,Domestic Mallard,321.0
+2010,ZL,Domestic Greylag Goose,68.0
+2011,AC,Parasitic Jaeger,1.0
+2011,AE,Arctic Tern,187.0
+2011,AS,Black Swan,8.0
+2011,B.,Common Blackbird,59179.0
+2011,BA,Bar-tailed Godwit,7.0
+2011,BC,Eurasian Blackcap,14736.0
+2011,BF,Eurasian Bullfinch,2067.0
+2011,BG,Brant Goose,53.0
+2011,BH,Black-headed Gull,10392.0
+2011,BT,Eurasian Blue Tit,40756.0
+2011,BY,Barnacle Goose,5.0
+2011,BZ,Common Buzzard,3365.0
+2011,C.,Carrion Crow,47654.0
+2011,CA,Great Cormorant,900.0
+2011,CB,Corn Bunting,748.0
+2011,CC,Common Chiffchaff,14116.0
+2011,CD,Eurasian Collared Dove,11716.0
+2011,CG,Canada Goose,6162.0
+2011,CH,Eurasian Chaffinch,52438.0
+2011,CI,Crested Tit,20.0
+2011,CK,Common Cuckoo,1066.0
+2011,CM,Common Gull,2716.0
+2011,CN,Common Tern,345.0
+2011,CO,Eurasian Coot,2491.0
+2011,CR,Red Crossbill,671.0
+2011,CS,Common Sandpiper,187.0
+2011,CT,Coal Tit,4852.0
+2011,CU,Eurasian Curlew,3458.0
+2011,CY,Scottish Crossbill,26.0
+2011,D.,Dunnock,14412.0
+2011,DC,Wood Duck,3.0
+2011,DI,White-throated Dipper,98.0
+2011,DR,Spotted Redshank,2.0
+2011,DV,Rock Dove,190.0
+2011,DW,Dartford Warbler,24.0
+2011,EG,Egyptian Goose,229.0
+2011,ET,Little Egret,192.0
+2011,F.,Northern Fulmar,296.0
+2011,FP,Feral Pigeon,16211.0
+2011,FW,Helmeted Guineafowl,87.0
+2011,G.,European Green Woodpecker,2201.0
+2011,GA,Gadwall,258.0
+2011,GB,Great Black-backed Gull,492.0
+2011,GC,Goldcrest,3186.0
+2011,GD,Common Merganser,139.0
+2011,GG,Great Crested Grebe,376.0
+2011,GH,Common Grasshopper Warbler,324.0
+2011,GJ,Greylag Goose,3307.0
+2011,GL,Grey Wagtail,266.0
+2011,GO,European Goldfinch,19035.0
+2011,GP,European Golden Plover,1766.0
+2011,GR,European Greenfinch,12717.0
+2011,GS,Great Spotted Woodpecker,4088.0
+2011,GT,Great Tit,23486.0
+2011,GV,Grey Plover,9.0
+2011,GW,Garden Warbler,1124.0
+2011,GX,Northern Gannet,1479.0
+2011,H.,Grey Heron,1422.0
+2011,HB,Carrion x Hooded Crow,1.0
+2011,HC,Hooded Crow,924.0
+2011,HG,European Herring Gull,15155.0
+2011,HM,Western House Martin,8318.0
+2011,HS,House Sparrow,46357.0
+2011,J.,Eurasian Jay,2105.0
+2011,JD,Western Jackdaw,48449.0
+2011,JZ,Red-tailed Hawk,2.0
+2011,K.,Common Kestrel,991.0
+2011,KF,Common Kingfisher,60.0
+2011,KI,Black-legged Kittiwake,35.0
+2011,KN,Red Knot,16.0
+2011,L.,Northern Lapwing,5679.0
+2011,LB,Lesser Black-backed Gull,9752.0
+2011,LG,Little Grebe,167.0
+2011,LI,Common Linnet,10398.0
+2011,LO,Little Owl,83.0
+2011,LR,Lesser Redpoll,904.0
+2011,LS,Lesser Spotted Woodpecker,26.0
+2011,LT,Long-tailed Tit,4754.0
+2011,LW,Lesser Whitethroat,708.0
+2011,M.,Mistle Thrush,2719.0
+2011,MA,Mallard,13877.0
+2011,MG,Eurasian Magpie,17097.0
+2011,MH,Common Moorhen,1892.0
+2011,MN,Mandarin Duck,120.0
+2011,MP,Meadow Pipit,15127.0
+2011,MS,Mute Swan,3011.0
+2011,MT,Marsh Tit,320.0
+2011,MX,Manx Shearwater,1.0
+2011,MY,Muscovy Duck,2.0
+2011,N.,Common Nightingale,84.0
+2011,ND,Common Loon,58.0
+2011,NH,Eurasian Nuthatch,2188.0
+2011,NX,Great Skua,49.0
+2011,OC,Eurasian Oystercatcher,2706.0
+2011,P.,Grey Partridge,565.0
+2011,PF,European Pied Flycatcher,72.0
+2011,PG,Pink-footed Goose,1097.0
+2011,PH,Common Pheasant,16248.0
+2011,PM,Rock Ptarmigan,1.0
+2011,PW,White Wagtail,3063.0
+2011,PX,Indian Peafowl,145.0
+2011,R.,European Robin,27514.0
+2011,RA,Razorbill,38.0
+2011,RB,Common Reed Bunting,2022.0
+2011,RC,European Rock Pipit,44.0
+2011,RG,Willow Ptarmigan,1397.0
+2011,RI,Rose-ringed Parakeet,1317.0
+2011,RK,Common Redshank,357.0
+2011,RL,Red-legged Partridge,2878.0
+2011,RM,Red-breasted Merganser,40.0
+2011,RN,Northern Raven,1045.0
+2011,RO,Rook,48164.0
+2011,RP,Common Ringed Plover,416.0
+2011,RQ,Red-crested Pochard,2.0
+2011,RT,Common Redstart,768.0
+2011,RW,Common Reed Warbler,1118.0
+2011,RZ,Ring Ouzel,83.0
+2011,S.,Eurasian Skylark,19627.0
+2011,SA,European Shag,95.0
+2011,SC,European Stonechat,311.0
+2011,SD,Stock Dove,4128.0
+2011,SF,Spotted Flycatcher,234.0
+2011,SG,Common Starling,40586.0
+2011,SH,Eurasian Sparrowhawk,448.0
+2011,SI,Common Swift,7694.0
+2011,SK,Eurasian Siskin,1409.0
+2011,SL,Barn Swallow,26313.0
+2011,SM,Sand Martin,3164.0
+2011,SN,Common Snipe,318.0
+2011,SS,Sanderling,261.0
+2011,ST,Song Thrush,10438.0
+2011,SU,Common Shelduck,1616.0
+2011,SW,Sedge Warbler,1937.0
+2011,T.,Eurasian Teal,105.0
+2011,TC,Eurasian Treecreeper,889.0
+2011,TD,European Turtle Dove,114.0
+2011,TE,Sandwich Tern,85.0
+2011,TH,Short-toed Treecreeper,2.0
+2011,TO,Tawny Owl,128.0
+2011,TP,Tree Pipit,529.0
+2011,TS,Eurasian Tree Sparrow,1732.0
+2011,TT,Ruddy Turnstone,46.0
+2011,TU,Tufted Duck,1707.0
+2011,W.,Northern Wheatear,1660.0
+2011,WA,Water Rail,9.0
+2011,WC,Whinchat,171.0
+2011,WG,Greater White-fronted Goose,1.0
+2011,WH,Common Whitethroat,12930.0
+2011,WK,Eurasian Woodcock,15.0
+2011,WL,Woodlark,40.0
+2011,WO,Wood Warbler,89.0
+2011,WP,Common Wood Pigeon,126194.0
+2011,WR,Eurasian Wren,32680.0
+2011,WT,Willow Tit,74.0
+2011,WW,Willow Warbler,13223.0
+2011,WX,Bohemian Waxwing,52.0
+2011,XB,Unidentified crossbill,25.0
+2011,Y.,Yellowhammer,8677.0
+2011,YW,Western Yellow Wagtail,537.0
+2011,ZF,Domestic Mallard,225.0
+2011,ZL,Domestic Greylag Goose,88.0
+2012,AC,Parasitic Jaeger,20.0
+2012,AE,Arctic Tern,454.0
+2012,AS,Black Swan,10.0
+2012,B.,Common Blackbird,64994.0
+2012,BA,Bar-tailed Godwit,29.0
+2012,BC,Eurasian Blackcap,15409.0
+2012,BF,Eurasian Bullfinch,2100.0
+2012,BG,Brant Goose,223.0
+2012,BH,Black-headed Gull,10812.0
+2012,BS,Tundra Swan,2.0
+2012,BT,Eurasian Blue Tit,39009.0
+2012,BY,Barnacle Goose,154.0
+2012,BZ,Common Buzzard,4143.0
+2012,C.,Carrion Crow,53326.0
+2012,CA,Great Cormorant,969.0
+2012,CB,Corn Bunting,900.0
+2012,CC,Common Chiffchaff,16376.0
+2012,CD,Eurasian Collared Dove,11648.0
+2012,CG,Canada Goose,6193.0
+2012,CH,Eurasian Chaffinch,58689.0
+2012,CI,Crested Tit,18.0
+2012,CK,Common Cuckoo,1038.0
+2012,CM,Common Gull,3057.0
+2012,CN,Common Tern,290.0
+2012,CO,Eurasian Coot,2495.0
+2012,CR,Red Crossbill,1623.0
+2012,CS,Common Sandpiper,271.0
+2012,CT,Coal Tit,5020.0
+2012,CU,Eurasian Curlew,6415.0
+2012,CY,Scottish Crossbill,17.0
+2012,D.,Dunnock,16524.0
+2012,DC,Wood Duck,1.0
+2012,DI,White-throated Dipper,137.0
+2012,DV,Rock Dove,165.0
+2012,DW,Dartford Warbler,19.0
+2012,EB,Red-breasted Goose,1.0
+2012,EG,Egyptian Goose,224.0
+2012,ET,Little Egret,210.0
+2012,F.,Northern Fulmar,199.0
+2012,FP,Feral Pigeon,15138.0
+2012,FW,Helmeted Guineafowl,170.0
+2012,G.,European Green Woodpecker,2630.0
+2012,GA,Gadwall,289.0
+2012,GB,Great Black-backed Gull,636.0
+2012,GC,Goldcrest,4665.0
+2012,GD,Common Merganser,132.0
+2012,GF,Golden Pheasant,13.0
+2012,GG,Great Crested Grebe,495.0
+2012,GH,Common Grasshopper Warbler,136.0
+2012,GJ,Greylag Goose,4311.0
+2012,GL,Grey Wagtail,307.0
+2012,GO,European Goldfinch,21524.0
+2012,GP,European Golden Plover,2144.0
+2012,GR,European Greenfinch,13488.0
+2012,GS,Great Spotted Woodpecker,4162.0
+2012,GT,Great Tit,23372.0
+2012,GU,Common Murre,2.0
+2012,GV,Grey Plover,5.0
+2012,GW,Garden Warbler,1004.0
+2012,GX,Northern Gannet,67.0
+2012,GZ,Glaucous Gull,1.0
+2012,H.,Grey Heron,1439.0
+2012,HB,Carrion x Hooded Crow,1.0
+2012,HC,Hooded Crow,1122.0
+2012,HD,Bar-headed Goose,1.0
+2012,HG,European Herring Gull,18291.0
+2012,HM,Western House Martin,8339.0
+2012,HS,House Sparrow,46962.0
+2012,IG,Iceland Gull,2.0
+2012,J.,Eurasian Jay,2390.0
+2012,JD,Western Jackdaw,56006.0
+2012,JZ,Red-tailed Hawk,2.0
+2012,K.,Common Kestrel,1355.0
+2012,KF,Common Kingfisher,62.0
+2012,KI,Black-legged Kittiwake,11.0
+2012,KN,Red Knot,30.0
+2012,L.,Northern Lapwing,7083.0
+2012,LB,Lesser Black-backed Gull,10757.0
+2012,LG,Little Grebe,178.0
+2012,LI,Common Linnet,12740.0
+2012,LO,Little Owl,112.0
+2012,LR,Lesser Redpoll,1468.0
+2012,LS,Lesser Spotted Woodpecker,11.0
+2012,LT,Long-tailed Tit,5390.0
+2012,LW,Lesser Whitethroat,579.0
+2012,M.,Mistle Thrush,3069.0
+2012,MA,Mallard,14884.0
+2012,MG,Eurasian Magpie,18533.0
+2012,MH,Common Moorhen,1985.0
+2012,MN,Mandarin Duck,159.0
+2012,MP,Meadow Pipit,27233.0
+2012,MS,Mute Swan,3684.0
+2012,MT,Marsh Tit,329.0
+2012,N.,Common Nightingale,91.0
+2012,ND,Common Loon,10.0
+2012,NH,Eurasian Nuthatch,2392.0
+2012,NX,Great Skua,118.0
+2012,OC,Eurasian Oystercatcher,3572.0
+2012,P.,Grey Partridge,832.0
+2012,PF,European Pied Flycatcher,94.0
+2012,PG,Pink-footed Goose,118.0
+2012,PH,Common Pheasant,17685.0
+2012,PM,Rock Ptarmigan,5.0
+2012,PW,White Wagtail,4037.0
+2012,PX,Indian Peafowl,148.0
+2012,R.,European Robin,33593.0
+2012,RA,Razorbill,4.0
+2012,RB,Common Reed Bunting,2180.0
+2012,RC,European Rock Pipit,63.0
+2012,RG,Willow Ptarmigan,4113.0
+2012,RI,Rose-ringed Parakeet,1338.0
+2012,RK,Common Redshank,421.0
+2012,RL,Red-legged Partridge,3311.0
+2012,RM,Red-breasted Merganser,55.0
+2012,RN,Northern Raven,1357.0
+2012,RO,Rook,52261.0
+2012,RP,Common Ringed Plover,144.0
+2012,RQ,Red-crested Pochard,9.0
+2012,RT,Common Redstart,991.0
+2012,RV,Reeves's Pheasant,1.0
+2012,RW,Common Reed Warbler,803.0
+2012,RZ,Ring Ouzel,154.0
+2012,S.,Eurasian Skylark,25682.0
+2012,SA,European Shag,126.0
+2012,SC,European Stonechat,401.0
+2012,SD,Stock Dove,4314.0
+2012,SF,Spotted Flycatcher,281.0
+2012,SG,Common Starling,41126.0
+2012,SH,Eurasian Sparrowhawk,558.0
+2012,SI,Common Swift,10254.0
+2012,SK,Eurasian Siskin,2637.0
+2012,SL,Barn Swallow,28000.0
+2012,SM,Sand Martin,1623.0
+2012,SN,Common Snipe,646.0
+2012,SS,Sanderling,128.0
+2012,ST,Song Thrush,12604.0
+2012,SU,Common Shelduck,1739.0
+2012,SW,Sedge Warbler,1325.0
+2012,T.,Eurasian Teal,142.0
+2012,TC,Eurasian Treecreeper,1001.0
+2012,TD,European Turtle Dove,84.0
+2012,TE,Sandwich Tern,77.0
+2012,TH,Short-toed Treecreeper,5.0
+2012,TO,Tawny Owl,147.0
+2012,TP,Tree Pipit,579.0
+2012,TS,Eurasian Tree Sparrow,1970.0
+2012,TT,Ruddy Turnstone,25.0
+2012,TU,Tufted Duck,2144.0
+2012,UD,Ruddy Shelduck,1.0
+2012,W.,Northern Wheatear,2427.0
+2012,WA,Water Rail,15.0
+2012,WC,Whinchat,219.0
+2012,WG,Greater White-fronted Goose,5.0
+2012,WH,Common Whitethroat,8533.0
+2012,WK,Eurasian Woodcock,23.0
+2012,WL,Woodlark,48.0
+2012,WO,Wood Warbler,80.0
+2012,WP,Common Wood Pigeon,142124.0
+2012,WR,Eurasian Wren,42465.0
+2012,WT,Willow Tit,62.0
+2012,WW,Willow Warbler,13122.0
+2012,XB,Unidentified crossbill,7.0
+2012,Y.,Yellowhammer,9689.0
+2012,YW,Western Yellow Wagtail,615.0
+2012,ZF,Domestic Mallard,166.0
+2012,ZL,Domestic Greylag Goose,104.0
+2013,AC,Parasitic Jaeger,10.0
+2013,AE,Arctic Tern,468.0
+2013,AS,Black Swan,5.0
+2013,B.,Common Blackbird,66125.0
+2013,BA,Bar-tailed Godwit,34.0
+2013,BC,Eurasian Blackcap,13206.0
+2013,BF,Eurasian Bullfinch,1790.0
+2013,BG,Brant Goose,269.0
+2013,BH,Black-headed Gull,16319.0
+2013,BT,Eurasian Blue Tit,39166.0
+2013,BY,Barnacle Goose,113.0
+2013,BZ,Common Buzzard,4071.0
+2013,C.,Carrion Crow,55700.0
+2013,CA,Great Cormorant,1072.0
+2013,CB,Corn Bunting,719.0
+2013,CC,Common Chiffchaff,12151.0
+2013,CD,Eurasian Collared Dove,11901.0
+2013,CG,Canada Goose,6227.0
+2013,CH,Eurasian Chaffinch,59803.0
+2013,CI,Crested Tit,11.0
+2013,CK,Common Cuckoo,1118.0
+2013,CM,Common Gull,4191.0
+2013,CN,Common Tern,225.0
+2013,CO,Eurasian Coot,2649.0
+2013,CR,Red Crossbill,356.0
+2013,CS,Common Sandpiper,283.0
+2013,CT,Coal Tit,4422.0
+2013,CU,Eurasian Curlew,6707.0
+2013,D.,Dunnock,16418.0
+2013,DI,White-throated Dipper,154.0
+2013,DR,Spotted Redshank,1.0
+2013,DV,Rock Dove,206.0
+2013,DW,Dartford Warbler,32.0
+2013,EB,Red-breasted Goose,2.0
+2013,EG,Egyptian Goose,287.0
+2013,ET,Little Egret,229.0
+2013,F.,Northern Fulmar,158.0
+2013,FP,Feral Pigeon,17116.0
+2013,FQ,Common/Lesser Redpoll,2.0
+2013,FW,Helmeted Guineafowl,92.0
+2013,G.,European Green Woodpecker,2621.0
+2013,GA,Gadwall,334.0
+2013,GB,Great Black-backed Gull,818.0
+2013,GC,Goldcrest,3362.0
+2013,GD,Common Merganser,156.0
+2013,GF,Golden Pheasant,1.0
+2013,GG,Great Crested Grebe,441.0
+2013,GH,Common Grasshopper Warbler,127.0
+2013,GJ,Greylag Goose,4715.0
+2013,GL,Grey Wagtail,392.0
+2013,GO,European Goldfinch,20474.0
+2013,GP,European Golden Plover,3547.0
+2013,GR,European Greenfinch,12622.0
+2013,GS,Great Spotted Woodpecker,4363.0
+2013,GT,Great Tit,24028.0
+2013,GU,Common Murre,4.0
+2013,GV,Grey Plover,115.0
+2013,GW,Garden Warbler,961.0
+2013,GX,Northern Gannet,57.0
+2013,H.,Grey Heron,1385.0
+2013,HB,Carrion x Hooded Crow,1.0
+2013,HC,Hooded Crow,1221.0
+2013,HD,Bar-headed Goose,3.0
+2013,HG,European Herring Gull,24534.0
+2013,HM,Western House Martin,7425.0
+2013,HS,House Sparrow,45758.0
+2013,J.,Eurasian Jay,2769.0
+2013,JD,Western Jackdaw,55513.0
+2013,JS,Jack Snipe,1.0
+2013,JZ,Red-tailed Hawk,2.0
+2013,K.,Common Kestrel,932.0
+2013,KF,Common Kingfisher,80.0
+2013,KI,Black-legged Kittiwake,48.0
+2013,KN,Red Knot,40.0
+2013,L.,Northern Lapwing,7460.0
+2013,LB,Lesser Black-backed Gull,13557.0
+2013,LG,Little Grebe,186.0
+2013,LI,Common Linnet,10267.0
+2013,LO,Little Owl,90.0
+2013,LR,Lesser Redpoll,1065.0
+2013,LS,Lesser Spotted Woodpecker,19.0
+2013,LT,Long-tailed Tit,3975.0
+2013,LU,Little Gull,1.0
+2013,LW,Lesser Whitethroat,531.0
+2013,M.,Mistle Thrush,3008.0
+2013,MA,Mallard,14469.0
+2013,MD,Marsh Sandpiper,4.0
+2013,MG,Eurasian Magpie,18565.0
+2013,MH,Common Moorhen,2119.0
+2013,MN,Mandarin Duck,154.0
+2013,MP,Meadow Pipit,28826.0
+2013,MS,Mute Swan,2007.0
+2013,MT,Marsh Tit,296.0
+2013,N.,Common Nightingale,95.0
+2013,ND,Common Loon,16.0
+2013,NH,Eurasian Nuthatch,2139.0
+2013,NX,Great Skua,64.0
+2013,OC,Eurasian Oystercatcher,3633.0
+2013,OO,Woodchat Shrike,1.0
+2013,P.,Grey Partridge,544.0
+2013,PF,European Pied Flycatcher,92.0
+2013,PG,Pink-footed Goose,1263.0
+2013,PH,Common Pheasant,18648.0
+2013,PM,Rock Ptarmigan,10.0
+2013,PW,White Wagtail,3954.0
+2013,PX,Indian Peafowl,199.0
+2013,R.,European Robin,36271.0
+2013,RA,Razorbill,31.0
+2013,RB,Common Reed Bunting,2334.0
+2013,RC,European Rock Pipit,54.0
+2013,RG,Willow Ptarmigan,4125.0
+2013,RI,Rose-ringed Parakeet,1656.0
+2013,RK,Common Redshank,503.0
+2013,RL,Red-legged Partridge,2859.0
+2013,RM,Red-breasted Merganser,40.0
+2013,RN,Northern Raven,1509.0
+2013,RO,Rook,54121.0
+2013,RP,Common Ringed Plover,365.0
+2013,RQ,Red-crested Pochard,22.0
+2013,RT,Common Redstart,1136.0
+2013,RV,Reeves's Pheasant,1.0
+2013,RW,Common Reed Warbler,735.0
+2013,RZ,Ring Ouzel,116.0
+2013,S.,Eurasian Skylark,23709.0
+2013,SA,European Shag,133.0
+2013,SC,European Stonechat,398.0
+2013,SD,Stock Dove,4459.0
+2013,SF,Spotted Flycatcher,268.0
+2013,SG,Common Starling,42423.0
+2013,SH,Eurasian Sparrowhawk,428.0
+2013,SI,Common Swift,9614.0
+2013,SJ,Snow Goose,1.0
+2013,SK,Eurasian Siskin,1908.0
+2013,SL,Barn Swallow,26700.0
+2013,SM,Sand Martin,2009.0
+2013,SN,Common Snipe,827.0
+2013,SP,Greater Scaup,4.0
+2013,SS,Sanderling,13.0
+2013,ST,Song Thrush,12727.0
+2013,SU,Common Shelduck,1896.0
+2013,SW,Sedge Warbler,1354.0
+2013,T.,Eurasian Teal,228.0
+2013,TC,Eurasian Treecreeper,903.0
+2013,TD,European Turtle Dove,82.0
+2013,TE,Sandwich Tern,51.0
+2013,TH,Short-toed Treecreeper,5.0
+2013,TO,Tawny Owl,94.0
+2013,TP,Tree Pipit,709.0
+2013,TS,Eurasian Tree Sparrow,1812.0
+2013,TT,Ruddy Turnstone,74.0
+2013,TU,Tufted Duck,2129.0
+2013,W.,Northern Wheatear,2521.0
+2013,WA,Water Rail,6.0
+2013,WC,Whinchat,356.0
+2013,WH,Common Whitethroat,9974.0
+2013,WK,Eurasian Woodcock,22.0
+2013,WL,Woodlark,28.0
+2013,WO,Wood Warbler,117.0
+2013,WP,Common Wood Pigeon,140732.0
+2013,WR,Eurasian Wren,41460.0
+2013,WT,Willow Tit,62.0
+2013,WW,Willow Warbler,13587.0
+2013,WX,Bohemian Waxwing,36.0
+2013,Y.,Yellowhammer,9196.0
+2013,YW,Western Yellow Wagtail,568.0
+2013,ZF,Domestic Mallard,284.0
+2013,ZL,Domestic Greylag Goose,141.0
+2014,AC,Parasitic Jaeger,16.0
+2014,AE,Arctic Tern,335.0
+2014,AS,Black Swan,3.0
+2014,AY,Lesser Scaup,1.0
+2014,B.,Common Blackbird,67963.0
+2014,BA,Bar-tailed Godwit,37.0
+2014,BC,Eurasian Blackcap,15168.0
+2014,BF,Eurasian Bullfinch,2020.0
+2014,BG,Brant Goose,355.0
+2014,BH,Black-headed Gull,13573.0
+2014,BT,Eurasian Blue Tit,38803.0
+2014,BY,Barnacle Goose,26.0
+2014,BZ,Common Buzzard,4066.0
+2014,C.,Carrion Crow,56033.0
+2014,CA,Great Cormorant,999.0
+2014,CB,Corn Bunting,802.0
+2014,CC,Common Chiffchaff,14990.0
+2014,CD,Eurasian Collared Dove,10672.0
+2014,CG,Canada Goose,7510.0
+2014,CH,Eurasian Chaffinch,53293.0
+2014,CI,Crested Tit,15.0
+2014,CK,Common Cuckoo,1284.0
+2014,CM,Common Gull,2267.0
+2014,CN,Common Tern,407.0
+2014,CO,Eurasian Coot,2323.0
+2014,CR,Red Crossbill,368.0
+2014,CS,Common Sandpiper,228.0
+2014,CT,Coal Tit,4706.0
+2014,CU,Eurasian Curlew,4357.0
+2014,CY,Scottish Crossbill,17.0
+2014,D.,Dunnock,16741.0
+2014,DI,White-throated Dipper,134.0
+2014,DV,Rock Dove,131.0
+2014,DW,Dartford Warbler,47.0
+2014,EB,Red-breasted Goose,1.0
+2014,EG,Egyptian Goose,329.0
+2014,ET,Little Egret,306.0
+2014,F.,Northern Fulmar,165.0
+2014,FD,Ferruginous Duck,3.0
+2014,FP,Feral Pigeon,16075.0
+2014,FR,Common Redpoll,2.0
+2014,FW,Helmeted Guineafowl,115.0
+2014,G.,European Green Woodpecker,2219.0
+2014,GA,Gadwall,205.0
+2014,GB,Great Black-backed Gull,500.0
+2014,GC,Goldcrest,4125.0
+2014,GD,Common Merganser,119.0
+2014,GF,Golden Pheasant,7.0
+2014,GG,Great Crested Grebe,427.0
+2014,GH,Common Grasshopper Warbler,128.0
+2014,GJ,Greylag Goose,4527.0
+2014,GL,Grey Wagtail,597.0
+2014,GO,European Goldfinch,21087.0
+2014,GP,European Golden Plover,1449.0
+2014,GR,European Greenfinch,10459.0
+2014,GS,Great Spotted Woodpecker,4157.0
+2014,GT,Great Tit,22065.0
+2014,GU,Common Murre,117.0
+2014,GV,Grey Plover,2.0
+2014,GW,Garden Warbler,1097.0
+2014,GX,Northern Gannet,144.0
+2014,H.,Grey Heron,1575.0
+2014,HB,Carrion x Hooded Crow,4.0
+2014,HC,Hooded Crow,1235.0
+2014,HD,Bar-headed Goose,1.0
+2014,HG,European Herring Gull,20949.0
+2014,HM,Western House Martin,7507.0
+2014,HS,House Sparrow,47094.0
+2014,IG,Iceland Gull,1.0
+2014,J.,Eurasian Jay,2211.0
+2014,JD,Western Jackdaw,54981.0
+2014,JS,Jack Snipe,2.0
+2014,JZ,Red-tailed Hawk,2.0
+2014,K.,Common Kestrel,878.0
+2014,KF,Common Kingfisher,111.0
+2014,KI,Black-legged Kittiwake,79.0
+2014,L.,Northern Lapwing,6597.0
+2014,LB,Lesser Black-backed Gull,11077.0
+2014,LG,Little Grebe,193.0
+2014,LI,Common Linnet,10814.0
+2014,LO,Little Owl,99.0
+2014,LR,Lesser Redpoll,1000.0
+2014,LS,Lesser Spotted Woodpecker,21.0
+2014,LT,Long-tailed Tit,4541.0
+2014,LU,Little Gull,3.0
+2014,LW,Lesser Whitethroat,694.0
+2014,LX,Little Stint,1.0
+2014,M.,Mistle Thrush,3284.0
+2014,MA,Mallard,14228.0
+2014,MG,Eurasian Magpie,19533.0
+2014,MH,Common Moorhen,2069.0
+2014,MN,Mandarin Duck,179.0
+2014,MP,Meadow Pipit,23718.0
+2014,MS,Mute Swan,2162.0
+2014,MT,Marsh Tit,310.0
+2014,MY,Muscovy Duck,2.0
+2014,N.,Common Nightingale,93.0
+2014,ND,Common Loon,136.0
+2014,NH,Eurasian Nuthatch,2356.0
+2014,NX,Great Skua,82.0
+2014,OC,Eurasian Oystercatcher,3200.0
+2014,OR,White Stork,1.0
+2014,P.,Grey Partridge,517.0
+2014,PF,European Pied Flycatcher,94.0
+2014,PG,Pink-footed Goose,2323.0
+2014,PH,Common Pheasant,17613.0
+2014,PK,Pomarine Jaeger,8.0
+2014,PM,Rock Ptarmigan,5.0
+2014,PU,Atlantic Puffin,1.0
+2014,PW,White Wagtail,4527.0
+2014,PX,Indian Peafowl,219.0
+2014,R.,European Robin,36744.0
+2014,RA,Razorbill,66.0
+2014,RB,Common Reed Bunting,2498.0
+2014,RC,European Rock Pipit,81.0
+2014,RG,Willow Ptarmigan,1749.0
+2014,RI,Rose-ringed Parakeet,1781.0
+2014,RK,Common Redshank,550.0
+2014,RL,Red-legged Partridge,2789.0
+2014,RM,Red-breasted Merganser,54.0
+2014,RN,Northern Raven,1414.0
+2014,RO,Rook,49944.0
+2014,RP,Common Ringed Plover,257.0
+2014,RQ,Red-crested Pochard,27.0
+2014,RT,Common Redstart,1221.0
+2014,RW,Common Reed Warbler,747.0
+2014,RZ,Ring Ouzel,78.0
+2014,S.,Eurasian Skylark,25147.0
+2014,SA,European Shag,140.0
+2014,SC,European Stonechat,642.0
+2014,SD,Stock Dove,4749.0
+2014,SF,Spotted Flycatcher,290.0
+2014,SG,Common Starling,44560.0
+2014,SH,Eurasian Sparrowhawk,409.0
+2014,SI,Common Swift,7965.0
+2014,SK,Eurasian Siskin,1279.0
+2014,SL,Barn Swallow,26632.0
+2014,SM,Sand Martin,2362.0
+2014,SN,Common Snipe,575.0
+2014,SP,Greater Scaup,13.0
+2014,SS,Sanderling,113.0
+2014,ST,Song Thrush,13728.0
+2014,SU,Common Shelduck,1482.0
+2014,SW,Sedge Warbler,1419.0
+2014,T.,Eurasian Teal,132.0
+2014,TC,Eurasian Treecreeper,987.0
+2014,TD,European Turtle Dove,55.0
+2014,TE,Sandwich Tern,59.0
+2014,TH,Short-toed Treecreeper,3.0
+2014,TO,Tawny Owl,162.0
+2014,TP,Tree Pipit,762.0
+2014,TS,Eurasian Tree Sparrow,1814.0
+2014,TT,Ruddy Turnstone,25.0
+2014,TU,Tufted Duck,1628.0
+2014,W.,Northern Wheatear,1737.0
+2014,WA,Water Rail,14.0
+2014,WC,Whinchat,269.0
+2014,WH,Common Whitethroat,11036.0
+2014,WK,Eurasian Woodcock,17.0
+2014,WL,Woodlark,58.0
+2014,WO,Wood Warbler,150.0
+2014,WP,Common Wood Pigeon,131445.0
+2014,WR,Eurasian Wren,54386.0
+2014,WT,Willow Tit,60.0
+2014,WW,Willow Warbler,12464.0
+2014,XB,Unidentified crossbill,23.0
+2014,Y.,Yellowhammer,9472.0
+2014,YW,Western Yellow Wagtail,663.0
+2014,ZF,Domestic Mallard,212.0
+2014,ZL,Domestic Greylag Goose,92.0
+2015,AC,Parasitic Jaeger,4.0
+2015,AE,Arctic Tern,447.0
+2015,AS,Black Swan,4.0
+2015,B.,Common Blackbird,69310.0
+2015,BA,Bar-tailed Godwit,9.0
+2015,BC,Eurasian Blackcap,15904.0
+2015,BF,Eurasian Bullfinch,2045.0
+2015,BG,Brant Goose,236.0
+2015,BH,Black-headed Gull,12838.0
+2015,BT,Eurasian Blue Tit,40908.0
+2015,BY,Barnacle Goose,367.0
+2015,BZ,Common Buzzard,4456.0
+2015,C.,Carrion Crow,57765.0
+2015,CA,Great Cormorant,1100.0
+2015,CB,Corn Bunting,929.0
+2015,CC,Common Chiffchaff,16738.0
+2015,CD,Eurasian Collared Dove,11013.0
+2015,CG,Canada Goose,7971.0
+2015,CH,Eurasian Chaffinch,53802.0
+2015,CI,Crested Tit,16.0
+2015,CK,Common Cuckoo,1207.0
+2015,CM,Common Gull,3285.0
+2015,CN,Common Tern,437.0
+2015,CO,Eurasian Coot,3061.0
+2015,CR,Red Crossbill,449.0
+2015,CS,Common Sandpiper,227.0
+2015,CT,Coal Tit,4802.0
+2015,CU,Eurasian Curlew,3703.0
+2015,CV,Curlew Sandpiper,3.0
+2015,CY,Scottish Crossbill,28.0
+2015,D.,Dunnock,17532.0
+2015,DC,Wood Duck,2.0
+2015,DI,White-throated Dipper,107.0
+2015,DV,Rock Dove,146.0
+2015,DW,Dartford Warbler,77.0
+2015,EG,Egyptian Goose,247.0
+2015,ET,Little Egret,403.0
+2015,F.,Northern Fulmar,126.0
+2015,FP,Feral Pigeon,17383.0
+2015,FW,Helmeted Guineafowl,86.0
+2015,G.,European Green Woodpecker,2608.0
+2015,GA,Gadwall,344.0
+2015,GB,Great Black-backed Gull,543.0
+2015,GC,Goldcrest,4941.0
+2015,GD,Common Merganser,131.0
+2015,GG,Great Crested Grebe,499.0
+2015,GH,Common Grasshopper Warbler,170.0
+2015,GJ,Greylag Goose,4599.0
+2015,GL,Grey Wagtail,556.0
+2015,GO,European Goldfinch,24696.0
+2015,GP,European Golden Plover,2430.0
+2015,GR,European Greenfinch,9736.0
+2015,GS,Great Spotted Woodpecker,4297.0
+2015,GT,Great Tit,24715.0
+2015,GU,Common Murre,3.0
+2015,GW,Garden Warbler,1049.0
+2015,GX,Northern Gannet,218.0
+2015,GZ,Glaucous Gull,1.0
+2015,H.,Grey Heron,1601.0
+2015,HB,Carrion x Hooded Crow,1.0
+2015,HC,Hooded Crow,830.0
+2015,HG,European Herring Gull,22394.0
+2015,HM,Western House Martin,8072.0
+2015,HS,House Sparrow,47810.0
+2015,J.,Eurasian Jay,2542.0
+2015,JD,Western Jackdaw,60000.0
+2015,JZ,Red-tailed Hawk,2.0
+2015,K.,Common Kestrel,1272.0
+2015,KF,Common Kingfisher,97.0
+2015,KI,Black-legged Kittiwake,6.0
+2015,KP,Kentish Plover,1.0
+2015,L.,Northern Lapwing,7104.0
+2015,LA,Lapland Longspur,1.0
+2015,LB,Lesser Black-backed Gull,11917.0
+2015,LG,Little Grebe,225.0
+2015,LI,Common Linnet,13918.0
+2015,LN,Long-tailed Duck,1.0
+2015,LO,Little Owl,87.0
+2015,LR,Lesser Redpoll,924.0
+2015,LS,Lesser Spotted Woodpecker,17.0
+2015,LT,Long-tailed Tit,5647.0
+2015,LU,Little Gull,1.0
+2015,LW,Lesser Whitethroat,684.0
+2015,M.,Mistle Thrush,3387.0
+2015,MA,Mallard,15993.0
+2015,MG,Eurasian Magpie,19844.0
+2015,MH,Common Moorhen,2338.0
+2015,MN,Mandarin Duck,177.0
+2015,MP,Meadow Pipit,22054.0
+2015,MS,Mute Swan,3529.0
+2015,MT,Marsh Tit,319.0
+2015,MY,Muscovy Duck,6.0
+2015,MZ,European Bee-eater,3.0
+2015,N.,Common Nightingale,84.0
+2015,ND,Common Loon,9.0
+2015,NH,Eurasian Nuthatch,2621.0
+2015,NX,Great Skua,76.0
+2015,OC,Eurasian Oystercatcher,3158.0
+2015,P.,Grey Partridge,623.0
+2015,PF,European Pied Flycatcher,125.0
+2015,PG,Pink-footed Goose,346.0
+2015,PH,Common Pheasant,18976.0
+2015,PM,Rock Ptarmigan,4.0
+2015,PW,White Wagtail,4600.0
+2015,PX,Indian Peafowl,180.0
+2015,R.,European Robin,40576.0
+2015,RA,Razorbill,7.0
+2015,RB,Common Reed Bunting,2644.0
+2015,RC,European Rock Pipit,66.0
+2015,RG,Willow Ptarmigan,1677.0
+2015,RI,Rose-ringed Parakeet,1882.0
+2015,RK,Common Redshank,500.0
+2015,RL,Red-legged Partridge,3150.0
+2015,RM,Red-breasted Merganser,52.0
+2015,RN,Northern Raven,1380.0
+2015,RO,Rook,53146.0
+2015,RP,Common Ringed Plover,214.0
+2015,RQ,Red-crested Pochard,40.0
+2015,RT,Common Redstart,1114.0
+2015,RW,Common Reed Warbler,841.0
+2015,RZ,Ring Ouzel,113.0
+2015,S.,Eurasian Skylark,23640.0
+2015,SA,European Shag,95.0
+2015,SC,European Stonechat,617.0
+2015,SD,Stock Dove,5722.0
+2015,SF,Spotted Flycatcher,257.0
+2015,SG,Common Starling,42295.0
+2015,SH,Eurasian Sparrowhawk,523.0
+2015,SI,Common Swift,7699.0
+2015,SK,Eurasian Siskin,2019.0
+2015,SL,Barn Swallow,27484.0
+2015,SM,Sand Martin,2577.0
+2015,SN,Common Snipe,792.0
+2015,SS,Sanderling,106.0
+2015,ST,Song Thrush,14826.0
+2015,SU,Common Shelduck,1883.0
+2015,SW,Sedge Warbler,1306.0
+2015,T.,Eurasian Teal,193.0
+2015,TC,Eurasian Treecreeper,945.0
+2015,TD,European Turtle Dove,41.0
+2015,TE,Sandwich Tern,56.0
+2015,TH,Short-toed Treecreeper,1.0
+2015,TO,Tawny Owl,107.0
+2015,TP,Tree Pipit,638.0
+2015,TS,Eurasian Tree Sparrow,1853.0
+2015,TT,Ruddy Turnstone,93.0
+2015,TU,Tufted Duck,1982.0
+2015,W.,Northern Wheatear,1619.0
+2015,WA,Water Rail,10.0
+2015,WC,Whinchat,255.0
+2015,WH,Common Whitethroat,9405.0
+2015,WK,Eurasian Woodcock,23.0
+2015,WL,Woodlark,56.0
+2015,WO,Wood Warbler,120.0
+2015,WP,Common Wood Pigeon,143410.0
+2015,WR,Eurasian Wren,55857.0
+2015,WT,Willow Tit,72.0
+2015,WW,Willow Warbler,11297.0
+2015,Y.,Yellowhammer,9660.0
+2015,YW,Western Yellow Wagtail,542.0
+2015,ZF,Domestic Mallard,263.0
+2015,ZL,Domestic Greylag Goose,167.0
+2016,AC,Parasitic Jaeger,1.0
+2016,AE,Arctic Tern,361.0
+2016,AS,Black Swan,5.0
+2016,B.,Common Blackbird,70773.0
+2016,BA,Bar-tailed Godwit,6.0
+2016,BC,Eurasian Blackcap,14680.0
+2016,BF,Eurasian Bullfinch,2269.0
+2016,BG,Brant Goose,537.0
+2016,BH,Black-headed Gull,13496.0
+2016,BT,Eurasian Blue Tit,37779.0
+2016,BY,Barnacle Goose,58.0
+2016,BZ,Common Buzzard,4649.0
+2016,C.,Carrion Crow,58941.0
+2016,CA,Great Cormorant,1002.0
+2016,CB,Corn Bunting,957.0
+2016,CC,Common Chiffchaff,18490.0
+2016,CD,Eurasian Collared Dove,10190.0
+2016,CG,Canada Goose,6541.0
+2016,CH,Eurasian Chaffinch,49696.0
+2016,CI,Crested Tit,6.0
+2016,CK,Common Cuckoo,1109.0
+2016,CM,Common Gull,2817.0
+2016,CN,Common Tern,377.0
+2016,CO,Eurasian Coot,2359.0
+2016,CR,Red Crossbill,259.0
+2016,CS,Common Sandpiper,236.0
+2016,CT,Coal Tit,4395.0
+2016,CU,Eurasian Curlew,4155.0
+2016,CV,Curlew Sandpiper,2.0
+2016,CY,Scottish Crossbill,26.0
+2016,D.,Dunnock,18577.0
+2016,DI,White-throated Dipper,126.0
+2016,DV,Rock Dove,174.0
+2016,DW,Dartford Warbler,70.0
+2016,EG,Egyptian Goose,228.0
+2016,ET,Little Egret,370.0
+2016,F.,Northern Fulmar,307.0
+2016,FP,Feral Pigeon,15933.0
+2016,FQ,Common/Lesser Redpoll,3.0
+2016,FW,Helmeted Guineafowl,83.0
+2016,G.,European Green Woodpecker,2583.0
+2016,GA,Gadwall,430.0
+2016,GB,Great Black-backed Gull,523.0
+2016,GC,Goldcrest,5119.0
+2016,GD,Common Merganser,106.0
+2016,GG,Great Crested Grebe,391.0
+2016,GH,Common Grasshopper Warbler,150.0
+2016,GJ,Greylag Goose,4815.0
+2016,GL,Grey Wagtail,553.0
+2016,GO,European Goldfinch,25381.0
+2016,GP,European Golden Plover,1436.0
+2016,GR,European Greenfinch,8997.0
+2016,GS,Great Spotted Woodpecker,3896.0
+2016,GT,Great Tit,22864.0
+2016,GU,Common Murre,116.0
+2016,GV,Grey Plover,29.0
+2016,GW,Garden Warbler,898.0
+2016,GX,Northern Gannet,149.0
+2016,GZ,Glaucous Gull,1.0
+2016,H.,Grey Heron,1608.0
+2016,HB,Carrion x Hooded Crow,3.0
+2016,HC,Hooded Crow,1199.0
+2016,HD,Bar-headed Goose,4.0
+2016,HG,European Herring Gull,22979.0
+2016,HM,Western House Martin,8771.0
+2016,HN,Swan Goose,1.0
+2016,HS,House Sparrow,46034.0
+2016,J.,Eurasian Jay,2231.0
+2016,JD,Western Jackdaw,58109.0
+2016,JS,Jack Snipe,1.0
+2016,JZ,Red-tailed Hawk,2.0
+2016,K.,Common Kestrel,977.0
+2016,KF,Common Kingfisher,95.0
+2016,KI,Black-legged Kittiwake,7.0
+2016,KN,Red Knot,1.0
+2016,L.,Northern Lapwing,6089.0
+2016,LB,Lesser Black-backed Gull,11643.0
+2016,LG,Little Grebe,203.0
+2016,LI,Common Linnet,13344.0
+2016,LO,Little Owl,95.0
+2016,LR,Lesser Redpoll,743.0
+2016,LS,Lesser Spotted Woodpecker,31.0
+2016,LT,Long-tailed Tit,5338.0
+2016,LW,Lesser Whitethroat,745.0
+2016,M.,Mistle Thrush,3475.0
+2016,MA,Mallard,14885.0
+2016,MG,Eurasian Magpie,19355.0
+2016,MH,Common Moorhen,2195.0
+2016,MN,Mandarin Duck,153.0
+2016,MP,Meadow Pipit,20833.0
+2016,MS,Mute Swan,2076.0
+2016,MT,Marsh Tit,244.0
+2016,MX,Manx Shearwater,31.0
+2016,MY,Muscovy Duck,2.0
+2016,N.,Common Nightingale,50.0
+2016,ND,Common Loon,19.0
+2016,NG,Ring-necked Duck,2.0
+2016,NH,Eurasian Nuthatch,2376.0
+2016,NX,Great Skua,10.0
+2016,OC,Eurasian Oystercatcher,2809.0
+2016,P.,Grey Partridge,481.0
+2016,PF,European Pied Flycatcher,132.0
+2016,PG,Pink-footed Goose,520.0
+2016,PH,Common Pheasant,17312.0
+2016,PM,Rock Ptarmigan,14.0
+2016,PW,White Wagtail,4682.0
+2016,PX,Indian Peafowl,147.0
+2016,R.,European Robin,44691.0
+2016,RA,Razorbill,11.0
+2016,RB,Common Reed Bunting,2616.0
+2016,RC,European Rock Pipit,64.0
+2016,RG,Willow Ptarmigan,1478.0
+2016,RI,Rose-ringed Parakeet,2114.0
+2016,RK,Common Redshank,456.0
+2016,RL,Red-legged Partridge,2732.0
+2016,RM,Red-breasted Merganser,27.0
+2016,RN,Northern Raven,1539.0
+2016,RO,Rook,53599.0
+2016,RP,Common Ringed Plover,143.0
+2016,RQ,Red-crested Pochard,17.0
+2016,RT,Common Redstart,1047.0
+2016,RW,Common Reed Warbler,866.0
+2016,RZ,Ring Ouzel,99.0
+2016,S.,Eurasian Skylark,25388.0
+2016,SA,European Shag,81.0
+2016,SC,European Stonechat,837.0
+2016,SD,Stock Dove,5367.0
+2016,SF,Spotted Flycatcher,342.0
+2016,SG,Common Starling,39439.0
+2016,SH,Eurasian Sparrowhawk,424.0
+2016,SI,Common Swift,7822.0
+2016,SK,Eurasian Siskin,1689.0
+2016,SL,Barn Swallow,23823.0
+2016,SM,Sand Martin,2966.0
+2016,SN,Common Snipe,655.0
+2016,SS,Sanderling,38.0
+2016,ST,Song Thrush,16548.0
+2016,SU,Common Shelduck,1981.0
+2016,SW,Sedge Warbler,1516.0
+2016,T.,Eurasian Teal,220.0
+2016,TC,Eurasian Treecreeper,1015.0
+2016,TD,European Turtle Dove,42.0
+2016,TE,Sandwich Tern,54.0
+2016,TH,Short-toed Treecreeper,1.0
+2016,TO,Tawny Owl,128.0
+2016,TP,Tree Pipit,620.0
+2016,TS,Eurasian Tree Sparrow,1836.0
+2016,TT,Ruddy Turnstone,37.0
+2016,TU,Tufted Duck,1986.0
+2016,UR,Purple Heron,1.0
+2016,W.,Northern Wheatear,1409.0
+2016,WA,Water Rail,19.0
+2016,WC,Whinchat,228.0
+2016,WH,Common Whitethroat,9947.0
+2016,WK,Eurasian Woodcock,21.0
+2016,WL,Woodlark,77.0
+2016,WO,Wood Warbler,127.0
+2016,WP,Common Wood Pigeon,144065.0
+2016,WR,Eurasian Wren,63821.0
+2016,WT,Willow Tit,31.0
+2016,WW,Willow Warbler,11743.0
+2016,XB,Unidentified crossbill,19.0
+2016,Y.,Yellowhammer,10086.0
+2016,YW,Western Yellow Wagtail,723.0
+2016,ZF,Domestic Mallard,169.0
+2016,ZL,Domestic Greylag Goose,147.0
+2017,AC,Parasitic Jaeger,10.0
+2017,AE,Arctic Tern,327.0
+2017,AS,Black Swan,3.0
+2017,B.,Common Blackbird,75917.0
+2017,BA,Bar-tailed Godwit,65.0
+2017,BC,Eurasian Blackcap,16584.0
+2017,BF,Eurasian Bullfinch,2684.0
+2017,BG,Brant Goose,348.0
+2017,BH,Black-headed Gull,13992.0
+2017,BJ,Black Tern,7.0
+2017,BT,Eurasian Blue Tit,38080.0
+2017,BY,Barnacle Goose,12.0
+2017,BZ,Common Buzzard,4955.0
+2017,C.,Carrion Crow,60041.0
+2017,CA,Great Cormorant,1180.0
+2017,CB,Corn Bunting,986.0
+2017,CC,Common Chiffchaff,20594.0
+2017,CD,Eurasian Collared Dove,11063.0
+2017,CG,Canada Goose,7194.0
+2017,CH,Eurasian Chaffinch,45182.0
+2017,CI,Crested Tit,11.0
+2017,CK,Common Cuckoo,1130.0
+2017,CM,Common Gull,2877.0
+2017,CN,Common Tern,478.0
+2017,CO,Eurasian Coot,2444.0
+2017,CR,Red Crossbill,283.0
+2017,CS,Common Sandpiper,260.0
+2017,CT,Coal Tit,5032.0
+2017,CU,Eurasian Curlew,4326.0
+2017,CV,Curlew Sandpiper,1.0
+2017,CY,Scottish Crossbill,14.0
+2017,D.,Dunnock,18803.0
+2017,DC,Wood Duck,1.0
+2017,DI,White-throated Dipper,118.0
+2017,DV,Rock Dove,159.0
+2017,DW,Dartford Warbler,48.0
+2017,EG,Egyptian Goose,329.0
+2017,ET,Little Egret,438.0
+2017,F.,Northern Fulmar,222.0
+2017,FP,Feral Pigeon,17054.0
+2017,FW,Helmeted Guineafowl,127.0
+2017,G.,European Green Woodpecker,2423.0
+2017,GA,Gadwall,541.0
+2017,GB,Great Black-backed Gull,687.0
+2017,GC,Goldcrest,6065.0
+2017,GD,Common Merganser,136.0
+2017,GF,Golden Pheasant,1.0
+2017,GG,Great Crested Grebe,479.0
+2017,GH,Common Grasshopper Warbler,223.0
+2017,GJ,Greylag Goose,4950.0
+2017,GL,Grey Wagtail,636.0
+2017,GO,European Goldfinch,29305.0
+2017,GP,European Golden Plover,1532.0
+2017,GR,European Greenfinch,6879.0
+2017,GS,Great Spotted Woodpecker,4252.0
+2017,GT,Great Tit,22119.0
+2017,GU,Common Murre,268.0
+2017,GV,Grey Plover,30.0
+2017,GW,Garden Warbler,1119.0
+2017,GX,Northern Gannet,171.0
+2017,H.,Grey Heron,1579.0
+2017,HB,Carrion x Hooded Crow,2.0
+2017,HC,Hooded Crow,1503.0
+2017,HG,European Herring Gull,23617.0
+2017,HM,Western House Martin,8709.0
+2017,HN,Swan Goose,8.0
+2017,HS,House Sparrow,52296.0
+2017,J.,Eurasian Jay,2272.0
+2017,JD,Western Jackdaw,62064.0
+2017,JS,Jack Snipe,1.0
+2017,JZ,Red-tailed Hawk,4.0
+2017,K.,Common Kestrel,1164.0
+2017,KF,Common Kingfisher,94.0
+2017,KI,Black-legged Kittiwake,169.0
+2017,KN,Red Knot,95.0
+2017,L.,Northern Lapwing,6737.0
+2017,LB,Lesser Black-backed Gull,12529.0
+2017,LG,Little Grebe,200.0
+2017,LI,Common Linnet,13810.0
+2017,LO,Little Owl,71.0
+2017,LR,Lesser Redpoll,1319.0
+2017,LS,Lesser Spotted Woodpecker,20.0
+2017,LT,Long-tailed Tit,5918.0
+2017,LU,Little Gull,9.0
+2017,LW,Lesser Whitethroat,735.0
+2017,LX,Little Stint,2.0
+2017,M.,Mistle Thrush,3676.0
+2017,MA,Mallard,14916.0
+2017,MG,Eurasian Magpie,19950.0
+2017,MH,Common Moorhen,2167.0
+2017,MN,Mandarin Duck,174.0
+2017,MP,Meadow Pipit,22159.0
+2017,MS,Mute Swan,2157.0
+2017,MT,Marsh Tit,287.0
+2017,MX,Manx Shearwater,136.0
+2017,MY,Muscovy Duck,4.0
+2017,N.,Common Nightingale,59.0
+2017,ND,Common Loon,52.0
+2017,NH,Eurasian Nuthatch,2506.0
+2017,NX,Great Skua,34.0
+2017,OC,Eurasian Oystercatcher,3082.0
+2017,P.,Grey Partridge,498.0
+2017,PF,European Pied Flycatcher,122.0
+2017,PG,Pink-footed Goose,1278.0
+2017,PH,Common Pheasant,20125.0
+2017,PM,Rock Ptarmigan,25.0
+2017,PW,White Wagtail,4695.0
+2017,PX,Indian Peafowl,160.0
+2017,R.,European Robin,44798.0
+2017,RA,Razorbill,11.0
+2017,RB,Common Reed Bunting,2951.0
+2017,RC,European Rock Pipit,58.0
+2017,RG,Willow Ptarmigan,1894.0
+2017,RI,Rose-ringed Parakeet,2276.0
+2017,RK,Common Redshank,432.0
+2017,RL,Red-legged Partridge,3435.0
+2017,RM,Red-breasted Merganser,81.0
+2017,RN,Northern Raven,1571.0
+2017,RO,Rook,53927.0
+2017,RP,Common Ringed Plover,344.0
+2017,RQ,Red-crested Pochard,30.0
+2017,RT,Common Redstart,981.0
+2017,RV,Reeves's Pheasant,8.0
+2017,RW,Common Reed Warbler,1079.0
+2017,RZ,Ring Ouzel,107.0
+2017,S.,Eurasian Skylark,25590.0
+2017,SA,European Shag,95.0
+2017,SC,European Stonechat,999.0
+2017,SD,Stock Dove,6089.0
+2017,SF,Spotted Flycatcher,271.0
+2017,SG,Common Starling,42656.0
+2017,SH,Eurasian Sparrowhawk,429.0
+2017,SI,Common Swift,7902.0
+2017,SK,Eurasian Siskin,1687.0
+2017,SL,Barn Swallow,25350.0
+2017,SM,Sand Martin,3480.0
+2017,SN,Common Snipe,801.0
+2017,SP,Greater Scaup,2.0
+2017,SS,Sanderling,167.0
+2017,ST,Song Thrush,17919.0
+2017,SU,Common Shelduck,1715.0
+2017,SW,Sedge Warbler,1687.0
+2017,T.,Eurasian Teal,356.0
+2017,TC,Eurasian Treecreeper,920.0
+2017,TD,European Turtle Dove,64.0
+2017,TE,Sandwich Tern,49.0
+2017,TH,Short-toed Treecreeper,1.0
+2017,TO,Tawny Owl,142.0
+2017,TP,Tree Pipit,638.0
+2017,TS,Eurasian Tree Sparrow,1910.0
+2017,TT,Ruddy Turnstone,54.0
+2017,TU,Tufted Duck,1865.0
+2017,VR,Red-rumped Swallow,1.0
+2017,W.,Northern Wheatear,1499.0
+2017,WA,Water Rail,5.0
+2017,WC,Whinchat,234.0
+2017,WH,Common Whitethroat,9897.0
+2017,WK,Eurasian Woodcock,12.0
+2017,WL,Woodlark,85.0
+2017,WO,Wood Warbler,106.0
+2017,WP,Common Wood Pigeon,145681.0
+2017,WR,Eurasian Wren,64570.0
+2017,WT,Willow Tit,48.0
+2017,WW,Willow Warbler,14237.0
+2017,WX,Bohemian Waxwing,4.0
+2017,XB,Unidentified crossbill,17.0
+2017,Y.,Yellowhammer,9618.0
+2017,YW,Western Yellow Wagtail,647.0
+2017,ZF,Domestic Mallard,228.0
+2017,ZL,Domestic Greylag Goose,163.0
+2018,AC,Parasitic Jaeger,3.0
+2018,AE,Arctic Tern,127.0
+2018,AS,Black Swan,6.0
+2018,B.,Common Blackbird,71159.0
+2018,BA,Bar-tailed Godwit,7.0
+2018,BC,Eurasian Blackcap,17779.0
+2018,BF,Eurasian Bullfinch,2148.0
+2018,BG,Brant Goose,831.0
+2018,BH,Black-headed Gull,14911.0
+2018,BT,Eurasian Blue Tit,42069.0
+2018,BY,Barnacle Goose,66.0
+2018,BZ,Common Buzzard,4853.0
+2018,C.,Carrion Crow,60583.0
+2018,CA,Great Cormorant,926.0
+2018,CB,Corn Bunting,1040.0
+2018,CC,Common Chiffchaff,14263.0
+2018,CD,Eurasian Collared Dove,10244.0
+2018,CG,Canada Goose,6763.0
+2018,CH,Eurasian Chaffinch,43329.0
+2018,CI,Crested Tit,12.0
+2018,CK,Common Cuckoo,1408.0
+2018,CM,Common Gull,2863.0
+2018,CN,Common Tern,309.0
+2018,CO,Eurasian Coot,2168.0
+2018,CR,Red Crossbill,641.0
+2018,CS,Common Sandpiper,272.0
+2018,CT,Coal Tit,5636.0
+2018,CU,Eurasian Curlew,4734.0
+2018,CY,Scottish Crossbill,22.0
+2018,D.,Dunnock,17159.0
+2018,DC,Wood Duck,5.0
+2018,DI,White-throated Dipper,141.0
+2018,DV,Rock Dove,232.0
+2018,DW,Dartford Warbler,46.0
+2018,EG,Egyptian Goose,301.0
+2018,ET,Little Egret,362.0
+2018,F.,Northern Fulmar,209.0
+2018,FP,Feral Pigeon,16761.0
+2018,FQ,Common/Lesser Redpoll,16.0
+2018,FR,Common Redpoll,18.0
+2018,FW,Helmeted Guineafowl,42.0
+2018,G.,European Green Woodpecker,2365.0
+2018,GA,Gadwall,493.0
+2018,GB,Great Black-backed Gull,542.0
+2018,GC,Goldcrest,3542.0
+2018,GD,Common Merganser,123.0
+2018,GF,Golden Pheasant,3.0
+2018,GG,Great Crested Grebe,370.0
+2018,GH,Common Grasshopper Warbler,158.0
+2018,GJ,Greylag Goose,5318.0
+2018,GL,Grey Wagtail,487.0
+2018,GO,European Goldfinch,29975.0
+2018,GP,European Golden Plover,1926.0
+2018,GR,European Greenfinch,6658.0
+2018,GS,Great Spotted Woodpecker,4580.0
+2018,GT,Great Tit,25779.0
+2018,GU,Common Murre,124.0
+2018,GV,Grey Plover,66.0
+2018,GW,Garden Warbler,1025.0
+2018,GX,Northern Gannet,100.0
+2018,H.,Grey Heron,1580.0
+2018,HB,Carrion x Hooded Crow,15.0
+2018,HC,Hooded Crow,1270.0
+2018,HD,Bar-headed Goose,63.0
+2018,HG,European Herring Gull,23254.0
+2018,HM,Western House Martin,7399.0
+2018,HP,Eurasian Hoopoe,1.0
+2018,HS,House Sparrow,52291.0
+2018,J.,Eurasian Jay,2507.0
+2018,JD,Western Jackdaw,61746.0
+2018,JZ,Red-tailed Hawk,4.0
+2018,K.,Common Kestrel,1147.0
+2018,KF,Common Kingfisher,62.0
+2018,KI,Black-legged Kittiwake,338.0
+2018,KN,Red Knot,3.0
+2018,L.,Northern Lapwing,6616.0
+2018,LB,Lesser Black-backed Gull,11942.0
+2018,LG,Little Grebe,238.0
+2018,LI,Common Linnet,13035.0
+2018,LO,Little Owl,91.0
+2018,LR,Lesser Redpoll,980.0
+2018,LS,Lesser Spotted Woodpecker,12.0
+2018,LT,Long-tailed Tit,4655.0
+2018,LW,Lesser Whitethroat,650.0
+2018,M.,Mistle Thrush,3194.0
+2018,MA,Mallard,14041.0
+2018,MG,Eurasian Magpie,19457.0
+2018,MH,Common Moorhen,1821.0
+2018,MN,Mandarin Duck,129.0
+2018,MP,Meadow Pipit,21255.0
+2018,MS,Mute Swan,2004.0
+2018,MT,Marsh Tit,326.0
+2018,MX,Manx Shearwater,56.0
+2018,MY,Muscovy Duck,3.0
+2018,MZ,European Bee-eater,1.0
+2018,N.,Common Nightingale,76.0
+2018,ND,Common Loon,12.0
+2018,NH,Eurasian Nuthatch,3013.0
+2018,NX,Great Skua,63.0
+2018,OC,Eurasian Oystercatcher,3100.0
+2018,OE,Rosy Starling,3.0
+2018,OR,White Stork,1.0
+2018,P.,Grey Partridge,516.0
+2018,PF,European Pied Flycatcher,115.0
+2018,PG,Pink-footed Goose,1302.0
+2018,PH,Common Pheasant,20116.0
+2018,PM,Rock Ptarmigan,43.0
+2018,PN,White-cheeked Pintail,1.0
+2018,PW,White Wagtail,3408.0
+2018,PX,Indian Peafowl,130.0
+2018,R.,European Robin,37959.0
+2018,RA,Razorbill,40.0
+2018,RB,Common Reed Bunting,2425.0
+2018,RC,European Rock Pipit,55.0
+2018,RG,Willow Ptarmigan,2348.0
+2018,RI,Rose-ringed Parakeet,2489.0
+2018,RK,Common Redshank,451.0
+2018,RL,Red-legged Partridge,3232.0
+2018,RM,Red-breasted Merganser,20.0
+2018,RN,Northern Raven,1867.0
+2018,RO,Rook,54057.0
+2018,RP,Common Ringed Plover,198.0
+2018,RQ,Red-crested Pochard,10.0
+2018,RT,Common Redstart,791.0
+2018,RV,Reeves's Pheasant,4.0
+2018,RW,Common Reed Warbler,766.0
+2018,RZ,Ring Ouzel,116.0
+2018,S.,Eurasian Skylark,26331.0
+2018,SA,European Shag,60.0
+2018,SC,European Stonechat,682.0
+2018,SD,Stock Dove,6357.0
+2018,SF,Spotted Flycatcher,230.0
+2018,SG,Common Starling,41235.0
+2018,SH,Eurasian Sparrowhawk,393.0
+2018,SI,Common Swift,6600.0
+2018,SK,Eurasian Siskin,1719.0
+2018,SL,Barn Swallow,20210.0
+2018,SM,Sand Martin,2419.0
+2018,SN,Common Snipe,903.0
+2018,SS,Sanderling,27.0
+2018,ST,Song Thrush,14445.0
+2018,SU,Common Shelduck,1893.0
+2018,SW,Sedge Warbler,1242.0
+2018,T.,Eurasian Teal,231.0
+2018,TC,Eurasian Treecreeper,942.0
+2018,TD,European Turtle Dove,37.0
+2018,TE,Sandwich Tern,41.0
+2018,TH,Short-toed Treecreeper,1.0
+2018,TO,Tawny Owl,133.0
+2018,TP,Tree Pipit,573.0
+2018,TS,Eurasian Tree Sparrow,1855.0
+2018,TT,Ruddy Turnstone,36.0
+2018,TU,Tufted Duck,1694.0
+2018,UD,Ruddy Shelduck,1.0
+2018,VR,Red-rumped Swallow,1.0
+2018,W.,Northern Wheatear,1284.0
+2018,WA,Water Rail,16.0
+2018,WC,Whinchat,242.0
+2018,WH,Common Whitethroat,8189.0
+2018,WK,Eurasian Woodcock,21.0
+2018,WL,Woodlark,48.0
+2018,WO,Wood Warbler,123.0
+2018,WP,Common Wood Pigeon,155181.0
+2018,WR,Eurasian Wren,52691.0
+2018,WT,Willow Tit,48.0
+2018,WW,Willow Warbler,10804.0
+2018,XB,Unidentified crossbill,4.0
+2018,Y.,Yellowhammer,9623.0
+2018,YW,Western Yellow Wagtail,569.0
+2018,ZF,Domestic Mallard,98.0
+2018,ZL,Domestic Greylag Goose,90.0
+2019,AC,Parasitic Jaeger,9.0
+2019,AE,Arctic Tern,171.0
+2019,AS,Black Swan,1.0
+2019,B.,Common Blackbird,68718.0
+2019,BA,Bar-tailed Godwit,13.0
+2019,BC,Eurasian Blackcap,21810.0
+2019,BF,Eurasian Bullfinch,2242.0
+2019,BG,Brant Goose,682.0
+2019,BH,Black-headed Gull,15119.0
+2019,BT,Eurasian Blue Tit,43575.0
+2019,BY,Barnacle Goose,195.0
+2019,BZ,Common Buzzard,4801.0
+2019,C.,Carrion Crow,57973.0
+2019,CA,Great Cormorant,1081.0
+2019,CB,Corn Bunting,1067.0
+2019,CC,Common Chiffchaff,15708.0
+2019,CD,Eurasian Collared Dove,9514.0
+2019,CG,Canada Goose,7001.0
+2019,CH,Eurasian Chaffinch,39549.0
+2019,CI,Crested Tit,13.0
+2019,CK,Common Cuckoo,1331.0
+2019,CM,Common Gull,3462.0
+2019,CN,Common Tern,262.0
+2019,CO,Eurasian Coot,2366.0
+2019,CR,Red Crossbill,416.0
+2019,CS,Common Sandpiper,252.0
+2019,CT,Coal Tit,5929.0
+2019,CU,Eurasian Curlew,4655.0
+2019,CY,Scottish Crossbill,10.0
+2019,D.,Dunnock,16518.0
+2019,DC,Wood Duck,1.0
+2019,DI,White-throated Dipper,127.0
+2019,DR,Spotted Redshank,1.0
+2019,DV,Rock Dove,178.0
+2019,DW,Dartford Warbler,65.0
+2019,EG,Egyptian Goose,297.0
+2019,ET,Little Egret,453.0
+2019,F.,Northern Fulmar,152.0
+2019,FP,Feral Pigeon,17706.0
+2019,FQ,Common/Lesser Redpoll,12.0
+2019,FW,Helmeted Guineafowl,57.0
+2019,G.,European Green Woodpecker,1927.0
+2019,GA,Gadwall,511.0
+2019,GB,Great Black-backed Gull,612.0
+2019,GC,Goldcrest,4472.0
+2019,GD,Common Merganser,129.0
+2019,GF,Golden Pheasant,1.0
+2019,GG,Great Crested Grebe,405.0
+2019,GH,Common Grasshopper Warbler,164.0
+2019,GJ,Greylag Goose,5245.0
+2019,GL,Grey Wagtail,517.0
+2019,GO,European Goldfinch,30755.0
+2019,GP,European Golden Plover,1659.0
+2019,GR,European Greenfinch,5735.0
+2019,GS,Great Spotted Woodpecker,4347.0
+2019,GT,Great Tit,26749.0
+2019,GU,Common Murre,56.0
+2019,GV,Grey Plover,4.0
+2019,GW,Garden Warbler,1140.0
+2019,GX,Northern Gannet,96.0
+2019,H.,Grey Heron,1470.0
+2019,HB,Carrion x Hooded Crow,2.0
+2019,HC,Hooded Crow,1700.0
+2019,HG,European Herring Gull,22244.0
+2019,HM,Western House Martin,7679.0
+2019,HS,House Sparrow,55378.0
+2019,J.,Eurasian Jay,2432.0
+2019,JD,Western Jackdaw,66511.0
+2019,JZ,Red-tailed Hawk,1.0
+2019,K.,Common Kestrel,899.0
+2019,KF,Common Kingfisher,88.0
+2019,KI,Black-legged Kittiwake,121.0
+2019,KN,Red Knot,10.0
+2019,L.,Northern Lapwing,6232.0
+2019,LB,Lesser Black-backed Gull,10754.0
+2019,LG,Little Grebe,231.0
+2019,LI,Common Linnet,11680.0
+2019,LO,Little Owl,61.0
+2019,LR,Lesser Redpoll,881.0
+2019,LS,Lesser Spotted Woodpecker,8.0
+2019,LT,Long-tailed Tit,6157.0
+2019,LW,Lesser Whitethroat,856.0
+2019,M.,Mistle Thrush,3082.0
+2019,MA,Mallard,14052.0
+2019,MG,Eurasian Magpie,19532.0
+2019,MH,Common Moorhen,1980.0
+2019,MN,Mandarin Duck,171.0
+2019,MP,Meadow Pipit,21380.0
+2019,MS,Mute Swan,2073.0
+2019,MT,Marsh Tit,393.0
+2019,MX,Manx Shearwater,6.0
+2019,MY,Muscovy Duck,2.0
+2019,N.,Common Nightingale,84.0
+2019,ND,Common Loon,34.0
+2019,NH,Eurasian Nuthatch,3304.0
+2019,NX,Great Skua,82.0
+2019,OC,Eurasian Oystercatcher,3628.0
+2019,P.,Grey Partridge,506.0
+2019,PF,European Pied Flycatcher,113.0
+2019,PG,Pink-footed Goose,289.0
+2019,PH,Common Pheasant,19190.0
+2019,PM,Rock Ptarmigan,34.0
+2019,PW,White Wagtail,3881.0
+2019,PX,Indian Peafowl,110.0
+2019,R.,European Robin,37732.0
+2019,RA,Razorbill,3.0
+2019,RB,Common Reed Bunting,2614.0
+2019,RC,European Rock Pipit,62.0
+2019,RG,Willow Ptarmigan,1793.0
+2019,RI,Rose-ringed Parakeet,1927.0
+2019,RK,Common Redshank,449.0
+2019,RL,Red-legged Partridge,3622.0
+2019,RM,Red-breasted Merganser,34.0
+2019,RN,Northern Raven,1879.0
+2019,RO,Rook,55112.0
+2019,RP,Common Ringed Plover,112.0
+2019,RQ,Red-crested Pochard,16.0
+2019,RT,Common Redstart,951.0
+2019,RV,Reeves's Pheasant,2.0
+2019,RW,Common Reed Warbler,1019.0
+2019,RZ,Ring Ouzel,116.0
+2019,S.,Eurasian Skylark,27107.0
+2019,SA,European Shag,147.0
+2019,SC,European Stonechat,1148.0
+2019,SD,Stock Dove,5942.0
+2019,SF,Spotted Flycatcher,233.0
+2019,SG,Common Starling,42496.0
+2019,SH,Eurasian Sparrowhawk,377.0
+2019,SI,Common Swift,6649.0
+2019,SK,Eurasian Siskin,1627.0
+2019,SL,Barn Swallow,18440.0
+2019,SM,Sand Martin,2327.0
+2019,SN,Common Snipe,776.0
+2019,SS,Sanderling,55.0
+2019,ST,Song Thrush,14521.0
+2019,SU,Common Shelduck,2155.0
+2019,SW,Sedge Warbler,1450.0
+2019,T.,Eurasian Teal,379.0
+2019,TC,Eurasian Treecreeper,1009.0
+2019,TD,European Turtle Dove,33.0
+2019,TE,Sandwich Tern,63.0
+2019,TH,Short-toed Treecreeper,2.0
+2019,TO,Tawny Owl,129.0
+2019,TP,Tree Pipit,644.0
+2019,TS,Eurasian Tree Sparrow,1776.0
+2019,TT,Ruddy Turnstone,26.0
+2019,TU,Tufted Duck,1658.0
+2019,UD,Ruddy Shelduck,1.0
+2019,W.,Northern Wheatear,1383.0
+2019,WA,Water Rail,11.0
+2019,WC,Whinchat,254.0
+2019,WH,Common Whitethroat,10487.0
+2019,WI,Water Pipit,2.0
+2019,WK,Eurasian Woodcock,20.0
+2019,WL,Woodlark,55.0
+2019,WO,Wood Warbler,92.0
+2019,WP,Common Wood Pigeon,139277.0
+2019,WR,Eurasian Wren,56344.0
+2019,WT,Willow Tit,51.0
+2019,WW,Willow Warbler,13014.0
+2019,WX,Bohemian Waxwing,2.0
+2019,XB,Unidentified crossbill,24.0
+2019,Y.,Yellowhammer,8991.0
+2019,YW,Western Yellow Wagtail,660.0
+2019,ZF,Domestic Mallard,155.0
+2019,ZL,Domestic Greylag Goose,77.0
+2020,AE,Arctic Tern,62.0
+2020,B.,Common Blackbird,23328.0
+2020,BC,Eurasian Blackcap,7610.0
+2020,BF,Eurasian Bullfinch,607.0
+2020,BG,Brant Goose,7.0
+2020,BH,Black-headed Gull,5328.0
+2020,BT,Eurasian Blue Tit,12584.0
+2020,BY,Barnacle Goose,12.0
+2020,BZ,Common Buzzard,1536.0
+2020,C.,Carrion Crow,20099.0
+2020,CA,Great Cormorant,383.0
+2020,CB,Corn Bunting,502.0
+2020,CC,Common Chiffchaff,6035.0
+2020,CD,Eurasian Collared Dove,3354.0
+2020,CG,Canada Goose,2145.0
+2020,CH,Eurasian Chaffinch,11192.0
+2020,CI,Crested Tit,3.0
+2020,CK,Common Cuckoo,417.0
+2020,CM,Common Gull,690.0
+2020,CN,Common Tern,129.0
+2020,CO,Eurasian Coot,657.0
+2020,CR,Red Crossbill,313.0
+2020,CS,Common Sandpiper,68.0
+2020,CT,Coal Tit,1081.0
+2020,CU,Eurasian Curlew,1428.0
+2020,D.,Dunnock,5406.0
+2020,DB,Brent Goose (Dark-bellied - bernicla),30.0
+2020,DI,White-throated Dipper,32.0
+2020,DV,Rock Dove,10.0
+2020,DW,Dartford Warbler,50.0
+2020,EG,Egyptian Goose,117.0
+2020,ET,Little Egret,171.0
+2020,F.,Northern Fulmar,28.0
+2020,FP,Feral Pigeon,5568.0
+2020,FQ,Common/Lesser Redpoll,5.0
+2020,FW,Helmeted Guineafowl,13.0
+2020,G.,European Green Woodpecker,718.0
+2020,GA,Gadwall,193.0
+2020,GB,Great Black-backed Gull,194.0
+2020,GC,Goldcrest,1334.0
+2020,GD,Common Merganser,31.0
+2020,GG,Great Crested Grebe,113.0
+2020,GH,Common Grasshopper Warbler,42.0
+2020,GJ,Greylag Goose,1862.0
+2020,GL,Grey Wagtail,193.0
+2020,GO,European Goldfinch,10832.0
+2020,GP,European Golden Plover,454.0
+2020,GR,European Greenfinch,2169.0
+2020,GS,Great Spotted Woodpecker,1815.0
+2020,GT,Great Tit,5952.0
+2020,GW,Garden Warbler,402.0
+2020,GX,Northern Gannet,35.0
+2020,H.,Grey Heron,502.0
+2020,HB,Carrion x Hooded Crow,2.0
+2020,HC,Hooded Crow,188.0
+2020,HG,European Herring Gull,5844.0
+2020,HM,Western House Martin,2980.0
+2020,HS,House Sparrow,21006.0
+2020,J.,Eurasian Jay,753.0
+2020,JD,Western Jackdaw,26899.0
+2020,JZ,Red-tailed Hawk,1.0
+2020,K.,Common Kestrel,394.0
+2020,KF,Common Kingfisher,23.0
+2020,KI,Black-legged Kittiwake,12.0
+2020,L.,Northern Lapwing,1845.0
+2020,LB,Lesser Black-backed Gull,3596.0
+2020,LG,Little Grebe,97.0
+2020,LI,Common Linnet,3863.0
+2020,LO,Little Owl,27.0
+2020,LR,Lesser Redpoll,198.0
+2020,LS,Lesser Spotted Woodpecker,2.0
+2020,LT,Long-tailed Tit,1579.0
+2020,LW,Lesser Whitethroat,235.0
+2020,LX,Little Stint,1.0
+2020,M.,Mistle Thrush,884.0
+2020,MA,Mallard,4001.0
+2020,MG,Eurasian Magpie,7499.0
+2020,MH,Common Moorhen,734.0
+2020,MN,Mandarin Duck,74.0
+2020,MP,Meadow Pipit,5547.0
+2020,MS,Mute Swan,785.0
+2020,MT,Marsh Tit,120.0
+2020,MX,Manx Shearwater,60.0
+2020,MY,Muscovy Duck,2.0
+2020,N.,Common Nightingale,24.0
+2020,ND,Common Loon,1.0
+2020,NH,Eurasian Nuthatch,824.0
+2020,NX,Great Skua,2.0
+2020,OC,Eurasian Oystercatcher,814.0
+2020,P.,Grey Partridge,143.0
+2020,PF,European Pied Flycatcher,20.0
+2020,PG,Pink-footed Goose,21.0
+2020,PH,Common Pheasant,4863.0
+2020,PW,White Wagtail,1329.0
+2020,PX,Indian Peafowl,41.0
+2020,R.,European Robin,11536.0
+2020,RA,Razorbill,4.0
+2020,RB,Common Reed Bunting,935.0
+2020,RC,European Rock Pipit,26.0
+2020,RG,Willow Ptarmigan,261.0
+2020,RI,Rose-ringed Parakeet,678.0
+2020,RK,Common Redshank,119.0
+2020,RL,Red-legged Partridge,842.0
+2020,RM,Red-breasted Merganser,2.0
+2020,RN,Northern Raven,517.0
+2020,RO,Rook,21836.0
+2020,RP,Common Ringed Plover,24.0
+2020,RQ,Red-crested Pochard,3.0
+2020,RT,Common Redstart,212.0
+2020,RW,Common Reed Warbler,468.0
+2020,RZ,Ring Ouzel,29.0
+2020,S.,Eurasian Skylark,9413.0
+2020,SA,European Shag,17.0
+2020,SC,European Stonechat,435.0
+2020,SD,Stock Dove,2742.0
+2020,SF,Spotted Flycatcher,123.0
+2020,SG,Common Starling,16275.0
+2020,SH,Eurasian Sparrowhawk,127.0
+2020,SI,Common Swift,3089.0
+2020,SK,Eurasian Siskin,443.0
+2020,SL,Barn Swallow,5937.0
+2020,SM,Sand Martin,483.0
+2020,SN,Common Snipe,221.0
+2020,SS,Sanderling,2.0
+2020,ST,Song Thrush,5129.0
+2020,SU,Common Shelduck,313.0
+2020,SW,Sedge Warbler,493.0
+2020,T.,Eurasian Teal,12.0
+2020,TC,Eurasian Treecreeper,288.0
+2020,TD,European Turtle Dove,13.0
+2020,TE,Sandwich Tern,18.0
+2020,TH,Short-toed Treecreeper,4.0
+2020,TO,Tawny Owl,61.0
+2020,TP,Tree Pipit,179.0
+2020,TS,Eurasian Tree Sparrow,467.0
+2020,TT,Ruddy Turnstone,22.0
+2020,TU,Tufted Duck,400.0
+2020,W.,Northern Wheatear,266.0
+2020,WA,Water Rail,1.0
+2020,WC,Whinchat,33.0
+2020,WH,Common Whitethroat,4584.0
+2020,WK,Eurasian Woodcock,3.0
+2020,WL,Woodlark,36.0
+2020,WO,Wood Warbler,35.0
+2020,WP,Common Wood Pigeon,51040.0
+2020,WR,Eurasian Wren,20642.0
+2020,WT,Willow Tit,8.0
+2020,WW,Willow Warbler,2788.0
+2020,Y.,Yellowhammer,3191.0
+2020,YW,Western Yellow Wagtail,255.0
+2020,ZF,Domestic Mallard,31.0
+2020,ZL,Domestic Greylag Goose,18.0
+2021,AB,Sabine's Gull,1.0
+2021,AC,Parasitic Jaeger,4.0
+2021,AE,Arctic Tern,127.0
+2021,B.,Common Blackbird,66954.0
+2021,BA,Bar-tailed Godwit,7.0
+2021,BC,Eurasian Blackcap,19697.0
+2021,BF,Eurasian Bullfinch,1793.0
+2021,BG,Brant Goose,377.0
+2021,BH,Black-headed Gull,13753.0
+2021,BT,Eurasian Blue Tit,38881.0
+2021,BY,Barnacle Goose,176.0
+2021,BZ,Common Buzzard,4465.0
+2021,C.,Carrion Crow,59157.0
+2021,CA,Great Cormorant,1049.0
+2021,CB,Corn Bunting,1124.0
+2021,CC,Common Chiffchaff,18842.0
+2021,CD,Eurasian Collared Dove,8253.0
+2021,CG,Canada Goose,8165.0
+2021,CH,Eurasian Chaffinch,35135.0
+2021,CI,Crested Tit,9.0
+2021,CK,Common Cuckoo,1303.0
+2021,CM,Common Gull,2769.0
+2021,CN,Common Tern,422.0
+2021,CO,Eurasian Coot,1845.0
+2021,CR,Red Crossbill,307.0
+2021,CS,Common Sandpiper,278.0
+2021,CT,Coal Tit,4575.0
+2021,CU,Eurasian Curlew,4057.0
+2021,CY,Scottish Crossbill,18.0
+2021,D.,Dunnock,16795.0
+2021,DB,Brent Goose (Dark-bellied - bernicla),32.0
+2021,DI,White-throated Dipper,107.0
+2021,DU,Blyth's Reed Warbler,1.0
+2021,DV,Rock Dove,132.0
+2021,DW,Dartford Warbler,53.0
+2021,EG,Egyptian Goose,274.0
+2021,ET,Little Egret,377.0
+2021,F.,Northern Fulmar,128.0
+2021,FP,Feral Pigeon,18755.0
+2021,FQ,Common/Lesser Redpoll,21.0
+2021,FR,Common Redpoll,1.0
+2021,FW,Helmeted Guineafowl,91.0
+2021,G.,European Green Woodpecker,2117.0
+2021,GA,Gadwall,462.0
+2021,GB,Great Black-backed Gull,629.0
+2021,GC,Goldcrest,3805.0
+2021,GD,Common Merganser,131.0
+2021,GF,Golden Pheasant,1.0
+2021,GG,Great Crested Grebe,420.0
+2021,GH,Common Grasshopper Warbler,192.0
+2021,GJ,Greylag Goose,5661.0
+2021,GL,Grey Wagtail,537.0
+2021,GO,European Goldfinch,28098.0
+2021,GP,European Golden Plover,1821.0
+2021,GR,European Greenfinch,5424.0
+2021,GS,Great Spotted Woodpecker,4493.0
+2021,GT,Great Tit,21915.0
+2021,GU,Common Murre,25.0
+2021,GV,Grey Plover,9.0
+2021,GW,Garden Warbler,841.0
+2021,GX,Northern Gannet,159.0
+2021,H.,Grey Heron,1453.0
+2021,HB,Carrion x Hooded Crow,6.0
+2021,HC,Hooded Crow,1548.0
+2021,HG,European Herring Gull,23746.0
+2021,HM,Western House Martin,4656.0
+2021,HS,House Sparrow,52503.0
+2021,J.,Eurasian Jay,2209.0
+2021,JD,Western Jackdaw,65732.0
+2021,JS,Jack Snipe,2.0
+2021,JZ,Red-tailed Hawk,1.0
+2021,K.,Common Kestrel,858.0
+2021,KF,Common Kingfisher,72.0
+2021,KI,Black-legged Kittiwake,310.0
+2021,L.,Northern Lapwing,5381.0
+2021,LA,Lapland Longspur,4.0
+2021,LB,Lesser Black-backed Gull,11345.0
+2021,LG,Little Grebe,186.0
+2021,LI,Common Linnet,12690.0
+2021,LO,Little Owl,63.0
+2021,LR,Lesser Redpoll,1040.0
+2021,LS,Lesser Spotted Woodpecker,8.0
+2021,LT,Long-tailed Tit,4542.0
+2021,LU,Little Gull,1.0
+2021,LW,Lesser Whitethroat,571.0
+2021,M.,Mistle Thrush,3134.0
+2021,MA,Mallard,14096.0
+2021,MG,Eurasian Magpie,19641.0
+2021,MH,Common Moorhen,1909.0
+2021,MN,Mandarin Duck,230.0
+2021,MP,Meadow Pipit,22751.0
+2021,MS,Mute Swan,3134.0
+2021,MT,Marsh Tit,242.0
+2021,MX,Manx Shearwater,96.0
+2021,MY,Muscovy Duck,3.0
+2021,N.,Common Nightingale,90.0
+2021,ND,Common Loon,167.0
+2021,NH,Eurasian Nuthatch,2718.0
+2021,NW,White-fronted Goose (Greenland - flavirostris),1.0
+2021,NX,Great Skua,44.0
+2021,OC,Eurasian Oystercatcher,3063.0
+2021,OE,Rosy Starling,1.0
+2021,OR,White Stork,4.0
+2021,P.,Grey Partridge,519.0
+2021,PF,European Pied Flycatcher,87.0
+2021,PG,Pink-footed Goose,1733.0
+2021,PH,Common Pheasant,20402.0
+2021,PM,Rock Ptarmigan,24.0
+2021,PU,Atlantic Puffin,5.0
+2021,PW,White Wagtail,3877.0
+2021,PX,Indian Peafowl,76.0
+2021,R.,European Robin,43167.0
+2021,RA,Razorbill,45.0
+2021,RB,Common Reed Bunting,2264.0
+2021,RC,European Rock Pipit,76.0
+2021,RG,Willow Ptarmigan,1600.0
+2021,RI,Rose-ringed Parakeet,2200.0
+2021,RK,Common Redshank,414.0
+2021,RL,Red-legged Partridge,4222.0
+2021,RM,Red-breasted Merganser,37.0
+2021,RN,Northern Raven,1859.0
+2021,RO,Rook,55740.0
+2021,RP,Common Ringed Plover,140.0
+2021,RQ,Red-crested Pochard,13.0
+2021,RT,Common Redstart,869.0
+2021,RV,Reeves's Pheasant,5.0
+2021,RW,Common Reed Warbler,1076.0
+2021,RZ,Ring Ouzel,132.0
+2021,S.,Eurasian Skylark,28340.0
+2021,SA,European Shag,149.0
+2021,SC,European Stonechat,1215.0
+2021,SD,Stock Dove,6696.0
+2021,SF,Spotted Flycatcher,203.0
+2021,SG,Common Starling,41697.0
+2021,SH,Eurasian Sparrowhawk,382.0
+2021,SI,Common Swift,6415.0
+2021,SK,Eurasian Siskin,2147.0
+2021,SL,Barn Swallow,14905.0
+2021,SM,Sand Martin,2647.0
+2021,SN,Common Snipe,832.0
+2021,SS,Sanderling,112.0
+2021,ST,Song Thrush,16281.0
+2021,SU,Common Shelduck,1843.0
+2021,SW,Sedge Warbler,1306.0
+2021,T.,Eurasian Teal,452.0
+2021,TC,Eurasian Treecreeper,832.0
+2021,TD,European Turtle Dove,22.0
+2021,TE,Sandwich Tern,52.0
+2021,TH,Short-toed Treecreeper,2.0
+2021,TO,Tawny Owl,109.0
+2021,TP,Tree Pipit,598.0
+2021,TS,Eurasian Tree Sparrow,1515.0
+2021,TT,Ruddy Turnstone,85.0
+2021,TU,Tufted Duck,1277.0
+2021,UD,Ruddy Shelduck,1.0
+2021,W.,Northern Wheatear,1655.0
+2021,WA,Water Rail,8.0
+2021,WC,Whinchat,202.0
+2021,WG,Greater White-fronted Goose,1.0
+2021,WH,Common Whitethroat,9303.0
+2021,WK,Eurasian Woodcock,11.0
+2021,WL,Woodlark,81.0
+2021,WO,Wood Warbler,63.0
+2021,WP,Common Wood Pigeon,143023.0
+2021,WR,Eurasian Wren,54018.0
+2021,WT,Willow Tit,27.0
+2021,WW,Willow Warbler,12256.0
+2021,XB,Unidentified crossbill,2.0
+2021,Y.,Yellowhammer,9196.0
+2021,YW,Western Yellow Wagtail,638.0
+2021,ZF,Domestic Mallard,83.0
+2021,ZL,Domestic Greylag Goose,111.0
+2022,AC,Parasitic Jaeger,6.0
+2022,AE,Arctic Tern,129.0
+2022,AS,Black Swan,7.0
+2022,B.,Common Blackbird,63450.0
+2022,BA,Bar-tailed Godwit,8.0
+2022,BC,Eurasian Blackcap,19638.0
+2022,BF,Eurasian Bullfinch,1641.0
+2022,BG,Brant Goose,109.0
+2022,BH,Black-headed Gull,14530.0
+2022,BT,Eurasian Blue Tit,37447.0
+2022,BY,Barnacle Goose,117.0
+2022,BZ,Common Buzzard,4328.0
+2022,C.,Carrion Crow,57096.0
+2022,CA,Great Cormorant,966.0
+2022,CB,Corn Bunting,1098.0
+2022,CC,Common Chiffchaff,21444.0
+2022,CD,Eurasian Collared Dove,8404.0
+2022,CG,Canada Goose,8282.0
+2022,CH,Eurasian Chaffinch,31349.0
+2022,CI,Crested Tit,12.0
+2022,CK,Common Cuckoo,1244.0
+2022,CM,Common Gull,2635.0
+2022,CN,Common Tern,434.0
+2022,CO,Eurasian Coot,1927.0
+2022,CR,Red Crossbill,437.0
+2022,CS,Common Sandpiper,284.0
+2022,CT,Coal Tit,4220.0
+2022,CU,Eurasian Curlew,3910.0
+2022,CY,Scottish Crossbill,9.0
+2022,D.,Dunnock,15942.0
+2022,DI,White-throated Dipper,101.0
+2022,DV,Rock Dove,182.0
+2022,DW,Dartford Warbler,89.0
+2022,EG,Egyptian Goose,451.0
+2022,ET,Little Egret,434.0
+2022,F.,Northern Fulmar,216.0
+2022,FP,Feral Pigeon,19258.0
+2022,FQ,Common/Lesser Redpoll,25.0
+2022,FW,Helmeted Guineafowl,109.0
+2022,G.,European Green Woodpecker,1825.0
+2022,GA,Gadwall,375.0
+2022,GB,Great Black-backed Gull,673.0
+2022,GC,Goldcrest,4242.0
+2022,GD,Common Merganser,177.0
+2022,GF,Golden Pheasant,1.0
+2022,GG,Great Crested Grebe,308.0
+2022,GH,Common Grasshopper Warbler,212.0
+2022,GJ,Greylag Goose,6306.0
+2022,GL,Grey Wagtail,589.0
+2022,GO,European Goldfinch,28320.0
+2022,GP,European Golden Plover,1243.0
+2022,GR,European Greenfinch,5449.0
+2022,GS,Great Spotted Woodpecker,4367.0
+2022,GT,Great Tit,21178.0
+2022,GU,Common Murre,64.0
+2022,GV,Grey Plover,23.0
+2022,GW,Garden Warbler,907.0
+2022,GX,Northern Gannet,93.0
+2022,H.,Grey Heron,1475.0
+2022,HB,Carrion x Hooded Crow,7.0
+2022,HC,Hooded Crow,1249.0
+2022,HG,European Herring Gull,24554.0
+2022,HM,Western House Martin,5022.0
+2022,HS,House Sparrow,48812.0
+2022,J.,Eurasian Jay,2219.0
+2022,JD,Western Jackdaw,63657.0
+2022,JS,Jack Snipe,1.0
+2022,JZ,Red-tailed Hawk,2.0
+2022,K.,Common Kestrel,863.0
+2022,KF,Common Kingfisher,93.0
+2022,KI,Black-legged Kittiwake,519.0
+2022,KN,Red Knot,52.0
+2022,L.,Northern Lapwing,4939.0
+2022,LA,Lapland Longspur,2.0
+2022,LB,Lesser Black-backed Gull,10072.0
+2022,LG,Little Grebe,227.0
+2022,LI,Common Linnet,11432.0
+2022,LN,Long-tailed Duck,50.0
+2022,LO,Little Owl,61.0
+2022,LR,Lesser Redpoll,879.0
+2022,LS,Lesser Spotted Woodpecker,8.0
+2022,LT,Long-tailed Tit,4805.0
+2022,LW,Lesser Whitethroat,597.0
+2022,M.,Mistle Thrush,2816.0
+2022,MA,Mallard,12370.0
+2022,MG,Eurasian Magpie,19450.0
+2022,MH,Common Moorhen,1990.0
+2022,MN,Mandarin Duck,192.0
+2022,MP,Meadow Pipit,21460.0
+2022,MS,Mute Swan,2811.0
+2022,MT,Marsh Tit,262.0
+2022,MX,Manx Shearwater,341.0
+2022,N.,Common Nightingale,95.0
+2022,ND,Common Loon,20.0
+2022,NH,Eurasian Nuthatch,2466.0
+2022,NX,Great Skua,8.0
+2022,OC,Eurasian Oystercatcher,2957.0
+2022,OR,White Stork,5.0
+2022,P.,Grey Partridge,497.0
+2022,PF,European Pied Flycatcher,116.0
+2022,PG,Pink-footed Goose,531.0
+2022,PH,Common Pheasant,16700.0
+2022,PM,Rock Ptarmigan,12.0
+2022,PW,White Wagtail,3974.0
+2022,PX,Indian Peafowl,94.0
+2022,QL,Cockatiel,1.0
+2022,R.,European Robin,40644.0
+2022,RA,Razorbill,15.0
+2022,RB,Common Reed Bunting,2023.0
+2022,RC,European Rock Pipit,80.0
+2022,RG,Willow Ptarmigan,1365.0
+2022,RI,Rose-ringed Parakeet,2352.0
+2022,RK,Common Redshank,367.0
+2022,RL,Red-legged Partridge,3041.0
+2022,RM,Red-breasted Merganser,39.0
+2022,RN,Northern Raven,1731.0
+2022,RO,Rook,50755.0
+2022,RP,Common Ringed Plover,143.0
+2022,RQ,Red-crested Pochard,9.0
+2022,RT,Common Redstart,959.0
+2022,RW,Common Reed Warbler,1001.0
+2022,RZ,Ring Ouzel,84.0
+2022,S.,Eurasian Skylark,27565.0
+2022,SA,European Shag,138.0
+2022,SC,European Stonechat,1642.0
+2022,SD,Stock Dove,6783.0
+2022,SF,Spotted Flycatcher,172.0
+2022,SG,Common Starling,38571.0
+2022,SH,Eurasian Sparrowhawk,370.0
+2022,SI,Common Swift,5054.0
+2022,SK,Eurasian Siskin,1826.0
+2022,SL,Barn Swallow,14976.0
+2022,SM,Sand Martin,2063.0
+2022,SN,Common Snipe,712.0
+2022,SS,Sanderling,77.0
+2022,ST,Song Thrush,16076.0
+2022,SU,Common Shelduck,1739.0
+2022,SW,Sedge Warbler,1189.0
+2022,T.,Eurasian Teal,417.0
+2022,TC,Eurasian Treecreeper,836.0
+2022,TD,European Turtle Dove,16.0
+2022,TE,Sandwich Tern,118.0
+2022,TH,Short-toed Treecreeper,2.0
+2022,TO,Tawny Owl,104.0
+2022,TP,Tree Pipit,638.0
+2022,TS,Eurasian Tree Sparrow,1289.0
+2022,TT,Ruddy Turnstone,72.0
+2022,TU,Tufted Duck,1455.0
+2022,W.,Northern Wheatear,1316.0
+2022,WA,Water Rail,6.0
+2022,WC,Whinchat,233.0
+2022,WH,Common Whitethroat,9296.0
+2022,WK,Eurasian Woodcock,21.0
+2022,WL,Woodlark,93.0
+2022,WO,Wood Warbler,66.0
+2022,WP,Common Wood Pigeon,138756.0
+2022,WR,Eurasian Wren,59031.0
+2022,WT,Willow Tit,12.0
+2022,WW,Willow Warbler,12168.0
+2022,XB,Unidentified crossbill,42.0
+2022,Y.,Yellowhammer,8265.0
+2022,YW,Western Yellow Wagtail,453.0
+2022,ZF,Domestic Mallard,202.0
+2022,ZL,Domestic Greylag Goose,75.0
+2023,AC,Parasitic Jaeger,19.0
+2023,AE,Arctic Tern,67.0
+2023,AS,Black Swan,2.0
+2023,B.,Common Blackbird,62343.0
+2023,BA,Bar-tailed Godwit,18.0
+2023,BC,Eurasian Blackcap,17150.0
+2023,BF,Eurasian Bullfinch,1612.0
+2023,BG,Brant Goose,528.0
+2023,BH,Black-headed Gull,13909.0
+2023,BT,Eurasian Blue Tit,39052.0
+2023,BY,Barnacle Goose,34.0
+2023,BZ,Common Buzzard,4084.0
+2023,C.,Carrion Crow,59508.0
+2023,CA,Great Cormorant,1009.0
+2023,CB,Corn Bunting,1120.0
+2023,CC,Common Chiffchaff,23375.0
+2023,CD,Eurasian Collared Dove,8288.0
+2023,CG,Canada Goose,7308.0
+2023,CH,Eurasian Chaffinch,31345.0
+2023,CI,Crested Tit,12.0
+2023,CK,Common Cuckoo,1255.0
+2023,CM,Common Gull,2982.0
+2023,CN,Common Tern,210.0
+2023,CO,Eurasian Coot,1681.0
+2023,CR,Red Crossbill,653.0
+2023,CS,Common Sandpiper,255.0
+2023,CT,Coal Tit,5050.0
+2023,CU,Eurasian Curlew,3935.0
+2023,CY,Scottish Crossbill,1.0
+2023,D.,Dunnock,15107.0
+2023,DI,White-throated Dipper,99.0
+2023,DR,Spotted Redshank,3.0
+2023,DV,Rock Dove,163.0
+2023,DW,Dartford Warbler,62.0
+2023,EG,Egyptian Goose,435.0
+2023,ET,Little Egret,435.0
+2023,F.,Northern Fulmar,228.0
+2023,FP,Feral Pigeon,20141.0
+2023,FQ,Common/Lesser Redpoll,25.0
+2023,FR,Common Redpoll,2.0
+2023,FW,Helmeted Guineafowl,55.0
+2023,FZ,Zitting Cisticola,1.0
+2023,G.,European Green Woodpecker,1802.0
+2023,GA,Gadwall,480.0
+2023,GB,Great Black-backed Gull,570.0
+2023,GC,Goldcrest,4647.0
+2023,GD,Common Merganser,164.0
+2023,GG,Great Crested Grebe,330.0
+2023,GH,Common Grasshopper Warbler,230.0
+2023,GJ,Greylag Goose,5137.0
+2023,GL,Grey Wagtail,452.0
+2023,GO,European Goldfinch,27776.0
+2023,GP,European Golden Plover,1375.0
+2023,GR,European Greenfinch,5879.0
+2023,GS,Great Spotted Woodpecker,4180.0
+2023,GT,Great Tit,21794.0
+2023,GU,Common Murre,27.0
+2023,GW,Garden Warbler,1028.0
+2023,GX,Northern Gannet,194.0
+2023,GZ,Glaucous Gull,1.0
+2023,H.,Grey Heron,1402.0
+2023,HB,Carrion x Hooded Crow,10.0
+2023,HC,Hooded Crow,1423.0
+2023,HG,European Herring Gull,26527.0
+2023,HM,Western House Martin,5187.0
+2023,HS,House Sparrow,47775.0
+2023,J.,Eurasian Jay,2102.0
+2023,JD,Western Jackdaw,63749.0
+2023,K.,Common Kestrel,1002.0
+2023,KF,Common Kingfisher,59.0
+2023,KI,Black-legged Kittiwake,286.0
+2023,L.,Northern Lapwing,4588.0
+2023,LA,Lapland Longspur,1.0
+2023,LB,Lesser Black-backed Gull,9855.0
+2023,LG,Little Grebe,175.0
+2023,LI,Common Linnet,11987.0
+2023,LM,Lady Amherst's Pheasant,2.0
+2023,LN,Long-tailed Duck,1.0
+2023,LO,Little Owl,41.0
+2023,LR,Lesser Redpoll,845.0
+2023,LS,Lesser Spotted Woodpecker,15.0
+2023,LT,Long-tailed Tit,4924.0
+2023,LW,Lesser Whitethroat,531.0
+2023,M.,Mistle Thrush,2704.0
+2023,MA,Mallard,12838.0
+2023,MG,Eurasian Magpie,19755.0
+2023,MH,Common Moorhen,1779.0
+2023,MN,Mandarin Duck,216.0
+2023,MP,Meadow Pipit,20626.0
+2023,MS,Mute Swan,1847.0
+2023,MT,Marsh Tit,230.0
+2023,MX,Manx Shearwater,175.0
+2023,MY,Muscovy Duck,2.0
+2023,N.,Common Nightingale,107.0
+2023,ND,Common Loon,12.0
+2023,NH,Eurasian Nuthatch,2716.0
+2023,NX,Great Skua,23.0
+2023,OC,Eurasian Oystercatcher,3516.0
+2023,OO,Woodchat Shrike,1.0
+2023,OR,White Stork,17.0
+2023,P.,Grey Partridge,440.0
+2023,PF,European Pied Flycatcher,63.0
+2023,PG,Pink-footed Goose,656.0
+2023,PH,Common Pheasant,14826.0
+2023,PM,Rock Ptarmigan,11.0
+2023,PW,White Wagtail,3577.0
+2023,PX,Indian Peafowl,67.0
+2023,R.,European Robin,41486.0
+2023,RA,Razorbill,17.0
+2023,RB,Common Reed Bunting,2148.0
+2023,RC,European Rock Pipit,97.0
+2023,RG,Willow Ptarmigan,1344.0
+2023,RI,Rose-ringed Parakeet,3251.0
+2023,RK,Common Redshank,428.0
+2023,RL,Red-legged Partridge,1766.0
+2023,RM,Red-breasted Merganser,32.0
+2023,RN,Northern Raven,1986.0
+2023,RO,Rook,50722.0
+2023,RP,Common Ringed Plover,263.0
+2023,RQ,Red-crested Pochard,5.0
+2023,RT,Common Redstart,923.0
+2023,RV,Reeves's Pheasant,3.0
+2023,RW,Common Reed Warbler,1060.0
+2023,RZ,Ring Ouzel,88.0
+2023,S.,Eurasian Skylark,28329.0
+2023,SA,European Shag,263.0
+2023,SC,European Stonechat,1581.0
+2023,SD,Stock Dove,6814.0
+2023,SF,Spotted Flycatcher,246.0
+2023,SG,Common Starling,37975.0
+2023,SH,Eurasian Sparrowhawk,410.0
+2023,SI,Common Swift,4410.0
+2023,SK,Eurasian Siskin,2215.0
+2023,SL,Barn Swallow,17873.0
+2023,SM,Sand Martin,3074.0
+2023,SN,Common Snipe,623.0
+2023,SP,Greater Scaup,1.0
+2023,SS,Sanderling,49.0
+2023,ST,Song Thrush,15655.0
+2023,SU,Common Shelduck,1527.0
+2023,SW,Sedge Warbler,1423.0
+2023,T.,Eurasian Teal,546.0
+2023,TC,Eurasian Treecreeper,958.0
+2023,TD,European Turtle Dove,16.0
+2023,TE,Sandwich Tern,111.0
+2023,TH,Short-toed Treecreeper,4.0
+2023,TO,Tawny Owl,91.0
+2023,TP,Tree Pipit,709.0
+2023,TS,Eurasian Tree Sparrow,1140.0
+2023,TT,Ruddy Turnstone,45.0
+2023,TU,Tufted Duck,1304.0
+2023,W.,Northern Wheatear,1148.0
+2023,WA,Water Rail,10.0
+2023,WC,Whinchat,217.0
+2023,WG,Greater White-fronted Goose,1.0
+2023,WH,Common Whitethroat,8831.0
+2023,WK,Eurasian Woodcock,12.0
+2023,WL,Woodlark,111.0
+2023,WO,Wood Warbler,53.0
+2023,WP,Common Wood Pigeon,142109.0
+2023,WR,Eurasian Wren,58674.0
+2023,WT,Willow Tit,30.0
+2023,WW,Willow Warbler,11638.0
+2023,XB,Unidentified crossbill,30.0
+2023,Y.,Yellowhammer,7493.0
+2023,YW,Western Yellow Wagtail,441.0
+2023,ZF,Domestic Mallard,104.0
+2023,ZL,Domestic Greylag Goose,154.0
